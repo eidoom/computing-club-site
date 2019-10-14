@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ohnohedidnt on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/ohnohedidnt/</link>
+    <description>Recent content in ohnohedidnt on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 14 Oct 2019 13:34:38 +0100</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/ohnohedidnt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SURPRISE - another post!</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/new/</link>
+      <pubDate>Mon, 14 Oct 2019 13:34:38 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/new/</guid>
+      <description>Helllo! Who saw this coming?!?!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,7 +10,7 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -48,4 +48,9 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "sessions"
         name = "Sessions"
+        url = "/sessions"
+
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Random"
         url = "/posts"

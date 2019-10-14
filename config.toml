@@ -20,6 +20,10 @@ paginate = 5
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
+  [params.footer]
+    source = "//github.com/eidoom/computing-club-site"
+    theme = "//themes.gohugo.io/hugo-theme-terminal/"
+
 [languages]
   [languages.en]
     languageName = "English"

@@ -1,0 +1,20 @@
+<footer class="footer">
+  <div class="footer__inner">
+    {{ if $.Site.Copyright }}
+      <div class="copyright copyright--user">
+        <span>{{ $.Site.Copyright | safeHTML }}</span>
+    {{else}}
+      <div class="copyright">
+		<span><a href={{ $.Site.Params.Footer.Source | safeHTML }}>Source</a></span>
+        <span>:: Powered by <a href="//gohugo.io">Hugo</a></span>
+    {{end}}
+	    <span>:: Themed by <a href={{ $.Site.Params.Footer.theme | safeHTML }}>terminal</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="{{ "assets/main.js" | absURL }}"></script>
+<script src="{{ "assets/prism.js" | absURL }}"></script>
+
+<!-- Extended footer section-->
+{{ partial "extended_footer.html" . }}

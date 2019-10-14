@@ -6,10 +6,23 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:41:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 16:55:21 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Static website generation with Hugo</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/</link>
+      <pubDate>Mon, 14 Oct 2019 16:55:21 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/</guid>
+      <description>Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.
+The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
+Here&amp;rsquo;s how you can add your sessions to the site:
+ Speak to me if you don&amp;rsquo;t already have write permissions
+ clone the repo:</description>
+    </item>
     
     <item>
       <title>Galton board code</title>
@@ -119,7 +132,11 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
-      <description>Here&amp;rsquo;s the list of topics.</description>
+      <description> Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
+ Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.
+ Here&amp;rsquo;s the list of topics (TODO: let&amp;rsquo;s move that here).
+ Next meeting: 1300 Monday 21 Oct.
+  </description>
     </item>
     
     <item>

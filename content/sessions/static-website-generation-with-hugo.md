@@ -4,7 +4,7 @@ date = "2019-10-14T16:55:21+01:00"
 author = "Ryan Moodie"
 cover = "img/hugo-logo-wide.svg"
 tags = ["websites"]
-description = ""
+description = "How to add content to this website!"
 showFullContent = false
 type = "posts"
 +++

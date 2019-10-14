@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 14:02:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 16:41:02 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Galton board code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/galton/</link>
+      <pubDate>Mon, 14 Oct 2019 16:41:02 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/galton/</guid>
+      <description>Galton board code The code for the Raspberry Pi Galton board simulation is now on github. It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just send me an email with your github username and I&amp;rsquo;ll add you as a collaborator.</description>
+    </item>
     
     <item>
       <title>Giuseppe vs HUGO</title>

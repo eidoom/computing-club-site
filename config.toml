@@ -55,3 +55,8 @@ disqusShortname = "computing-club"
         identifier = "posts"
         name = "Random"
         url = "/posts"
+
+      [[languages.en.menu.main]]
+        identifier = "list-tags"
+        name = "Browse"
+        url = "/list-tags"

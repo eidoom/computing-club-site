@@ -61,6 +61,11 @@ disqusShortname = "computing-club"
         name = "Browse"
         url = "/list-tags"
 
+      [[languages.en.menu.main]]
+        identifier = "topics"
+        name = "Topics"
+        url = "/topics"
+
 [taxonomies]
 	author = "author"
 	tag = "tags"

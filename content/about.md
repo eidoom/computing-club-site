@@ -1,13 +1,14 @@
 +++
 title = "About"
+date = 2019-10-05
 +++
 
 * Giuseppe's in charge of the mailing list, speak to him if you want to be added.
 
-* Ryan's in charge of the website, speak to him if you want write permissions.
+	* (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body:  subscribe ph-complunchclub)
 
-* Here's the [list of topics](//docs.google.com/document/d/1gUTJtA5GRsIg2AlLWqQbRXNkIDqKqVFFl-aSFoyrj70/edit#heading=h.euyt9vhyneya) (TODO: let's move that here).
+* [Ryan](../author/ryan-moodie/)'s in charge of the [website](//github.com/eidoom/computing-club-site), speak to him if you want write permissions.
 
 * 1300 Mondays, usually OC304 or OC103
 
-* Next meeting: 21 Oct.
+* Next meeting: 21 Oct - topic TBC.

@@ -6,10 +6,19 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:55:21 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Topics</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</guid>
+      <description>Topic ideas New ideas  Cython flask Github submodules R Pytest Continuous integration  Old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
+    </item>
     
     <item>
       <title>Static website generation with Hugo</title>
@@ -129,15 +138,13 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
     <item>
       <title>About</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
-      <description> Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
- Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.
- Here&amp;rsquo;s the list of topics (TODO: let&amp;rsquo;s move that here).
+      <description>Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
+ (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub)  Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.
  1300 Mondays, usually OC304 or OC103
- Next meeting: 21 Oct.
-  </description>
+ Next meeting: 21 Oct - topic TBC.</description>
     </item>
     
     <item>

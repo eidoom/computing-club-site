@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   
-    <title>Static website generation with Hugo :: Computing Club</title>
+    <title>Static website generation with Hugo :: Computing Club — IPPP</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -10,7 +10,7 @@
 The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
 Here&amp;rsquo;s how you can add your sessions to the site:
  Speak to me if you don&amp;rsquo;t already have write permissions
- clone the repo:"/>
+ Clone the repo:"/>
 <meta name="keywords" content=""/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/" />
@@ -20,7 +20,7 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 
 
 
-
+<link rel="stylesheet" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/style.css">
 
 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/apple-touch-icon-144-precomposed.png">
@@ -30,12 +30,12 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Static website generation with Hugo :: Computing Club — " />
+<meta name="twitter:title" content="Static website generation with Hugo :: Computing Club — IPPP" />
 <meta name="twitter:description" content="Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.
 The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
 Here&amp;rsquo;s how you can add your sessions to the site:
  Speak to me if you don&amp;rsquo;t already have write permissions
- clone the repo:" />
+ Clone the repo:" />
 <meta name="twitter:site" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/" />
 <meta name="twitter:creator" content="Ryan Moodie" />
 <meta name="twitter:image" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/hugo-logo-wide.svg">
@@ -43,12 +43,12 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Static website generation with Hugo :: Computing Club — ">
+<meta property="og:title" content="Static website generation with Hugo :: Computing Club — IPPP">
 <meta property="og:description" content="Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.
 The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
 Here&amp;rsquo;s how you can add your sessions to the site:
  Speak to me if you don&amp;rsquo;t already have write permissions
- clone the repo:" />
+ Clone the repo:" />
 <meta property="og:url" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/" />
 <meta property="og:site_name" content="Static website generation with Hugo" />
 <meta property="og:image" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/hugo-logo-wide.svg">
@@ -170,32 +170,37 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 <ul>
 <li><p>Speak to me if you don&rsquo;t already have write permissions</p></li>
 
-<li><p>clone the <a href="https://github.com/eidoom/computing-club-site">repo</a>:</p>
+<li><p>Clone the <a href="https://github.com/eidoom/computing-club-site">repo</a>:</p>
 
 <pre><code class="language-shell">git clone git@github.com:eidoom/computing-club-site.git
 </code></pre></li>
 
-<li><p>navigate to the root directory of the repo locally</p>
+<li><p>Navigate to the root directory of the repo locally</p>
 
 <pre><code class="language-shell">cd computing-club-site
 </code></pre></li>
 
-<li><p>pull the theme by running</p>
+<li><p>Pull the theme by running</p>
 
 <pre><code class="language-shell">git submodule update --init --recursive --remote
 </code></pre></li>
 
-<li><p>make your new session page by running</p>
+<li><p>Run a local Hugo server so you can check out your changes in realtime <a href="//localhost:1313/computing-club/">here</a> with</p>
+
+<pre><code class="language-shell">hugo server
+</code></pre></li>
+
+<li><p>Make your new session page by running</p>
 
 <pre><code class="language-shell">hugo new sessions/NAME.md
 </code></pre></li>
 
-<li><p>edit the metadata within the <code>+++</code>&rsquo;s and write the body of your page in markdown at the bottom of the file</p>
+<li><p>Edit the metadata within the <code>+++</code>&rsquo;s and write the body of your page in markdown at the bottom of the file</p>
 
 <pre><code class="language-shell">vim content/sessions/NAME.md
 </code></pre>
 
-<p>The metadata field <code>cover</code> should point at the cover image for your page. Add the image file to <code>static/img</code> along with any other images (or other media files) you include</p></li>
+<p>The metadata field <code>cover</code> should point at the cover image for your page. Add the image file to <code>static/img</code> along with any other images (or other media files) you include. Note that the path should not include <code>static</code> as the contents of static are put into the root of the compiled website. So for a cover image at <code>static/img/COVER.png</code>, the metadata field <code>cover</code> should be the path <code>&quot;img/COVER.png&quot;</code>.</p></li>
 
 <li><p>stage your changes</p>
 
@@ -244,8 +249,8 @@ git push
     
       <div class="copyright">
 		<span><a href=//github.com/eidoom/computing-club-site>Source</a></span>
-		<span>::<a href='https://www.yumsome.com/wp-content/uploads/2015/05/classic-italian-tomato-sauce-hero.jpg'>Sauce</a></span>
-        <span>:: Powered by <a href="//gohugo.io">Hugo</a></span>
+		<span style="right-margin">::&nbsp<a href='https://www.yumsome.com/wp-content/uploads/2015/05/classic-italian-tomato-sauce-hero.jpg'>Sauce</a>&nbsp</span>
+        <span>:: Powered by <a href="//gohugo.io">Hugo</a>&nbsp</span>
     
 	    <span>:: Themed by <a href=//themes.gohugo.io/hugo-theme-terminal/>terminal</a></span>
       </div>

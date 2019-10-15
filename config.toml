@@ -28,7 +28,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Computing Club"
-    subtitle = ""
+    subtitle = "IPPP"
     keywords = ""
     copyright = ""
     menuMore = "Show more"

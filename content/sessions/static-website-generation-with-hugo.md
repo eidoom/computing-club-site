@@ -19,31 +19,36 @@ Here's how you can add your sessions to the site:
 
 * Speak to me if you don't already have write permissions
 
-* clone the [repo](https://github.com/eidoom/computing-club-site): 
+* Clone the [repo](https://github.com/eidoom/computing-club-site): 
 ```shell
 git clone git@github.com:eidoom/computing-club-site.git
 ```
 
-* navigate to the root directory of the repo locally
+* Navigate to the root directory of the repo locally
 ```shell
 cd computing-club-site
 ```
 
-* pull the theme by running 
+* Pull the theme by running 
 ```shell
 git submodule update --init --recursive --remote
 ```
 
-* make your new session page by running 
+* Run a local Hugo server so you can check out your changes in realtime [here](//localhost:1313/computing-club/) with
+```shell
+hugo server
+```
+
+* Make your new session page by running 
 ```shell
 hugo new sessions/NAME.md
 ```
 
-* edit the metadata within the `+++`'s and write the body of your page in markdown at the bottom of the file
+* Edit the metadata within the `+++`'s and write the body of your page in markdown at the bottom of the file
 ```shell
 vim content/sessions/NAME.md
 ```
-The metadata field `cover` should point at the cover image for your page. Add the image file to `static/img` along with any other images (or other media files) you include
+The metadata field `cover` should point at the cover image for your page. Add the image file to `static/img` along with any other images (or other media files) you include. Note that the path should not include `static` as the contents of static are put into the root of the compiled website. So for a cover image at `static/img/COVER.png`, the metadata field `cover` should be the path `"img/COVER.png"`.
 
 * stage your changes
 	* If you want to push the newly compiled website, first generate the updated static website by running

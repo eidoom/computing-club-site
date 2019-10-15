@@ -3,6 +3,7 @@ publishDir = "public/computing-club"
 languageCode = "en-gb"
 theme = "terminal"
 paginate = 5
+disqusShortname = "computing-club"
 
 [params]
   # dir name of your blog content (default is `content/posts`)

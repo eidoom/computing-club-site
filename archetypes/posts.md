@@ -6,4 +6,5 @@ cover = ""
 tags = ["", ""]
 description = ""
 showFullContent = false
+type = "posts"
 +++

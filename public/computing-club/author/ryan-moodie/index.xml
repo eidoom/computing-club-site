@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Moodie on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</link>
+    <description>Recent content in Ryan Moodie on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 14 Oct 2019 16:55:21 +0100</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Static website generation with Hugo</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/</link>
+      <pubDate>Mon, 14 Oct 2019 16:55:21 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/</guid>
+      <description>Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.
+The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
+Here&amp;rsquo;s how you can add your sessions to the site:
+ Speak to me if you don&amp;rsquo;t already have write permissions
+ Clone the repo:</description>
+    </item>
+    
+    <item>
+      <title>Ode to huel</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ode2huel/</link>
+      <pubDate>Mon, 14 Oct 2019 13:54:21 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ode2huel/</guid>
+      <description>Oh, I do love huel,
+Oh, unsweetened, unflavoured,
+How you spoil me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Post two</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/post_two/</link>
+      <pubDate>Thu, 10 Oct 2019 16:08:56 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/post_two/</guid>
+      <description>Content.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/one/</link>
+      <pubDate>Thu, 10 Oct 2019 15:57:45 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/one/</guid>
+      <description>This is the content.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -60,3 +60,7 @@ disqusShortname = "computing-club"
         identifier = "list-tags"
         name = "Browse"
         url = "/list-tags"
+
+[taxonomies]
+	author = "author"
+	tag = "tags"

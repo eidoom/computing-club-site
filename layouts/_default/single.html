@@ -10,7 +10,7 @@
     {{ end }}
     {{ with .Params.Author }}
     <span class="post-author">::
-      {{ . }}
+		<a href="{{ (urlize (printf "author/%s/" . )) | absLangURL }}">{{ . }}</a>
     </span>
     {{ end }}
   </div>

@@ -7,12 +7,12 @@ date: 2019-10-15
 
 #### New ideas
 
-* Cython
-* flask
-* Github submodules
-* R
-* Pytest
-* Continuous integration
+* [ ]  Cython
+* [ ]  flask
+* [x]  Github submodules
+* [x]  R
+* [ ]  Pytest
+* [ ]  Continuous integration
 
 #### Old ideas
 
@@ -45,6 +45,9 @@ date: 2019-10-15
 
 # Project ideas
 * Hepforge(?)
+* Outreach exhibits
+	* Galton board and simulations
+	* Dark matter exhibit
 
 ## Legacy sessions
 

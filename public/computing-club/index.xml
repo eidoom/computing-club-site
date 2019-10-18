@@ -6,7 +6,7 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Topics</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</guid>
       <description>Topic ideas New ideas Cython flask Github submodules R Pytest Continuous integration  Old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>

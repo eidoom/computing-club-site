@@ -1,7 +1,9 @@
----
-title: "Topics"
-date: 2019-10-15
----
++++
+title = "Topics"
+date = 2019-10-15
+type = "top"
+layout = "topics"
++++
 
 # Topic ideas
 

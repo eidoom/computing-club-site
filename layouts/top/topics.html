@@ -31,8 +31,6 @@
     {{ .Content }}
   </div>
 
-  {{ partial "comments.html" . }}
-
   {{ if or .NextInSection .PrevInSection }}
   <div class="pagination">
     <div class="pagination__title">

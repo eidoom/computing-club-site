@@ -1,6 +1,8 @@
 +++
 title = "About"
 date = 2019-10-05
+type = "top"
+layout = "about"
 +++
 
 * Giuseppe's in charge of the mailing list, speak to him if you want to be added.

@@ -10,7 +10,7 @@ layout = "topics"
 #### New ideas
 
 * [ ]  Cython
-* [ ]  flask
+* [ ]  Flask
 * [x]  Github submodules
 * [x]  R
 * [x]  Pytest
@@ -43,13 +43,13 @@ layout = "topics"
 * Testing frameworks (pytest, unittest, google test?)
 * Compression (gzip, lz4, …)
 * Hashing (crypto & non-crypto)
-* Static web pages
+* [x] Static web pages
 * Structure of big programs
 
 # Project ideas
 * Hepforge(?)
-* Outreach exhibits
-	* Galton board and simulations
+* [Outreach](../tags/outreach) exhibits
+	* [Galton board and simulations](../tags/galton-board)
 	* Dark matter exhibit
 
 ## Legacy sessions

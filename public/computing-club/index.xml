@@ -47,10 +47,10 @@ We are meeting in OC103 at 1pm.</description>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
-      <description> Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
- (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub)  Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.
- Usually 1300 Mondays, OC304 or OC103
-  </description>
+      <description>Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find information about upcoming sessions and write-ups of previous sessions.
+Some details:
+ Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
+ (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub)  Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ We are meeting in OC103 at 1pm.</description>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</guid>
-      <description>Topic ideas New ideas Cython flask Github submodules R Pytest Continuous integration Using git to its full potential  Old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
+      <description>Topic ideas New ideas Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old ideas Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
     </item>
     
     <item>

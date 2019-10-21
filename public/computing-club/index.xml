@@ -6,10 +6,43 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:39:42 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Galton board software 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</link>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</guid>
+      <description>Find the code here.</description>
+    </item>
+    
+    <item>
+      <title>Galton board software</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:08 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</guid>
+      <description>Hi everyone,
+in today&amp;rsquo;s session we are going to very briefly have a look at the repo with the software used for outreach (Galton board).
+Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new 🙂
+We are meeting in OC103 at 1pm.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
+      <description> Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
+ (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub)  Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.
+ Usually 1300 Mondays, OC304 or OC103
+  </description>
+    </item>
     
     <item>
       <title>Topics</title>
@@ -133,18 +166,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/one/</guid>
       <description>This is the content.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</link>
-      <pubDate>Sat, 05 Oct 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
-      <description>Giuseppe&amp;rsquo;s in charge of the mailing list, speak to him if you want to be added.
- (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub)  Ryan&amp;rsquo;s in charge of the website, speak to him if you want write permissions.
- 1300 Mondays, usually OC304 or OC103
- Next meeting: 21 Oct - topic TBC.</description>
     </item>
     
     <item>

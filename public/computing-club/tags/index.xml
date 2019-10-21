@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:55:21 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:39:42 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>galton-board</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</link>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</link>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>websites</title>
@@ -26,24 +44,6 @@
       <pubDate>Mon, 14 Oct 2019 16:41:02 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>galton-board</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</link>
-      <pubDate>Mon, 14 Oct 2019 16:41:02 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outreach</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</link>
-      <pubDate>Mon, 14 Oct 2019 16:41:02 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</guid>
       <description></description>
     </item>
     

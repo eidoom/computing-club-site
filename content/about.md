@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = 2019-10-05
+date = 2019-10-21
 type = "top"
 layout = "about"
 +++
@@ -11,6 +11,4 @@ layout = "about"
 
 * [Ryan](../author/ryan-moodie/)'s in charge of the [website](//github.com/eidoom/computing-club-site), speak to him if you want write permissions.
 
-* 1300 Mondays, usually OC304 or OC103
-
-* Next meeting: 21 Oct - topic TBC.
+* Usually 1300 Mondays, OC304 or OC103

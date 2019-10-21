@@ -6,10 +6,31 @@
     <description>Recent content in outreach on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:41:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:39:42 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Galton board software 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</link>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</guid>
+      <description>Find the code here.</description>
+    </item>
+    
+    <item>
+      <title>Galton board software</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:08 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</guid>
+      <description>Hi everyone,
+in today&amp;rsquo;s session we are going to very briefly have a look at the repo with the software used for outreach (Galton board).
+Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new 🙂
+We are meeting in OC103 at 1pm.</description>
+    </item>
     
     <item>
       <title>Galton board code</title>

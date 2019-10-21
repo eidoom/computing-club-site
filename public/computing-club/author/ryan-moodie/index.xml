@@ -6,10 +6,19 @@
     <description>Recent content in Ryan Moodie on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:55:21 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:39:42 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Galton board software 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</link>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</guid>
+      <description>Find the code here.</description>
+    </item>
     
     <item>
       <title>Static website generation with Hugo</title>
@@ -22,17 +31,6 @@ The best way to install (the latest version of) Hugo can be found here. In short
 Here&amp;rsquo;s how you can add your sessions to the site:
  Speak to me if you don&amp;rsquo;t already have write permissions
  Clone the repo:</description>
-    </item>
-    
-    <item>
-      <title>Ode to huel</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ode2huel/</link>
-      <pubDate>Mon, 14 Oct 2019 13:54:21 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ode2huel/</guid>
-      <description>Oh, I do love huel,
-Oh, unsweetened, unflavoured,
-How you spoil me&amp;hellip;</description>
     </item>
     
     <item>

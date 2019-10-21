@@ -3,23 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
-    <lastmod>2019-10-15T00:00:00+01:00</lastmod>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
+    <lastmod>2019-10-21T12:39:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</loc>
+    <lastmod>2019-10-21T12:36:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/giuseppe-de-laurentis/</loc>
+    <lastmod>2019-10-21T12:36:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</loc>
+    <lastmod>2019-10-21T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</loc>
     <lastmod>2019-10-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/</loc>
-    <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</loc>
-    <lastmod>2019-10-14T16:55:21+01:00</lastmod>
   </url>
   
   <url>
@@ -29,11 +69,6 @@
   
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/</loc>
-    <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
   </url>
   
@@ -53,17 +88,7 @@
   </url>
   
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</loc>
-    <lastmod>2019-10-14T16:41:02+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/james-whitehead/</loc>
-    <lastmod>2019-10-14T16:41:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</loc>
     <lastmod>2019-10-14T16:41:02+01:00</lastmod>
   </url>
   
@@ -99,6 +124,11 @@
   
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ode2huel/</loc>
+    <lastmod>2019-10-14T13:54:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan/</loc>
     <lastmod>2019-10-14T13:54:21+01:00</lastmod>
   </url>
   
@@ -203,11 +233,6 @@
   </url>
   
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan/</loc>
-    <lastmod>2019-10-14T13:53:12+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/post_two/</loc>
     <lastmod>2019-10-10T16:08:56+01:00</lastmod>
   </url>
@@ -230,11 +255,6 @@
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/test/</loc>
     <lastmod>2019-10-10T15:57:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</loc>
-    <lastmod>2019-10-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>

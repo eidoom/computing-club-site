@@ -6,7 +6,7 @@
     <description>Recent content in Author on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:55:21 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 12:39:42 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Ryan Moodie</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</link>
-      <pubDate>Mon, 14 Oct 2019 16:55:21 +0100</pubDate>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giuseppe de Laurentis</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/giuseppe-de-laurentis/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:08 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/giuseppe-de-laurentis/</guid>
       <description></description>
     </item>
     
@@ -35,6 +44,15 @@
       <pubDate>Mon, 14 Oct 2019 14:02:43 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/unknown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan/</link>
+      <pubDate>Mon, 14 Oct 2019 13:54:21 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan/</guid>
       <description></description>
     </item>
     
@@ -80,15 +98,6 @@
       <pubDate>Mon, 14 Oct 2019 13:28:03 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/joey-the-okay-first-of-his-name/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ryan</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan/</link>
-      <pubDate>Mon, 14 Oct 2019 13:53:12 +0200</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan/</guid>
       <description></description>
     </item>
     

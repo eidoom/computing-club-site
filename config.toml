@@ -11,7 +11,7 @@ disqusShortname = "computing-club"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 6
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -65,6 +65,11 @@ disqusShortname = "computing-club"
         identifier = "topics"
         name = "Topics"
         url = "/topics"
+
+      [[languages.en.menu.main]]
+        identifier = "updates"
+        name = "Updates"
+        url = "/updates"
 
 [taxonomies]
 	author = "author"

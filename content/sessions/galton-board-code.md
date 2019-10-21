@@ -2,9 +2,9 @@
 title = "Galton board code"
 date = "2019-10-21T13:25:33+01:00"
 author = "Ryan Moodie"
-cover = ""
+cover = "img/galton-snap.png"
 tags = ["outreach", "galton-board"]
-description = ""
+description = "Ideas for improving the Galton board software"
 showFullContent = false
 type = "posts"
 +++

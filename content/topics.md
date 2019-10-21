@@ -15,6 +15,7 @@ layout = "topics"
 * [x]  R
 * [x]  Pytest
 * [ ]  Continuous integration
+* [ ]  Using `git` to its full potential
 
 #### Old ideas
 

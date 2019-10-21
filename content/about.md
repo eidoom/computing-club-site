@@ -9,7 +9,7 @@ Welcome to the online manifestation of the IPPP Computing Club! Here you'll find
 
 Some details:
 
-* Giuseppe's in charge of the mailing list, speak to him if you want to be added.
+* [Giuseppe](../author/giuseppe-de-laurentis)'s in charge of the mailing list, speak to him if you want to be added.
 
 	* (Does this still work, Giuseppe? To join the mailing list, please send a message to Majordomo@durham.ac.uk with the following text in the message body:  subscribe ph-complunchclub)
 

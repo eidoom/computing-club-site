@@ -1,0 +1,9 @@
+	<h1 class="post-title">
+		{{ .Title | markdownify }}
+	</h1>
+
+	{{ partial "list-submetadata" . }}
+
+	{{ with .Params.Cover }}
+	<img src="{{ . | absURL }}" class="post-cover" />
+	{{ end }}

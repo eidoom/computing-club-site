@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="posts">
+
+	<div style="margin-top: 40px">
+		
+		{{ partial "list-metadata" . }}
+
+		{{ partial "body" . }}
+
+	</div>
+
+	<div class="pagination__title">
+		<span class="pagination__title-h">
+			Read my posts
+		</span>
+		<hr />
+	</div>
+
+	{{ partial "list-posts" . }} 
+
+</div>
+
+{{ end }}

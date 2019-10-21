@@ -13,7 +13,7 @@ layout = "topics"
 * [ ]  flask
 * [x]  Github submodules
 * [x]  R
-* [ ]  Pytest
+* [x]  Pytest
 * [ ]  Continuous integration
 
 #### Old ideas

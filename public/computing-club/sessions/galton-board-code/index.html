@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Galton board code :: Computing Club — IPPP</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?  Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate  Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?"/>
+<meta name="keywords" content=""/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/" />
+
+
+<link rel="stylesheet" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/assets/style.css">
+
+
+
+<link rel="stylesheet" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/style.css">
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/apple-touch-icon-144-precomposed.png">
+
+<link rel="shortcut icon" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/favicon/orange.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Galton board code :: Computing Club — IPPP" />
+<meta name="twitter:description" content="Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?  Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate  Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?" />
+<meta name="twitter:site" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/" />
+<meta name="twitter:creator" content="Ryan Moodie" />
+<meta name="twitter:image" content="">
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Galton board code :: Computing Club — IPPP">
+<meta property="og:description" content="Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?  Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate  Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?" />
+<meta property="og:url" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/" />
+<meta property="og:site_name" content="Galton board code" />
+<meta property="og:image" content="">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2019-10-21 13:25:33 &#43;0100 BST" />
+
+
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/03f8a4d9a3.js" crossorigin="anonymous"></script>
+
+
+</head>
+<body class="">
+
+
+<div class="container center">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/">
+  <div class="logo">
+    Computing Club
+  </div>
+</a>
+
+    </div>
+    <div class="menu-trigger">menu</div>
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/computing-club/about">About</a></li>
+        
+      
+        
+          <li><a href="/computing-club/list-tags">Browse</a></li>
+        
+      
+        
+          <li><a href="/computing-club/posts">Informal</a></li>
+        
+      
+        
+          <li><a href="/computing-club/sessions">Sessions</a></li>
+        
+      
+        
+          <li><a href="/computing-club/topics">Topics</a></li>
+        
+      
+        
+          <li><a href="/computing-club/updates">Updates</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/computing-club/about">About</a></li>
+      
+    
+      
+        <li><a href="/computing-club/list-tags">Browse</a></li>
+      
+    
+      
+        <li><a href="/computing-club/posts">Informal</a></li>
+      
+    
+      
+        <li><a href="/computing-club/sessions">Sessions</a></li>
+      
+    
+      
+        <li><a href="/computing-club/topics">Topics</a></li>
+      
+    
+      
+        <li><a href="/computing-club/updates">Updates</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/">Galton board code</a></h1>
+  <div class="post-meta">
+      
+    <span class="post-date">
+      2019-10-21
+    </span>
+    
+    
+    <span class="post-author">::
+		<a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/">Ryan Moodie</a>
+    </span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/">outreach</a>&nbsp;
+    
+    #<a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/">galton-board</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  <div class="post-content">
+    
+
+<h5 id="ideas-for-improving-the-galton-board-software">Ideas for improving the Galton board software</h5>
+
+<ul>
+<li>Mass of balls</li>
+<li>Size of balls</li>
+<li>Size of pins</li>
+<li>Width of barriers</li>
+<li>Fix lag
+
+<ul>
+<li>Due to N=300?</li>
+</ul></li>
+<li>Deploy on Pis from GitHub repo, automate updates</li>
+<li>Get light gates working</li>
+<li>Somehow show effect of large N
+
+<ul>
+<li>If performance is an issue, pre-calculate</li>
+</ul></li>
+<li>Add option to drip feed balls into simulation</li>
+<li>Check dependencies</li>
+<li>Add sliders to change physical parameters</li>
+<li>Change gravity on the fly? As a vector? Accelerometers in Pis?</li>
+<li>Maybe: allow barriers to be drawn in by hand</li>
+<li>Consider using some more up-to-date libraries? Touch screen interactivity, GUI, physics?</li>
+<li>Make it into a webapp? (not to replace Pi software, to provide in addition)</li>
+</ul>
+
+  </div>
+
+  <div class="pagination__title">
+	<span class="pagination__title-h">comments</span>
+	<hr />
+</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+	(function() {
+		
+		
+		if (window.location.hostname == "localhost")
+			return;
+
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		var disqus_shortname = 'computing-club';
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
+  <div class="pagination">
+    <div class="pagination__title">
+      <span
+        class="pagination__title-h">Read other posts</span>
+      <hr />
+    </div>
+    <div class="pagination__buttons">
+      
+      
+      <span class="button next">
+        <a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/">
+          <span class="button__text">Static website generation with Hugo</span>
+          <span class="button__icon">→</span>
+        </a>
+      </span>
+      
+    </div>
+  </div>
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+	<div class="footer__inner">
+		
+			<div class="copyright">
+				<span><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></span>
+				<span>:: <a href=//github.com/eidoom/computing-club-site>Source</a>&nbsp</span>
+				<span style="right-margin">::&nbsp<a href='https://www.yumsome.com/wp-content/uploads/2015/05/classic-italian-tomato-sauce-hero.jpg'>Sauce</a>&nbsp</span>
+				<span>:: Powered by <a href="//gohugo.io">Hugo</a>&nbsp</span>
+				
+				<span>:: Themed by <a href=//themes.gohugo.io/hugo-theme-terminal/>terminal</a></span>
+			</div>
+		</div>
+</footer>
+
+<script src="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/assets/main.js"></script>
+<script src="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/assets/prism.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

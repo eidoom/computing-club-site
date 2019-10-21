@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matplotlib on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/matplotlib/</link>
+    <description>Recent content in matplotlib on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Galton board code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</link>
+      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</guid>
+      <description>Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?  Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate  Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?</description>
+    </item>
+    
+  </channel>
+</rss>

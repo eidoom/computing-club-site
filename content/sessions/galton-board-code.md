@@ -28,3 +28,8 @@ type = "posts"
 * Maybe: allow barriers to be drawn in by hand
 * Consider using some more up-to-date libraries? Touch screen interactivity, GUI, physics?
 * Make it into a webapp? (not to replace Pi software, to provide in addition)
+
+##### Plan of action 
+
+* I've added the more pedestrian suggestions as [issues on the repo](https://github.com/eidoom/GaltonBoard/issues).
+* We can assign people interested in working on these there.

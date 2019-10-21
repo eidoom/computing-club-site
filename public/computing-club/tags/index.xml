@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 14:43:54 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>games</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/games/</link>
+      <pubDate>Mon, 21 Oct 2019 14:43:54 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</link>
+      <pubDate>Mon, 21 Oct 2019 14:43:54 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>galton-board</title>
@@ -44,15 +62,6 @@
       <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</link>
-      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</guid>
       <description></description>
     </item>
     

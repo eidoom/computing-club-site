@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>games on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/games/</link>
+    <description>Recent content in games on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 21 Oct 2019 14:43:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python game dev</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev/</link>
+      <pubDate>Mon, 21 Oct 2019 14:43:54 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev/</guid>
+      <description>In our next meeting, Andrew is going to take us through a great example of game development in Python.</description>
+    </item>
+    
+  </channel>
+</rss>

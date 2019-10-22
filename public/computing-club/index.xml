@@ -6,10 +6,19 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Oct 2019 14:43:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 15:15:06 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python game dev 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-2/</link>
+      <pubDate>Tue, 22 Oct 2019 15:15:06 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-2/</guid>
+      <description>On Thursday 31st October (room and time TBC) Andrew will show us how to make a Donkey Kong clone in under 100 lines using pygame, the most popular game library for Python.</description>
+    </item>
     
     <item>
       <title>Python game dev</title>

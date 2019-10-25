@@ -6,10 +6,19 @@
     <description>Recent content in Ryan Moodie on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 22 Oct 2019 15:15:06 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 18:00:50 +0100</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python game dev 3</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</link>
+      <pubDate>Fri, 25 Oct 2019 18:00:50 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</guid>
+      <description>Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s Wireframe, a magazine about game development. You can download the issue we&amp;rsquo;ll be using for free as a pdf from their site. The Donkey Kong article is on page 40. They&amp;rsquo;ve published their code on GitHub, too.</description>
+    </item>
     
     <item>
       <title>Python game dev 2</title>

@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 25 Oct 2019 18:00:50 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 19:26:34 +0000</lastBuildDate>
     
 	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>galton-board</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/linux/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nuodyssey</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nuodyssey/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nuodyssey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry-pi</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>games</title>
@@ -30,24 +84,6 @@
     </item>
     
     <item>
-      <title>python</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</link>
-      <pubDate>Fri, 25 Oct 2019 18:00:50 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>galton-board</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</link>
-      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>matplotlib</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/matplotlib/</link>
       <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
@@ -62,24 +98,6 @@
       <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/numpy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outreach</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</link>
-      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>raspberry-pi</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</link>
-      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</guid>
       <description></description>
     </item>
     

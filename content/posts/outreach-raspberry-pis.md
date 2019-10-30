@@ -17,7 +17,7 @@ Four have stands in the horizontal/landscape configuration.
 Yesterday, [Henry](../../author/henry-truong/) and I found that three of these run the [NuOdyssey game](https://ghostsintheuniverse.org/nuodyssey/) locally. 
 (Apparently it was written by somebody called [Sunil](https://xikka.com/about), anybody know that story?)
 You just start the browser which automatically brings up the game as its starting page. 
-The fourth horizontal one (which is physically indistinguishable from the others) runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates. 
+The fourth horizontal one (which is visually distinguishable from the others) runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates. 
 I didn't try using the network feature to control the other Pis from the server (apparently you can start and stop them all from the server, and maybe other things?) but I did find that the recording and graphing of the physical Galton board seemed to work.
 
 The other five are in the vertical/portrait configuration and run the Galton simulation. 

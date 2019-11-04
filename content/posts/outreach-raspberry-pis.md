@@ -10,27 +10,37 @@ type = "posts"
 +++
 
 Today was the first day of Celebrate Science 2019. 
-While taking a break from running our exhibit, I had a look at our Pis. 
+Whilst taking a break from running our exhibit, I had a look at our Pis. 
+
+### Meet the Pis
 
 There are nine in total. 
+
 Four have stands in the horizontal/landscape configuration. 
 Yesterday, [Henry](../../author/henry-truong/) and I found that three of these run the [NuOdyssey game](https://ghostsintheuniverse.org/nuodyssey/) locally. 
-(Apparently it was written by somebody called [Sunil](https://xikka.com/about), anybody know that story?)
+Apparently it was written by somebody called [Sunil](https://xikka.com/about), anybody know that story?
 You just start the browser which automatically brings up the game as its starting page. 
-The fourth horizontal one (which is visually distinguishable from the others) runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates. 
-I didn't try using the network feature to control the other Pis from the server (apparently you can start and stop them all from the server, and maybe other things?) but I did find that the recording and graphing of the physical Galton board seemed to work.
+
+The fourth horizontal one, which is visually distinguishable from the others, runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates. 
+I found that this all worked: it recorded the physical Galton board and graphed the results in realtime.
+The Galton server Pi has also been set up to remotely control the other Pis.
+It has scripts to remotely shutdown, reboot, and start and stop simulations.
+I found that this was not working, though.
 
 The other five are in the vertical/portrait configuration and run the Galton simulation. 
 I had noticed that one of these has nothing installed on it, so I installed the Galton simulation software on it. 
 I decided to record the process here since it would have been *very* useful for such a resource to exist for me to use!
 And also because I'm waiting for a Pi to finish updating itself...
 
-Firstly, the Pis don't seem to be able to connect the university wifi, probably because they don't support the security protocol - maybe something we could fix by installing a new package? 
+### Getting online
+
+Firstly, the Pis don't seem to be able to connect the university wifi, probably because they don't support the security protocol --- maybe something we could fix by installing a new package? 
 You can, however, log into the wifi network `TheCloud@Durham` - although you may have to manually navigate to [//service.thecloud.net](//service.thecloud.net) to complete login - or plug in an ethernet cable.
-Once online, I ran a `sudo apt update && sudo apt upgrade` (then `reboot`) for good measure.
+Once online, I ran a `sudo apt update && sudo apt -y full-upgrade` (then `reboot`) for good measure.
 This took a long time.
-Then I ran `sudo apt dist-upgrade` for even better measure.
-Finally, I ran `sudo apt update && sudo apt install emacs vim` to keep everyone happy.
+Then I ran `sudo apt update && sudo apt install emacs vim` to keep everyone happy.
+
+### Portrait mode
 
 Next, I had to configure the Pi to operate in portrait mode.
 The screen can be rotated by 
@@ -46,6 +56,8 @@ echo "xinput set-prop 'FT5406 memory based driver' 'Coordinate Transformation Ma
 reboot
 ```
 It took me forever to figure that one out!
+
+### Getting the Galton code on the Pi
 
 With all that out of the way, I could move onto installing the Galton software.
 I made a folder for git repos

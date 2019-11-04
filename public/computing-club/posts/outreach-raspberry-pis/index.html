@@ -6,8 +6,9 @@
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="description" content="Today was the first day of Celebrate Science 2019. While taking a break from running our exhibit, I had a look at our Pis.
-There are nine in total. Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. (Apparently it was written by somebody called Sunil, anybody know that story?) You just start the browser which automatically brings up the game as its starting page."/>
+<meta name="description" content="Today was the first day of Celebrate Science 2019. Whilst taking a break from running our exhibit, I had a look at our Pis.
+Meet the Pis There are nine in total.
+Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. Apparently it was written by somebody called Sunil, anybody know that story? You just start the browser which automatically brings up the game as its starting page."/>
 <meta name="keywords" content=""/>
 <meta name="robots" content="noodp"/>
 <link rel="canonical" href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis/" />
@@ -28,8 +29,9 @@ There are nine in total. Four have stands in the horizontal/landscape configurat
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Outreach Raspberry Pis :: Computing Club — IPPP" />
-<meta name="twitter:description" content="Today was the first day of Celebrate Science 2019. While taking a break from running our exhibit, I had a look at our Pis.
-There are nine in total. Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. (Apparently it was written by somebody called Sunil, anybody know that story?) You just start the browser which automatically brings up the game as its starting page." />
+<meta name="twitter:description" content="Today was the first day of Celebrate Science 2019. Whilst taking a break from running our exhibit, I had a look at our Pis.
+Meet the Pis There are nine in total.
+Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. Apparently it was written by somebody called Sunil, anybody know that story? You just start the browser which automatically brings up the game as its starting page." />
 <meta name="twitter:site" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/" />
 <meta name="twitter:creator" content="Ryan Moodie" />
 <meta name="twitter:image" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/galton-pi-install.jpg">
@@ -38,8 +40,9 @@ There are nine in total. Four have stands in the horizontal/landscape configurat
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Outreach Raspberry Pis :: Computing Club — IPPP">
-<meta property="og:description" content="Today was the first day of Celebrate Science 2019. While taking a break from running our exhibit, I had a look at our Pis.
-There are nine in total. Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. (Apparently it was written by somebody called Sunil, anybody know that story?) You just start the browser which automatically brings up the game as its starting page." />
+<meta property="og:description" content="Today was the first day of Celebrate Science 2019. Whilst taking a break from running our exhibit, I had a look at our Pis.
+Meet the Pis There are nine in total.
+Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. Apparently it was written by somebody called Sunil, anybody know that story? You just start the browser which automatically brings up the game as its starting page." />
 <meta property="og:url" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis/" />
 <meta property="og:site_name" content="Outreach Raspberry Pis" />
 <meta property="og:image" content="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/img/galton-pi-install.jpg">
@@ -192,27 +195,37 @@ There are nine in total. Four have stands in the horizontal/landscape configurat
 
 		<div class="post-content">
 		<p>Today was the first day of Celebrate Science 2019.
-While taking a break from running our exhibit, I had a look at our Pis.</p>
+Whilst taking a break from running our exhibit, I had a look at our Pis.</p>
 
-<p>There are nine in total.
-Four have stands in the horizontal/landscape configuration.
+<h3 id="meet-the-pis">Meet the Pis</h3>
+
+<p>There are nine in total.</p>
+
+<p>Four have stands in the horizontal/landscape configuration.
 Yesterday, <a href="../../author/henry-truong/">Henry</a> and I found that three of these run the <a href="https://ghostsintheuniverse.org/nuodyssey/">NuOdyssey game</a> locally.
-(Apparently it was written by somebody called <a href="https://xikka.com/about">Sunil</a>, anybody know that story?)
-You just start the browser which automatically brings up the game as its starting page.
-The fourth horizontal one (which is visually distinguishable from the others) runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates.
-I didn&rsquo;t try using the network feature to control the other Pis from the server (apparently you can start and stop them all from the server, and maybe other things?) but I did find that the recording and graphing of the physical Galton board seemed to work.</p>
+Apparently it was written by somebody called <a href="https://xikka.com/about">Sunil</a>, anybody know that story?
+You just start the browser which automatically brings up the game as its starting page.</p>
+
+<p>The fourth horizontal one, which is visually distinguishable from the others, runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates.
+I found that this all worked: it recorded the physical Galton board and graphed the results in realtime.
+The Galton server Pi has also been set up to remotely control the other Pis.
+It has scripts to remotely shutdown, reboot, and start and stop simulations.
+I found that this was not working, though.</p>
 
 <p>The other five are in the vertical/portrait configuration and run the Galton simulation.
 I had noticed that one of these has nothing installed on it, so I installed the Galton simulation software on it.
 I decided to record the process here since it would have been <em>very</em> useful for such a resource to exist for me to use!
 And also because I&rsquo;m waiting for a Pi to finish updating itself&hellip;</p>
 
-<p>Firstly, the Pis don&rsquo;t seem to be able to connect the university wifi, probably because they don&rsquo;t support the security protocol - maybe something we could fix by installing a new package?
+<h3 id="getting-online">Getting online</h3>
+
+<p>Firstly, the Pis don&rsquo;t seem to be able to connect the university wifi, probably because they don&rsquo;t support the security protocol &mdash; maybe something we could fix by installing a new package?
 You can, however, log into the wifi network <code>TheCloud@Durham</code> - although you may have to manually navigate to <a href="//service.thecloud.net">//service.thecloud.net</a> to complete login - or plug in an ethernet cable.
-Once online, I ran a <code>sudo apt update &amp;&amp; sudo apt upgrade</code> (then <code>reboot</code>) for good measure.
+Once online, I ran a <code>sudo apt update &amp;&amp; sudo apt -y full-upgrade</code> (then <code>reboot</code>) for good measure.
 This took a long time.
-Then I ran <code>sudo apt dist-upgrade</code> for even better measure.
-Finally, I ran <code>sudo apt update &amp;&amp; sudo apt install emacs vim</code> to keep everyone happy.</p>
+Then I ran <code>sudo apt update &amp;&amp; sudo apt install emacs vim</code> to keep everyone happy.</p>
+
+<h3 id="portrait-mode">Portrait mode</h3>
 
 <p>Next, I had to configure the Pi to operate in portrait mode.
 The screen can be rotated by</p>
@@ -230,6 +243,8 @@ reboot
 </code></pre>
 
 <p>It took me forever to figure that one out!</p>
+
+<h3 id="getting-the-galton-code-on-the-pi">Getting the Galton code on the Pi</h3>
 
 <p>With all that out of the way, I could move onto installing the Galton software.
 I made a folder for git repos</p>
@@ -294,6 +309,15 @@ cd GaltonBoard
 			<hr />
 		</div>
 		<div class="pagination__buttons">
+			
+			<span class="button previous">
+				<a href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis-2/">
+					<span class="button__icon">
+						<span class="fas fa-angle-left"></span> &nbsp
+					</span>
+					<span class="button__text">Outreach Raspberry Pis 2</span>
+				</a>
+			</span>
 			
 			
 			<span class="button next">

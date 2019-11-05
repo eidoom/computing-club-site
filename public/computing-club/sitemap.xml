@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</loc>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/</loc>
-    <lastmod>2019-11-04T11:06:02+00:00</lastmod>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
-    <lastmod>2019-11-04T11:06:02+00:00</lastmod>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</loc>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/websites/</loc>
+    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/dynamic-websites-with-the-men-stack/</loc>
+    <lastmod>2019-11-04T11:56:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/giuseppe-de-laurentis/</loc>
+    <lastmod>2019-11-04T11:56:02+00:00</lastmod>
   </url>
   
   <url>
@@ -48,16 +83,6 @@
   </url>
   
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/ryan-moodie/</loc>
-    <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
-    <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis/</loc>
     <lastmod>2019-10-29T19:26:34+00:00</lastmod>
   </url>
@@ -79,11 +104,6 @@
   
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</loc>
-    <lastmod>2019-10-25T18:00:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
     <lastmod>2019-10-25T18:00:50+01:00</lastmod>
   </url>
   
@@ -128,11 +148,6 @@
   </url>
   
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/author/giuseppe-de-laurentis/</loc>
-    <lastmod>2019-10-21T12:36:08+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</loc>
     <lastmod>2019-10-21T00:00:00+01:00</lastmod>
   </url>
@@ -169,11 +184,6 @@
   
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/static-websites/</loc>
-    <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/websites/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
   </url>
   

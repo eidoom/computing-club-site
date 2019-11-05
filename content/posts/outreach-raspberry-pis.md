@@ -46,14 +46,14 @@ Next, I had to configure the Pi to operate in portrait mode.
 The screen can be rotated by 
 ```shell
 echo "echo rotate_display=3 >> /boot/config.txt" | sudo sh
-reboot
+sudo reboot
 ```
 which just appends a screen rotation command to the Pi's boot configuration file under sudo privileges and restarts the Pi.
 The touchscreen, however, remains configured for a landscape configuration.
 To fix this behaviour, I had to persistently adjust the coordinate transformation matrix for the FT5406 touch controller with
 ```shell
 echo "xinput set-prop 'FT5406 memory based driver' 'Coordinate Transformation Matrix' 0 -1 1 1 0 0 0 0 1" >> ~/.xsessionrc
-reboot
+sudo reboot
 ```
 It took me forever to figure that one out!
 

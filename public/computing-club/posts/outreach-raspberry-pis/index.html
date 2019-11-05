@@ -231,7 +231,7 @@ Then I ran <code>sudo apt update &amp;&amp; sudo apt install emacs vim</code> to
 The screen can be rotated by</p>
 
 <pre><code class="language-shell">echo &quot;echo rotate_display=3 &gt;&gt; /boot/config.txt&quot; | sudo sh
-reboot
+sudo reboot
 </code></pre>
 
 <p>which just appends a screen rotation command to the Pi&rsquo;s boot configuration file under sudo privileges and restarts the Pi.
@@ -239,7 +239,7 @@ The touchscreen, however, remains configured for a landscape configuration.
 To fix this behaviour, I had to persistently adjust the coordinate transformation matrix for the FT5406 touch controller with</p>
 
 <pre><code class="language-shell">echo &quot;xinput set-prop 'FT5406 memory based driver' 'Coordinate Transformation Matrix' 0 -1 1 1 0 0 0 0 1&quot; &gt;&gt; ~/.xsessionrc
-reboot
+sudo reboot
 </code></pre>
 
 <p>It took me forever to figure that one out!</p>

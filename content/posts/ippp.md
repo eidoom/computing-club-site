@@ -1,7 +1,7 @@
 +++
 title = "i(pw)^3"
 date = ""
-author = "james the absent"
+authors = ["james the absent"]
 cover = "img/IPPPGroup2017_Cropped.jpg"
 tags = ["ippp", "gooseless", "huelless"]
 description = "group"

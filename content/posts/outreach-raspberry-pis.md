@@ -1,7 +1,7 @@
 +++
 title = "Outreach Raspberry Pis"
 date = "2019-10-29T19:26:34Z"
-author = "Ryan Moodie"
+authors = ["Ryan Moodie"]
 cover = "img/galton-pi-install.jpg"
 tags = ["outreach", "galton-board", "raspberry-pi", "nuodyssey", "python", "linux"]
 description = "Setting up a new Pi for the Galton exhibit"

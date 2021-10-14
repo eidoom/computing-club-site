@@ -1,15 +1,20 @@
 	<div class="post-meta">
-		{{ if .Params.Date }}
+		{{ with .Params.Date }}
 		<span class="post-date">
-			{{ .Date.Format "2006-01-02" }}
+			{{ .Format "2006-01-02" }}
 		</span>
 		{{ end }}
-		{{ if .Params.Author }}
-		{{ with .Params.Author }}
-		<span class="post-author">::
-			<a href="{{ (urlize (printf "author/%s/" . )) | absLangURL }}">{{ . }}</a>
-		</span>
+		{{ if .Params.Authors }}
+			{{ range .Params.Authors }}
+			<span class="post-author">::
+				<a href="{{ (urlize (printf "author/%s/" . )) | absLangURL }}">{{ . }}</a>
+			</span>
+			{{ end }}
 		{{ end }}
+		{{ with .Params.email }}
+		<span class="post-email">
+			<a href="mailto:{{ . }}">{{ . }}</a>
+		</span>
 		{{ end }}
 	</div>
 

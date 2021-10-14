@@ -1,7 +1,7 @@
 +++
 title = "Galton board code"
 date = "2019-10-14T16:41:02+01:00"
-author = "James Whitehead"
+authors = ["James Whitehead"]
 cover = ""
 tags = ["galton-board", "outreach", "development"]
 description = ""

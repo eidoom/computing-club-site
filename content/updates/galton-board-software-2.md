@@ -1,7 +1,7 @@
 +++
 title = "Galton board software 2"
 date = "2019-10-21T12:39:42+01:00"
-author = "Ryan Moodie"
+authors = ["Ryan Moodie"]
 cover = ""
 tags = ["outreach", "galton-board"]
 description = "Where to find it"

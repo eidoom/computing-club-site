@@ -8,15 +8,9 @@
 
 	<div class="pagination__title">
 		<span class="pagination__title-h">
-			follow
+			<a href="{{ .Site.BaseURL }}index.xml">Follow with Atom/RSS</a>
 		</span>
 		<hr>
-	</div>
-	
-	<div class="icon-row">
-		<a href="{{ .Site.BaseURL }}index.xml">
-			<span class="fas fa-rss"></span>
-		</a>
 	</div>
 
 	{{ partial "swipe-section" . }}

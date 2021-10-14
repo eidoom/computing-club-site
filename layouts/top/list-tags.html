@@ -8,12 +8,12 @@
 			Authors
 		</h1>
 
-		{{ with .Site.Taxonomies.author }}
+		{{ with .Site.Taxonomies.authors }}
 
 		<section class="post-meta">
 			{{ range $name, $value := . }}
 			<span class="post-author">
-				<a href="{{ (urlize (printf "author/%s/" $name)) | absLangURL }}">{{ ($name | humanize) | title }}</a>
+				<a href="{{ (urlize (printf "authors/%s/" $name)) | absLangURL }}">{{ ($name | humanize) | title }}</a>
 				<small>({{ .Count }})</small>&nbsp
 			</span>
 			{{ end }}

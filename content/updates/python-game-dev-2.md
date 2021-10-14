@@ -1,7 +1,7 @@
 +++
 title = "Python game dev 2"
 date = "2019-10-22T15:15:06+01:00"
-author = "Ryan Moodie"
+authors = ["Ryan Moodie"]
 cover = ""
 tags = ["games", "python", "pygame"]
 description = "Next session confirmed!"

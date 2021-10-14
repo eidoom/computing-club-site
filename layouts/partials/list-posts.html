@@ -19,11 +19,11 @@
 
 	{{ partial "list-submetadata" . }}
 
+	{{ if .Params.Cover }}
 	<a href="{{ .RelPermalink }}">
-		{{ with .Params.Cover }}
-		<img src="{{ . | absURL }}" class="post-cover" />
-		{{ end }}
+		<img src="{{ .Params.Cover | absURL }}" class="post-cover" alt="{{ .Title | plainify | default " " }}" />
 	</a>
+	{{ end }}
 
 	<div class="post-content">
 		{{ if .Params.showFullContent }}
@@ -39,9 +39,7 @@
 
 	{{ if not .Params.showFullContent }}
 	<div>
-		<a class="read-more button" href="{{.RelPermalink}}">
-			{{ $.Site.Params.ReadMore }} &nbsp <span class="fas fa-angle-right"></span>
-		</a>
+		<a class="read-more button" href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore }} →</a>
 	</div>
 	{{ end }}
 
@@ -50,4 +48,3 @@
 {{ end }}
 
 {{ partial "pagination.html" . }}
-

@@ -1,7 +1,7 @@
 +++
 title = "Outreach is fun!"
 date = "2019-10-14T13:35:18+01:00"
-author = "Lucy (the outreach guru)"
+authors = ["Lucy (the outreach guru)"]
 cover = ""
 tags = ["outreach", "meetings","fun"]
 description = ""

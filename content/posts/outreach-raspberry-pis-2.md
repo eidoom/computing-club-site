@@ -1,7 +1,7 @@
 +++
 title = "Outreach Raspberry Pis 2"
 date = "2019-11-04T11:06:02Z"
-author = "Ryan Moodie"
+authors = ["Ryan Moodie"]
 cover = ""
 tags = ["outreach", "galton-board", "raspberry-pi", "nuodyssey", "linux"]
 description = "Making some changes to the Pis"

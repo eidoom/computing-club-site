@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sessions on Computing Club</title>
@@ -6,18 +6,46 @@
     <description>Recent content in Sessions on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Galton board code</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</link>
       <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</guid>
-      <description>Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?  Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate  Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?</description>
+      <description>Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?   Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate   Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?</description>
+      <content>&lt;h5 id=&#34;ideas-for-improving-the-galton-board-software&#34;&gt;Ideas for improving the Galton board software&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Mass of balls&lt;/li&gt;
+&lt;li&gt;Size of balls&lt;/li&gt;
+&lt;li&gt;Size of pins&lt;/li&gt;
+&lt;li&gt;Width of barriers&lt;/li&gt;
+&lt;li&gt;Fix lag
+&lt;ul&gt;
+&lt;li&gt;Due to N=300?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Deploy on Pis from GitHub repo, automate updates&lt;/li&gt;
+&lt;li&gt;Get light gates working&lt;/li&gt;
+&lt;li&gt;Somehow show effect of large N
+&lt;ul&gt;
+&lt;li&gt;If performance is an issue, pre-calculate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add option to drip feed balls into simulation&lt;/li&gt;
+&lt;li&gt;Check dependencies&lt;/li&gt;
+&lt;li&gt;Add sliders to change physical parameters&lt;/li&gt;
+&lt;li&gt;Change gravity on the fly? As a vector? Accelerometers in Pis?&lt;/li&gt;
+&lt;li&gt;Maybe: allow barriers to be drawn in by hand&lt;/li&gt;
+&lt;li&gt;Consider using some more up-to-date libraries? Touch screen interactivity, GUI, physics?&lt;/li&gt;
+&lt;li&gt;Make it into a webapp? (not to replace Pi software, to provide in addition)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;plan-of-action&#34;&gt;Plan of action&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve added the more pedestrian suggestions as &lt;a href=&#34;https://github.com/eidoom/GaltonBoard/issues&#34;&gt;issues on the repo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We can assign people interested in working on these there.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
     <item>
@@ -29,8 +57,57 @@
       <description>Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.
 The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
 Here&amp;rsquo;s how you can add your sessions to the site:
- Speak to me if you don&amp;rsquo;t already have write permissions
- Clone the repo:</description>
+  Speak to me if you don&amp;rsquo;t already have write permissions
+  Clone the repo:</description>
+      <content>&lt;p&gt;Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.&lt;/p&gt;
+&lt;p&gt;The best way to install (the latest version of) Hugo can be found &lt;a href=&#34;//gohugo.io/getting-started/installing/#binary-cross-platform&#34;&gt;here&lt;/a&gt;. In short, download the latest &lt;a href=&#34;//github.com/gohugoio/hugo/releases&#34;&gt;release&lt;/a&gt; and add the binary to your path.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how you can add your sessions to the site:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Speak to &lt;a href=&#34;../../authors/ryan-moodie&#34;&gt;me&lt;/a&gt; if you don&amp;rsquo;t already have write permissions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clone the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;repo&lt;/a&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Navigate to the root directory of the repo locally&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;cd computing-club-site
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Run a local Hugo server so you can check out your changes in realtime &lt;a href=&#34;//localhost:1313/computing-club/&#34;&gt;here&lt;/a&gt; with&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Make your new session page by running&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo new sessions/NAME.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Edit the metadata within the &lt;code&gt;+++&lt;/code&gt;&amp;rsquo;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim content/sessions/NAME.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The metadata field &lt;code&gt;cover&lt;/code&gt; should point at the cover image for your page. Add the image file to &lt;code&gt;static/img&lt;/code&gt; along with any other images (or other media files) you include. Note that the path should not include &lt;code&gt;static&lt;/code&gt; as the contents of static are put into the root of the compiled website. So for a cover image at &lt;code&gt;static/img/COVER.png&lt;/code&gt;, the metadata field &lt;code&gt;cover&lt;/code&gt; should be the path &lt;code&gt;&amp;quot;img/COVER.png&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stage your changes:&lt;/li&gt;
+&lt;li&gt;If you want to push the newly compiled website, first generate the updated static website by running&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add .
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Or if you want to push your changes to the source without pushing the compiled website, just&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add content/sessions/NAME.md static/img/PHOTO.png
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and any other media files you included&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Then finally push your changes to the remote repo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;MESSAGE&amp;#34;&lt;/span&gt;
+git push
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and you&amp;rsquo;re done!&lt;/p&gt;
+&lt;p&gt;Have a look at the &lt;a href=&#34;//github.com/eidoom/computing-club-site/blob/master/content/sessions/static-website-generation-with-hugo.md&#34;&gt;source for this page&lt;/a&gt; if you like. The &lt;a href=&#34;//gohugo.io/categories/getting-started&#34;&gt;Hugo docs&lt;/a&gt; are also pretty good.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

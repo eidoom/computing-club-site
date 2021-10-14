@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Computing Club</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 05 Nov 2019 11:02:14 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 Nov 2019 11:02:14 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>websites</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/websites/</link>
@@ -18,6 +14,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/websites/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -27,6 +24,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -36,6 +34,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/linux/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -45,6 +44,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nuodyssey/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -54,6 +54,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -63,6 +64,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -72,6 +74,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -81,6 +84,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/games/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -90,6 +94,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/pygame/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -99,6 +104,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/matplotlib/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -108,6 +114,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/numpy/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -117,6 +124,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/git/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -126,6 +134,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/html/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -135,6 +144,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/hugo/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -144,6 +154,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/markdown/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -153,6 +164,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/static-websites/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -162,6 +174,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/development/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -171,6 +184,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/confused/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -180,6 +194,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/delicious/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -189,6 +204,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nutritious/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -198,6 +214,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/geese/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -207,6 +224,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/fun/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -216,6 +234,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/meetings/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -225,6 +244,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/danger/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -234,6 +254,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/warning/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -243,6 +264,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/ohnohedidnt/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -252,6 +274,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/interactive/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -261,6 +284,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/deliciouslynutrisciouslycomplete/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -270,6 +294,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/healthylifestyle/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -279,6 +304,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/tag/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -288,6 +314,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/example/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -297,6 +324,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/test/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -306,6 +334,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gooseless/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -315,6 +344,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/huelless/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -324,6 +354,7 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/ippp/</guid>
       <description></description>
+      <content></content>
     </item>
     
   </channel>

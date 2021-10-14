@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Computing Club</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Updates on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 05 Nov 2019 11:02:14 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 Nov 2019 11:02:14 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A new home for computing club</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</link>
@@ -18,6 +14,10 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</guid>
       <description>Yesterday Joey showed us the new dynamic website he has built from scratch for us. Further information and posts will be found there. Here&amp;rsquo;s the link.</description>
+      <content>&lt;p&gt;Yesterday Joey showed us the new dynamic website he has built from scratch for us.
+Further information and posts will be found there.
+Here&amp;rsquo;s the &lt;a href=&#34;http://shrieking-asylum-67258.herokuapp.com/&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -30,6 +30,13 @@
 today&amp;rsquo;s computing club will be in OC103 at 1pm.
 Abstract by Joey:
 IPPPlog is a blog intended for use by the computing club, to update people on any fun side projects you may be doing, as well as propose topics etc. This website is dynamic, using a MEN stack (MongoDB database, ExpressJS framework, written with NodeJS). I will go through the general way it all works and some specifics if people have questions.</description>
+      <content>&lt;p&gt;Hi all!&lt;/p&gt;
+&lt;p&gt;today&amp;rsquo;s computing club will be in OC103 at 1pm.&lt;/p&gt;
+&lt;p&gt;Abstract by Joey:&lt;/p&gt;
+&lt;p&gt;IPPPlog is a blog intended for use by the computing club, to update people on any fun side projects you may be doing, as well as propose topics etc. This website is dynamic, using a MEN stack (MongoDB database, ExpressJS framework, written with NodeJS). I will go through the general way it all works and some specifics if people have questions. This should be a easier system than the Hugo one as one just creates an account like they would on Facebook rather than being a git collaborator. Hugo is fantastic for quickly making static websites but cannot really compete in the realm of dynamic content (such as blogs).&lt;/p&gt;
+&lt;p&gt;See you later,&lt;/p&gt;
+&lt;p&gt;Giuseppe&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -39,6 +46,11 @@ IPPPlog is a blog intended for use by the computing club, to update people on an
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</guid>
       <description>Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s Wireframe, a magazine about game development. You can download the issue we&amp;rsquo;ll be using for free as a pdf from their site. The Donkey Kong article is on page 40. They&amp;rsquo;ve published their code on GitHub, too.</description>
+      <content>&lt;p&gt;Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s &lt;a href=&#34;https://wireframe.raspberrypi.org/&#34;&gt;Wireframe&lt;/a&gt;, a magazine about game development.
+You can download the issue we&amp;rsquo;ll be using for free as a pdf from their &lt;a href=&#34;https://wireframe.raspberrypi.org/issues/24&#34;&gt;site&lt;/a&gt;.
+The Donkey Kong article is on page 40.
+They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wireframe-Magazine/Wireframe-24&#34;&gt;GitHub&lt;/a&gt;, too.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -48,6 +60,8 @@ IPPPlog is a blog intended for use by the computing club, to update people on an
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-2/</guid>
       <description>On Thursday 31st October (room and time TBC) Andrew will show us how to make a Donkey Kong clone in under 100 lines using pygame, the most popular game library for Python.</description>
+      <content>&lt;p&gt;On Thursday 31st October (room and time TBC) &lt;a href=&#34;../../author/andrew-blance&#34;&gt;Andrew&lt;/a&gt; will show us how to make a Donkey Kong clone in under 100 lines using &lt;a href=&#34;https://www.pygame.org/wiki/about&#34;&gt;pygame&lt;/a&gt;, the most popular game library for Python.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -57,6 +71,8 @@ IPPPlog is a blog intended for use by the computing club, to update people on an
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev/</guid>
       <description>In our next meeting, Andrew is going to take us through a great example of game development in Python.</description>
+      <content>&lt;p&gt;In our next meeting, &lt;a href=&#34;../../author/andrew-blance&#34;&gt;Andrew&lt;/a&gt; is going to take us through a great example of game development in Python.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -66,6 +82,8 @@ IPPPlog is a blog intended for use by the computing club, to update people on an
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</guid>
       <description>Find the code here.</description>
+      <content>&lt;p&gt;Find the code &lt;a href=&#34;https://github.com/eidoom/GaltonBoard&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -76,8 +94,16 @@ IPPPlog is a blog intended for use by the computing club, to update people on an
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</guid>
       <description>Hi everyone,
 in today&amp;rsquo;s session we are going to very briefly have a look at the repo with the software used for outreach (Galton board).
-Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new 
+Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)
 We are meeting in OC103 at 1pm.</description>
+      <content>&lt;p&gt;Hi everyone,&lt;/p&gt;
+&lt;p&gt;in today&amp;rsquo;s session we are going to &lt;em&gt;very briefly&lt;/em&gt; have a look at the repo with the software used for outreach (Galton board).&lt;/p&gt;
+&lt;p&gt;Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along!
+We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)&lt;/p&gt;
+&lt;p&gt;We are meeting in OC103 at 1pm.&lt;/p&gt;
+&lt;p&gt;See you later,&lt;/p&gt;
+&lt;p&gt;Giuseppe&lt;/p&gt;
+</content>
     </item>
     
   </channel>

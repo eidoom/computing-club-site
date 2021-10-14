@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Computing Club</title>
@@ -6,11 +6,7 @@
     <description>Recent content in development on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:41:02 +0100</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 14 Oct 2019 16:41:02 +0100</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Galton board code</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/galton/</link>
@@ -18,6 +14,8 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/galton/</guid>
       <description>The code for the Raspberry Pi Galton board simulation is now on github. It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just send me an email with your github username and I&amp;rsquo;ll add you as a collaborator.</description>
+      <content>&lt;p&gt;The code for the Raspberry Pi Galton board simulation is now on github.  It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just &lt;a href=&#34;mailto:james.c.whitehead@durham.ac.uk&#34;&gt;send me an email&lt;/a&gt; with your github username and I&amp;rsquo;ll add you as a collaborator.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

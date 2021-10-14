@@ -1,7 +1,7 @@
 +++
 title = "Galton board code"
 date = "2019-10-21T13:25:33+01:00"
-author = "Ryan Moodie"
+authors = ["Ryan Moodie"]
 cover = "img/galton-snap.png"
 tags = ["outreach", "galton-board", "python", "raspberry-pi", "matplotlib", "numpy"]
 description = "Ideas for improving the Galton board software"

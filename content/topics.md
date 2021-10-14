@@ -10,12 +10,12 @@ layout = "topics"
 #### New ideas
 
 * [ ]  Cython
-* [ ]  Flask
+* [x]  Flask
 * [x]  Github submodules
 * [x]  R
 * [x]  Pytest
-* [ ]  Continuous integration
-* [ ]  Using `git` to its full potential
+* [x]  Continuous integration
+* [x]  Using `git` to its full potential
 
 #### Old ideas
 

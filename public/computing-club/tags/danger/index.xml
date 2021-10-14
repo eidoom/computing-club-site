@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>danger on Computing Club</title>
@@ -6,11 +6,7 @@
     <description>Recent content in danger on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 13:35:12 +0100</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/danger/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 14 Oct 2019 13:35:12 +0100</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/danger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple juice</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/apple_juice/</link>
@@ -19,6 +15,9 @@
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/apple_juice/</guid>
       <description>A message from sun magic:
 Beware aliens found in certain apple juice bottles located in the durham area</description>
+      <content>&lt;p&gt;A message from sun magic:&lt;/p&gt;
+&lt;p&gt;Beware aliens found in certain apple juice bottles located in the durham area&lt;/p&gt;
+</content>
     </item>
     
   </channel>

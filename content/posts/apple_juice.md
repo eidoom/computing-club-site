@@ -1,7 +1,7 @@
 +++
 title = "Apple juice"
 date = "2019-10-14T13:35:12+01:00"
-author = "Parisa"
+authors = ["Parisa"]
 cover = "img/juice.jpg"
 tags = ["warning", "danger"]
 description = ""

@@ -5,6 +5,9 @@ theme = "terminal"
 paginate = 5
 disqusShortname = "computing-club"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   # contentTypeName = "posts"
@@ -72,5 +75,5 @@ disqusShortname = "computing-club"
         url = "/updates"
 
 [taxonomies]
-	author = "author"
+	author = "authors"
 	tag = "tags"

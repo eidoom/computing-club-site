@@ -1,7 +1,7 @@
 +++
 title = "Dynamic websites with the MEN stack"
 date = "2019-11-04T11:56:02Z"
-author = "Giuseppe De Laurentis"
+authors = ["Giuseppe De Laurentis"]
 cover = ""
 tags = ["websites"]
 description = "Joey unveils his new dynamic website for Computing Club!"

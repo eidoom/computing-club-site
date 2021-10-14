@@ -1,7 +1,7 @@
 +++
 title = "Ode to huel"
 date = "2019-10-14T13:54:21+01:00"
-author = "Ryan"
+authors = ["Ryan"]
 cover = "img/huelhuel.png"
 tags = ["delicious", "nutritious"]
 description = "Huel: A Haiku"

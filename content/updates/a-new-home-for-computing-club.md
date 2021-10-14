@@ -1,8 +1,8 @@
 +++
 title = "A new home for computing club"
 date = "2019-11-05T11:02:14Z"
-author = "Ryan Moodie"
-cover = ""
+authors = ["Ryan Moodie"]
+cover = "img/sailing-into-the-west.jpeg"
 tags = ["websites"]
 description = "Here's the [link](http://shrieking-asylum-67258.herokuapp.com/)"
 showFullContent = false

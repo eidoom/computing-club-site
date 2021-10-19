@@ -1,6 +1,7 @@
 ---
 title: "Ryan Moodie"
 email: "ryan.i.moodie@durham.ac.uk"
+website: "https://eidoom.github.io"
 ---
 
-Hello. Check out my [landing page](https://eidoom.github.io/).
+Hello.

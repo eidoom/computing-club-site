@@ -9,4 +9,4 @@ showFullContent = false
 type = "posts"
 +++
 
-In our next meeting, [Andrew](../../author/andrew-blance) is going to take us through a great example of game development in Python.
+In our next meeting, [Andrew]({{< ref "andrew-blance" >}}) is going to take us through a great example of game development in Python.

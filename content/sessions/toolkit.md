@@ -17,3 +17,5 @@ In this session I discuss the basic toolkits everyone should know
  * vim basics
 
 For further reading, I suggest https://missing.csail.mit.edu/
+
+[slides](../../img/yu-toolkit.pdf)

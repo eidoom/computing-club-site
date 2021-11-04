@@ -29,6 +29,130 @@ slides</description>
     </item>
     
     <item>
+      <title>Covering the basics</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics/</guid>
+      <description>Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.
+Yannick will be giving an introduction to the efficient computing environment, briefly covering basic shell usage and then focussing on the use of Git for version control of software.
+The slides etc can be found in Yannick&amp;rsquo;s repository which will be live by tomorrow, and the session will also involve hands-on work involving the computing club website.</description>
+      <content>&lt;p&gt;Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/&#34;&gt;Yannick&lt;/a&gt; will be giving an introduction to the efficient computing
+environment, briefly covering basic shell usage and then focussing on
+the use of Git for version control of software.&lt;/p&gt;
+&lt;p&gt;The slides etc can be found in &lt;a href=&#34;https://gitlab.com/yannickulrich/computing-toolkit&#34;&gt;Yannick&amp;rsquo;s repository&lt;/a&gt;
+which will be live by tomorrow, and the session will also involve
+hands-on work involving &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&#34;&gt;the computing club website&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Inaugural Computing Club 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/reboot/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/reboot/</guid>
+      <description>A quick summary of our first meeting.
+Over the next few weeks, we&amp;rsquo;ll cover the following topics:
+ computing environment basics (Yannick - next week)  shell git   Python package management (Ryan) C++ introduction (Ryan) Continuous integration and deployment (Hitham)  On the format, most sessions will loosely involve someone (or a group) presenting some prepared (but informal) content over around half an hour, with remaining time for discussion and where possible hands-on playing with code.</description>
+      <content>&lt;p&gt;A quick summary of our first meeting.&lt;/p&gt;
+&lt;p&gt;Over the next few weeks, we&amp;rsquo;ll cover the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;computing environment basics (Yannick - next week)
+&lt;ul&gt;
+&lt;li&gt;shell&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python package management (Ryan)&lt;/li&gt;
+&lt;li&gt;C++ introduction (Ryan)&lt;/li&gt;
+&lt;li&gt;Continuous integration and deployment (Hitham)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the format, most sessions will loosely involve someone (or a group)
+presenting some prepared (but informal) content over around half an
+hour, with remaining time for discussion and where possible hands-on
+playing with code.&lt;/p&gt;
+&lt;p&gt;We have the two websites&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&#34;&gt;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shrieking-asylum-67258.herokuapp.com/&#34;&gt;https://shrieking-asylum-67258.herokuapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;which can both be used according to preference to record links or
+information about previous sessions and for pedagogy.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s interest in doing some project work.&lt;/p&gt;
+&lt;p&gt;I hope the mixed virtual/physical platform worked well enough for
+everyone. Please contact me if you have any comments on this.&lt;/p&gt;
+&lt;p&gt;One thing I forgot to mention - I&amp;rsquo;d like to hand over to someone else
+to run the club at the end of this term (I&amp;rsquo;ll be thesis writing after
+the winter break). If anyone&amp;rsquo;s interested, please get in touch.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Rebooting for 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/reboot/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/reboot/</guid>
+      <description>Welcome to our new members and the regulars!
+I&amp;rsquo;ve booked out OC218 (Ogden East Conference Room) for Thursdays at 1300 for the hour. We&amp;rsquo;ll have our first meeting next Thursday, 28 Oct.
+OC218 has a capacity of 44 people, so everyone will be able to attend in person if they wish to. For those wishing to join virtually, I&amp;rsquo;ll set up an Owl and you can connect through the Zoom room circulated through the mailing list.</description>
+      <content>&lt;p&gt;Welcome to our new members and the regulars!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve booked out OC218 (Ogden East Conference Room) for Thursdays at
+1300 for the hour. We&amp;rsquo;ll have our first meeting next Thursday, 28 Oct.&lt;/p&gt;
+&lt;p&gt;OC218 has a capacity of 44 people, so everyone will be able to attend
+in person if they wish to. For those wishing to join virtually, I&amp;rsquo;ll
+set up an Owl and you can connect through the Zoom room circulated through the mailing list.&lt;/p&gt;
+&lt;p&gt;In our first meeting we can all introduce ourselves and discuss how
+we&amp;rsquo;d like to proceed with the club and the content of following
+sessions.&lt;/p&gt;
+&lt;p&gt;This is a lunchtime club, so please do take food if you want to!&lt;/p&gt;
+&lt;p&gt;Note that there&amp;rsquo;s no expectation of ability or prior knowledge, so everyone please feel very welcome to come
+along.&lt;/p&gt;
+&lt;p&gt;Not that further enticement is required, but tea and coffee will be
+provided!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Inviting all of Physics to Computing Club</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/invite/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/invite/</guid>
+      <description>Historically, the IPPP has held a weekly lunchtime Computing Club. This year we&amp;rsquo;d like to invite everyone in Physics who&amp;rsquo;s interested to join. All career levels are welcome.
+We usually run informal seminar style sessions with some open sessions for people to crowd-source solutions to their coding problems. You can see some examples of previous meeting topics at
+ https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/ https://shrieking-asylum-67258.herokuapp.com/topics  We also run longer projects for fun when there&amp;rsquo;s interest.</description>
+      <content>&lt;p&gt;Historically, the IPPP has held a weekly lunchtime Computing Club. This
+year we&amp;rsquo;d like to invite everyone in Physics who&amp;rsquo;s interested to join.
+All career levels are welcome.&lt;/p&gt;
+&lt;p&gt;We usually run informal seminar style sessions with some open sessions
+for people to crowd-source solutions to their coding problems. You can
+see some examples of previous meeting topics at&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/&#34;&gt;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shrieking-asylum-67258.herokuapp.com/topics&#34;&gt;https://shrieking-asylum-67258.herokuapp.com/topics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also run longer projects for fun when there&amp;rsquo;s interest.&lt;/p&gt;
+&lt;p&gt;To join the mailing list, please send a message to
+&lt;a href=&#34;mailto:majordomo@durham.ac.uk&#34;&gt;majordomo@durham.ac.uk&lt;/a&gt; with the following text in the message body:
+subscribe ph-complunchclub
+You then have to follow the authorisation instructions which will be
+emailed back to you. Ensure all emails you send have a plain text body;
+authorisation will not work with HTML emails.&lt;/p&gt;
+&lt;p&gt;If everyone who wants to join fills in their general availability
+(ignore the specific dates and treat as weekly availability) on this
+poll
+&lt;a href=&#34;https://doodle.com/poll/g4rnn55dgxtrt6nd?utm_source=poll&amp;amp;utm_medium=link&#34;&gt;https://doodle.com/poll/g4rnn55dgxtrt6nd?utm_source=poll&amp;amp;utm_medium=link&lt;/a&gt;
+I&amp;rsquo;ll pick the best time for everyone and book an appropriately sized
+room for us. I&amp;rsquo;ll be in touch with you all via the ph-complunchclub
+mailing list once that&amp;rsquo;s sorted.&lt;/p&gt;
+&lt;p&gt;Looking forward to our first meeting!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>A new home for computing club</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</link>
       <pubDate>Tue, 05 Nov 2019 11:02:14 +0000</pubDate>
@@ -312,16 +436,18 @@ We might help solving it and it&amp;rsquo;s probably useful for everyone to lear
       <description>Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find information about upcoming sessions and write-ups of previous sessions.
 Mailing list To join the mailing list, please send a message to majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub, which you can do by clicking here.
 You might then have to follow authorisation instructions which may be emailed back to you. Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.</description>
-      <content>&lt;p&gt;Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find &lt;a href=&#34;../updates&#34;&gt;information about upcoming sessions&lt;/a&gt; and &lt;a href=&#34;../sessions&#34;&gt;write-ups of previous sessions&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/&#34;&gt;information about upcoming sessions&lt;/a&gt; and &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/&#34;&gt;write-ups of previous sessions&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;mailing-list&#34;&gt;Mailing list&lt;/h4&gt;
 &lt;p&gt;To join the mailing list, please send a message to &lt;a href=&#34;mailto:majordomo@durham.ac.uk&#34;&gt;majordomo@durham.ac.uk&lt;/a&gt; with the following text in the message body: &lt;code&gt;subscribe ph-complunchclub&lt;/code&gt;, which you can do by &lt;a href=&#34;mailto:majordomo@durham.ac.uk?body=subscribe ph-complunchclub&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You might then have to follow authorisation instructions which may be emailed back to you.
 Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.
 After authorisation or otherwise, you will receive a confirmation email.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;../author/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the mailing list; speak to him if there are any problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the mailing list; speak to him if there are any problems.&lt;/p&gt;
 &lt;h4 id=&#34;website&#34;&gt;Website&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;../author/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;website&lt;/a&gt;; speak to him if you would like write permission. Alternatively, fork and submit a pull request.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the website, the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;source of which can be found on GitHub&lt;/a&gt;; speak to him if you would like write permission. Alternatively, fork and submit a pull request.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/&#34;&gt;guide&lt;/a&gt; for adding posts.&lt;/p&gt;
+&lt;p&gt;We also have &lt;a href=&#34;http://shrieking-asylum-67258.herokuapp.com/&#34;&gt;a dynamic website&lt;/a&gt; from &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/dynamic-websites-with-the-men-stack/&#34;&gt;a previous project&lt;/a&gt; that you&amp;rsquo;re welcome to use too.
+However, the website you&amp;rsquo;re on now is currently our primary resource.&lt;/p&gt;
 &lt;h4 id=&#34;meetings&#34;&gt;Meetings&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;1300 Thursdays&lt;/strong&gt; in &lt;strong&gt;OC218&lt;/strong&gt; (James Stirling Conference Room in Ogden East).
 The COVID capacity of the room is 44, so there should be no practical limit on physical attendance.

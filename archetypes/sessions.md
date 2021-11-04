@@ -1,9 +1,9 @@
 +++
 title = "{{ .TranslationBaseName | humanize}}"
 date = "{{ .Date }}"
-author = ""
+authors = []
 cover = ""
-tags = ["", ""]
+tags = []
 description = ""
 showFullContent = false
 type = "posts"

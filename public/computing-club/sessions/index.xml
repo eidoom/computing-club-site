@@ -29,6 +29,48 @@ slides</description>
     </item>
     
     <item>
+      <title>Inaugural Computing Club 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/reboot/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/reboot/</guid>
+      <description>A quick summary of our first meeting.
+Over the next few weeks, we&amp;rsquo;ll cover the following topics:
+ computing environment basics (Yannick - next week)  shell git   Python package management (Ryan) C++ introduction (Ryan) Continuous integration and deployment (Hitham)  On the format, most sessions will loosely involve someone (or a group) presenting some prepared (but informal) content over around half an hour, with remaining time for discussion and where possible hands-on playing with code.</description>
+      <content>&lt;p&gt;A quick summary of our first meeting.&lt;/p&gt;
+&lt;p&gt;Over the next few weeks, we&amp;rsquo;ll cover the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;computing environment basics (Yannick - next week)
+&lt;ul&gt;
+&lt;li&gt;shell&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python package management (Ryan)&lt;/li&gt;
+&lt;li&gt;C++ introduction (Ryan)&lt;/li&gt;
+&lt;li&gt;Continuous integration and deployment (Hitham)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the format, most sessions will loosely involve someone (or a group)
+presenting some prepared (but informal) content over around half an
+hour, with remaining time for discussion and where possible hands-on
+playing with code.&lt;/p&gt;
+&lt;p&gt;We have the two websites&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&#34;&gt;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shrieking-asylum-67258.herokuapp.com/&#34;&gt;https://shrieking-asylum-67258.herokuapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;which can both be used according to preference to record links or
+information about previous sessions and for pedagogy.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s interest in doing some project work.&lt;/p&gt;
+&lt;p&gt;I hope the mixed virtual/physical platform worked well enough for
+everyone. Please contact me if you have any comments on this.&lt;/p&gt;
+&lt;p&gt;One thing I forgot to mention - I&amp;rsquo;d like to hand over to someone else
+to run the club at the end of this term (I&amp;rsquo;ll be thesis writing after
+the winter break). If anyone&amp;rsquo;s interested, please get in touch.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Galton board code</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</link>
       <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>

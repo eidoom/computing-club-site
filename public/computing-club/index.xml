@@ -310,18 +310,24 @@ We might help solving it and it&amp;rsquo;s probably useful for everyone to lear
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
       <description>Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find information about upcoming sessions and write-ups of previous sessions.
-Mailing list To join the mailing list, please send a message to majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub, which you can do by clicking here. You then have to follow the authorisation instructions which will be emailed back to you. Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.</description>
+Mailing list To join the mailing list, please send a message to majordomo@durham.ac.uk with the following text in the message body: subscribe ph-complunchclub, which you can do by clicking here.
+You might then have to follow authorisation instructions which may be emailed back to you. Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.</description>
       <content>&lt;p&gt;Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find &lt;a href=&#34;../updates&#34;&gt;information about upcoming sessions&lt;/a&gt; and &lt;a href=&#34;../sessions&#34;&gt;write-ups of previous sessions&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;mailing-list&#34;&gt;Mailing list&lt;/h4&gt;
-&lt;p&gt;To join the mailing list, please send a message to &lt;a href=&#34;mailto:majordomo@durham.ac.uk&#34;&gt;majordomo@durham.ac.uk&lt;/a&gt; with the following text in the message body: &lt;code&gt;subscribe ph-complunchclub&lt;/code&gt;, which you can do by &lt;a href=&#34;mailto:majordomo@durham.ac.uk?body=subscribe ph-complunchclub&#34;&gt;clicking here&lt;/a&gt;.
-You then have to follow the authorisation instructions which will be emailed back to you.
-Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.&lt;/p&gt;
+&lt;p&gt;To join the mailing list, please send a message to &lt;a href=&#34;mailto:majordomo@durham.ac.uk&#34;&gt;majordomo@durham.ac.uk&lt;/a&gt; with the following text in the message body: &lt;code&gt;subscribe ph-complunchclub&lt;/code&gt;, which you can do by &lt;a href=&#34;mailto:majordomo@durham.ac.uk?body=subscribe ph-complunchclub&#34;&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You might then have to follow authorisation instructions which may be emailed back to you.
+Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.
+After authorisation or otherwise, you will receive a confirmation email.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;../author/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the mailing list; speak to him if there are any problems.&lt;/p&gt;
 &lt;h4 id=&#34;website&#34;&gt;Website&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;../author/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;website&lt;/a&gt;; speak to him if you would like write permission. Alternatively, fork and submit a pull request.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/&#34;&gt;guide&lt;/a&gt; for adding posts.&lt;/p&gt;
 &lt;h4 id=&#34;meetings&#34;&gt;Meetings&lt;/h4&gt;
-&lt;p&gt;Usually 1300 Mondays, OC304 or OC103.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1300 Thursdays&lt;/strong&gt; in &lt;strong&gt;OC218&lt;/strong&gt; (James Stirling Conference Room in Ogden East).
+The COVID capacity of the room is 44, so there should be no practical limit on physical attendance.
+Tea, coffee, and biscuits are provided.
+Please feel welcome to bring your lunch.
+The format is hybrid; the video conference link is circulated over the mailing list.&lt;/p&gt;
 </content>
     </item>
     

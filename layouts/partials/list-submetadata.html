@@ -1,8 +1,15 @@
 	<div class="post-meta">
 		{{ with .Params.Date }}
 		<span class="post-date">
-			{{ .Format "2006-01-02" }}
+			{{ dateFormat "02 Jan 2006" . }}
 		</span>
+		{{ end }}
+		{{ if gt .Params.LastMod .Params.Date }}
+		{{ with .Params.LastMod }}
+		<span class="post-date">:: updated
+			{{ dateFormat "02 Jan 2006" . }}
+		</span>
+		{{ end }}
 		{{ end }}
 		{{ if .Params.Authors }}
 			{{ range .Params.Authors }}

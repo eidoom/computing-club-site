@@ -7,7 +7,7 @@ layout = "about"
 authors = ["Ryan Moodie"]
 +++
 
-Welcome to the online manifestation of the IPPP Computing Club! Here you'll find [information about upcoming sessions](../updates) and [write-ups of previous sessions](../sessions).
+Welcome to the online manifestation of the IPPP Computing Club! Here you'll find [information about upcoming sessions]({{< ref "updates" >}}) and [write-ups of previous sessions]({{< ref "sessions" >}}).
 
 #### Mailing list
 
@@ -17,13 +17,16 @@ You might then have to follow authorisation instructions which may be emailed ba
 Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.
 After authorisation or otherwise, you will receive a confirmation email.
 
-[Ryan](../author/ryan-moodie/)'s in charge of the mailing list; speak to him if there are any problems.
+[Ryan]({{< ref "ryan-moodie" >}})'s in charge of the mailing list; speak to him if there are any problems.
 
 #### Website
 
-[Ryan](../author/ryan-moodie/)'s in charge of the [website](https://github.com/eidoom/computing-club-site); speak to him if you would like write permission. Alternatively, fork and submit a pull request.
+[Ryan]({{< ref "ryan-moodie" >}})'s in charge of the website, the [source of which can be found on GitHub](https://github.com/eidoom/computing-club-site); speak to him if you would like write permission. Alternatively, fork and submit a pull request.
 
 There's a [guide]({{< ref "sessions/static-website-generation-with-hugo.md" >}}) for adding posts.
+
+We also have [a dynamic website](http://shrieking-asylum-67258.herokuapp.com/) from [a previous project]({{< ref "updates/dynamic-websites-with-the-men-stack/" >}}) that you're welcome to use too.
+However, the website you're on now is currently our primary resource.
 
 #### Meetings
 

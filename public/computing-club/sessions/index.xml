@@ -6,7 +6,28 @@
     <description>Recent content in Sessions on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 08:54:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toolkit I</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/</link>
+      <pubDate>Thu, 04 Nov 2021 08:54:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/</guid>
+      <description>In this session I discuss the basic toolkits everyone should know
+ the command line PATH git basics vim basics  For further reading, I suggest https://missing.csail.mit.edu/
+slides</description>
+      <content>&lt;p&gt;In this session I discuss the basic toolkits everyone should know&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the command line&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;PATH&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;git basics&lt;/li&gt;
+&lt;li&gt;vim basics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further reading, I suggest &lt;a href=&#34;https://missing.csail.mit.edu/&#34;&gt;https://missing.csail.mit.edu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../img/yu-toolkit.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Galton board code</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</link>

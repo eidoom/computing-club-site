@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/git/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/hugo/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/linux/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/toolkits/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/</loc>
+    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</loc>
     <lastmod>2019-11-05T11:02:14+00:00</lastmod>
   </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
-    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
-    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
-  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/</loc>
-    <lastmod>2019-11-05T11:02:14+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
     <lastmod>2019-11-05T11:02:14+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
@@ -30,9 +51,6 @@
     <lastmod>2019-11-04T11:56:02+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</loc>
-    <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/linux/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nuodyssey/</loc>
@@ -80,9 +98,6 @@
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/numpy/</loc>
     <lastmod>2019-10-21T13:25:33+01:00</lastmod>
   </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/</loc>
-    <lastmod>2019-10-21T13:25:33+01:00</lastmod>
-  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</loc>
     <lastmod>2019-10-21T12:39:42+01:00</lastmod>
   </url><url>
@@ -95,13 +110,7 @@
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</loc>
     <lastmod>2019-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/git/</loc>
-    <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/html/</loc>
-    <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/hugo/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/markdown/</loc>

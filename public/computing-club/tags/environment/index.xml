@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>environment on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/environment/</link>
+    <description>Recent content in environment on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covering the basics</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics/</guid>
+      <description>Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.
+Yannick will be giving an introduction to the efficient computing environment, briefly covering basic shell usage and then focussing on the use of Git for version control of software.
+The slides etc can be found in Yannick&amp;rsquo;s repository which will be live by tomorrow, and the session will also involve hands-on work involving the computing club website.</description>
+      <content>&lt;p&gt;Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/&#34;&gt;Yannick&lt;/a&gt; will be giving an introduction to the efficient computing
+environment, briefly covering basic shell usage and then focussing on
+the use of Git for version control of software.&lt;/p&gt;
+&lt;p&gt;The slides etc can be found in &lt;a href=&#34;https://gitlab.com/yannickulrich/computing-toolkit&#34;&gt;Yannick&amp;rsquo;s repository&lt;/a&gt;
+which will be live by tomorrow, and the session will also involve
+hands-on work involving &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&#34;&gt;the computing club website&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

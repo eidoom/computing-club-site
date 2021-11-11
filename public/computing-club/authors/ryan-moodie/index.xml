@@ -8,6 +8,25 @@
     <language>en-gb</language>
     <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Next meeting: introduction to C&#43;&#43;</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/cpp-intro/</link>
+      <pubDate>Thu, 11 Nov 2021 15:51:58 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/cpp-intro/</guid>
+      <description>Hi,
+Thank you again to Yannick for the two part shell and git introduction he has run the past two weeks. I hope the idea of the (Linux) shell as a development environment and the version control workflow provided by git started to make sense for everyone after a chance to put it into practice. Please feel welcome to continue to play around with this website as a sandbox.
+Next week, Sofie will very kindly be running an introduction to programming in C++.</description>
+      <content>&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;Thank you again to Yannick for the two part &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/&#34;&gt;shell and git introduction&lt;/a&gt; he has run the past two weeks.
+I hope the idea of the (Linux) shell as a development environment and the version control workflow provided by &lt;code&gt;git&lt;/code&gt; started to make sense for everyone after a chance to put it into practice.
+Please feel welcome to continue to play around with this website as a sandbox.&lt;/p&gt;
+&lt;p&gt;Next week, Sofie will very kindly be running an introduction to programming in C++.&lt;/p&gt;
+&lt;p&gt;I may not be able to make the meeting myself so am relying on &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/tommy/&#34;&gt;Tommy&lt;/a&gt; to pick up the refreshments (thanks!).&lt;/p&gt;
+&lt;p&gt;Ryan&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Covering the basics: exercise</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics3/</link>
       <pubDate>Wed, 10 Nov 2021 12:22:04 +0000</pubDate>

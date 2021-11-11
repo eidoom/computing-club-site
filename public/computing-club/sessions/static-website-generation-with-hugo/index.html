@@ -207,40 +207,40 @@
 <p>Clone the <a href="https://github.com/eidoom/computing-club-site">repo</a>:</p>
 </li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
 </code></pre></div><ul>
 <li>Navigate to the root directory of the repo locally</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">cd computing-club-site
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">cd computing-club-site
 </code></pre></div><ul>
 <li>Run a local Hugo server so you can check out your changes in realtime <a href="//localhost:1313/computing-club/">here</a> with</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo server
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo server
 </code></pre></div><ul>
 <li>Make your new session page by running</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo new sessions/NAME.md
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo new sessions/NAME.md
 </code></pre></div><ul>
-<li>Edit the metadata within the <code>+++</code>&rsquo;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file</li>
+<li>Edit the metadata within the <code>+++</code>'s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">vim content/sessions/NAME.md
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">vim content/sessions/NAME.md
 </code></pre></div><p>The metadata field <code>cover</code> should point at the cover image for your page. Add the image file to <code>static/img</code> along with any other images (or other media files) you include. Note that the path should not include <code>static</code> as the contents of static are put into the root of the compiled website. So for a cover image at <code>static/img/COVER.png</code>, the metadata field <code>cover</code> should be the path <code>&quot;img/COVER.png&quot;</code>.</p>
 <ul>
 <li>Stage your changes:</li>
 <li>If you want to push the newly compiled website, first generate the updated static website by running</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo
 </code></pre></div><p>then</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git add .
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git add .
 </code></pre></div><ul>
 <li>Or if you want to push your changes to the source without pushing the compiled website, just</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git add content/sessions/NAME.md static/img/PHOTO.png
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git add content/sessions/NAME.md static/img/PHOTO.png
 </code></pre></div><p>and any other media files you included</p>
 <ul>
 <li>Then finally push your changes to the remote repo</li>
 </ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git commit -m <span style="color:#e6db74">&#34;MESSAGE&#34;</span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">git commit -m <span style="color:#e6db74">&#34;MESSAGE&#34;</span>
 git push
 </code></pre></div><p>and you&rsquo;re done!</p>
 <p>Have a look at the <a href="//github.com/eidoom/computing-club-site/blob/master/content/sessions/static-website-generation-with-hugo.md">source for this page</a> if you like. The <a href="//gohugo.io/categories/getting-started">Hugo docs</a> are also pretty good.</p>

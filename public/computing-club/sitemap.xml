@@ -1,458 +1,274 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
     <lastmod>2021-11-11T13:30:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
+    <lastmod>2021-11-11T13:30:52+00:00</lastmod>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/dmilne/</loc>
     <lastmod>2021-11-11T13:30:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/dmilne/</loc>
     <lastmod>2021-11-11T13:30:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/</loc>
     <lastmod>2021-11-11T13:30:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics3/</loc>
     <lastmod>2021-11-10T12:22:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan/</loc>
-    <lastmod>2021-11-10T12:22:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
     <lastmod>2021-11-10T12:22:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics2/</loc>
     <lastmod>2021-11-04T15:16:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/git/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/hugo/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/linux/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/toolkits/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/environment/</loc>
     <lastmod>2021-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/reboot/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/organisation/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/reboot/</loc>
     <lastmod>2021-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/invite/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</loc>
     <lastmod>2019-11-05T11:02:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/websites/</loc>
     <lastmod>2019-11-05T11:02:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/dynamic-websites-with-the-men-stack/</loc>
     <lastmod>2019-11-04T11:56:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/giuseppe-de-laurentis/</loc>
     <lastmod>2019-11-04T11:56:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/galton-board/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nuodyssey/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/outreach/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis-2/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis/</loc>
     <lastmod>2019-10-29T19:26:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/python/</loc>
     <lastmod>2019-10-29T19:26:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/games/</loc>
     <lastmod>2019-10-25T18:00:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/pygame/</loc>
     <lastmod>2019-10-25T18:00:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</loc>
     <lastmod>2019-10-25T18:00:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-2/</loc>
     <lastmod>2019-10-22T15:15:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev/</loc>
     <lastmod>2019-10-21T14:43:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/galton-board-code/</loc>
     <lastmod>2019-10-21T13:25:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/matplotlib/</loc>
     <lastmod>2019-10-21T13:25:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/numpy/</loc>
     <lastmod>2019-10-21T13:25:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</loc>
     <lastmod>2019-10-21T12:39:42+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software/</loc>
     <lastmod>2019-10-21T12:36:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
-    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</loc>
-    <lastmod>2019-10-21T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/html/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/markdown/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/static-website-generation-with-hugo/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/static-websites/</loc>
     <lastmod>2019-10-14T16:55:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/development/</loc>
     <lastmod>2019-10-14T16:41:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/galton/</loc>
     <lastmod>2019-10-14T16:41:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/james-whitehead/</loc>
     <lastmod>2019-10-14T16:41:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/confused/</loc>
     <lastmod>2019-10-14T14:02:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/gdl/</loc>
     <lastmod>2019-10-14T14:02:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/unknown/</loc>
     <lastmod>2019-10-14T14:02:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/delicious/</loc>
     <lastmod>2019-10-14T13:54:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/nutritious/</loc>
     <lastmod>2019-10-14T13:54:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ode2huel/</loc>
     <lastmod>2019-10-14T13:54:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan/</loc>
+    <lastmod>2019-10-14T13:54:21+01:00</lastmod>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/geese/</loc>
     <lastmod>2019-10-14T13:38:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/image/</loc>
     <lastmod>2019-10-14T13:38:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/untitled-goosey-one/</loc>
     <lastmod>2019-10-14T13:38:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/fun/</loc>
     <lastmod>2019-10-14T13:35:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/lucy-the-outreach-guru/</loc>
     <lastmod>2019-10-14T13:35:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/meetings/</loc>
     <lastmod>2019-10-14T13:35:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/lucy/</loc>
     <lastmod>2019-10-14T13:35:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/apple_juice/</loc>
     <lastmod>2019-10-14T13:35:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/danger/</loc>
     <lastmod>2019-10-14T13:35:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/parisa/</loc>
     <lastmod>2019-10-14T13:35:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/warning/</loc>
     <lastmod>2019-10-14T13:35:12+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/joey-the-magnificent-head-contributor-of-the-realm/</loc>
     <lastmod>2019-10-14T13:34:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/ohnohedidnt/</loc>
     <lastmod>2019-10-14T13:34:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/new/</loc>
     <lastmod>2019-10-14T13:34:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ermagerd/</loc>
     <lastmod>2019-10-14T13:28:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/interactive/</loc>
     <lastmod>2019-10-14T13:28:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/joey-the-okay-first-of-his-name/</loc>
     <lastmod>2019-10-14T13:28:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/deliciouslynutrisciouslycomplete/</loc>
     <lastmod>2019-10-14T13:53:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/healthylifestyle/</loc>
     <lastmod>2019-10-14T13:53:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/huel/</loc>
     <lastmod>2019-10-14T13:53:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/post_two/</loc>
     <lastmod>2019-10-10T16:08:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/tag/</loc>
     <lastmod>2019-10-10T16:08:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/example/</loc>
     <lastmod>2019-10-10T15:57:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/one/</loc>
     <lastmod>2019-10-10T15:57:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/test/</loc>
     <lastmod>2019-10-10T15:57:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/andrew-blance/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gooseless/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/huelless/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ippp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/ippp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/james-the-absent/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/list-tags/</loc>
   </url>
-  
 </urlset>

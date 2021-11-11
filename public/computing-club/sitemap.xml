@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
-    <lastmod>2021-11-10T12:22:04+00:00</lastmod>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/biscuits/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
-    <lastmod>2021-11-10T12:22:04+00:00</lastmod>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/oreos/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/seasonal/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/spookyoreos/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/testing/</loc>
+    <lastmod>2021-11-11T13:40:33+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/oscar-braun-white/</loc>
+    <lastmod>2021-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics3/</loc>
     <lastmod>2021-11-10T12:22:04+00:00</lastmod>
@@ -27,9 +51,6 @@
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/</loc>
-    <lastmod>2021-11-04T08:54:00+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
     <lastmod>2021-11-04T08:54:00+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/</loc>
@@ -84,9 +105,6 @@
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/outreach-raspberry-pis-2/</loc>
-    <lastmod>2019-11-04T11:06:02+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/</loc>
     <lastmod>2019-11-04T11:06:02+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/raspberry-pi/</loc>

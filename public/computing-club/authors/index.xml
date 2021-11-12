@@ -6,7 +6,18 @@
     <description>Recent content in Authors on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 11 Nov 2021 15:51:58 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 11:04:55 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lois Flower</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/lois-flower/</link>
+      <pubDate>Fri, 12 Nov 2021 10:53:06 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/lois-flower/</guid>
+      <description>I&amp;rsquo;m Lois, a second year PhD working on electroweak phenomenology in Sherpa. I work in C++ but have dabbled to various extents (academically and recreationally) in Python, Java, C, Haskell, Prolog, HTML and JavaScript. I still haven&amp;rsquo;t become fluent in Vim. My editor of choice is VS Code.</description>
+      <content>&lt;p&gt;I&amp;rsquo;m Lois, a second year PhD working on electroweak phenomenology in Sherpa. I work in C++ but have dabbled to various extents (academically and recreationally) in Python, Java, C, Haskell, Prolog, HTML and JavaScript. I still haven&amp;rsquo;t become fluent in Vim. My editor of choice is VS Code.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Tommy</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/tommy/</link>

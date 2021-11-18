@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gdb on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/</link>
+    <description>Recent content in gdb on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 18 Nov 2021 16:39:35 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43; introduction and debugging</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/post-cpp-intro/</link>
+      <pubDate>Thu, 18 Nov 2021 16:39:35 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/post-cpp-intro/</guid>
+      <description>Thank you to Sofie for running the session today on a first introduction to C++. Judging by the engagement of the audience, this was a very useful meeting for everyone! The slides will appear soon on here.
+Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure. Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip; Hopefully the slides will provide a taster in substitute.</description>
+      <content>&lt;p&gt;Thank you to Sofie for running the session today on a first introduction to &lt;code&gt;C++&lt;/code&gt;.
+Judging by the engagement of the audience, this was a very useful meeting for everyone!
+The slides will appear soon on here.&lt;/p&gt;
+&lt;p&gt;Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure.
+Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip;
+Hopefully the slides will provide a taster in substitute.&lt;/p&gt;
+&lt;p&gt;Next week, Hitham will be continuing in the vein of &lt;code&gt;C++&lt;/code&gt; programming by covering the most difficult and important part of it: basic debugging in &lt;code&gt;C++&lt;/code&gt; with &lt;code&gt;gdb&lt;/code&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

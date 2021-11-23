@@ -9,6 +9,14 @@ layout = "topics"
 
 #### New ideas
 
+* [x] Basic `shell` usage
+* [x] Basic `git`
+* [x] Basic `C++`
+* [ ] Python package management
+* [ ] [Advent of Code 2021](https://adventofcode.com/2021)
+
+#### Old ideas
+
 * [ ]  Cython
 * [x]  Flask
 * [x]  Github submodules
@@ -17,7 +25,7 @@ layout = "topics"
 * [x]  Continuous integration
 * [x]  Using `git` to its full potential
 
-#### Old ideas
+#### Old old ideas
 
 * Using numpy
 * Software Design Principles

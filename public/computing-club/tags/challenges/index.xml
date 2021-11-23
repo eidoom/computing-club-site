@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>challenges on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</link>
+    <description>Recent content in challenges on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 23 Nov 2021 21:11:12 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</link>
+      <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</guid>
+      <description>Every year, Advent of Code publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
+For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)
+Note that 9 Dec will be our last meeting before the Christmas break.</description>
+      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; publishes a coding challenge each day of the Advent calendar.
+The problems are fun and Christmassy, what&amp;rsquo;s not to love?
+It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.&lt;/p&gt;
+&lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
+&lt;p&gt;Note that 9 Dec will be our last meeting before the Christmas break.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

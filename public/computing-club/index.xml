@@ -6,7 +6,24 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 18 Nov 2021 16:39:35 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 21:11:12 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</link>
+      <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</guid>
+      <description>Every year, Advent of Code publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
+For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)
+Note that 9 Dec will be our last meeting before the Christmas break.</description>
+      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; publishes a coding challenge each day of the Advent calendar.
+The problems are fun and Christmassy, what&amp;rsquo;s not to love?
+It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.&lt;/p&gt;
+&lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
+&lt;p&gt;Note that 9 Dec will be our last meeting before the Christmas break.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>C&#43;&#43; introduction and debugging</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/post-cpp-intro/</link>
@@ -74,10 +91,10 @@ Please feel welcome to continue to play around with this website as a sandbox.&l
     
     <item>
       <title>Dmilne</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/dmilne/</link>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/dmilne/</link>
       <pubDate>Thu, 11 Nov 2021 13:30:52 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/dmilne/</guid>
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/dmilne/</guid>
       <description>test</description>
       <content>&lt;p&gt;test&lt;/p&gt;
 </content>
@@ -565,9 +582,17 @@ The format is hybrid; the video conference link is circulated over the mailing l
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</guid>
-      <description>Topic ideas New ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
+      <description>Topic ideas New ideas  Basic shell usage Basic git Basic C++ Python package management Advent of Code 2021  Old ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
       <content>&lt;h1 id=&#34;topic-ideas&#34;&gt;Topic ideas&lt;/h1&gt;
 &lt;h4 id=&#34;new-ideas&#34;&gt;New ideas&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;shell&lt;/code&gt; usage&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;C++&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Python package management&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;old-ideas&#34;&gt;Old ideas&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Cython&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Flask&lt;/li&gt;
@@ -577,7 +602,7 @@ The format is hybrid; the video conference link is circulated over the mailing l
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Continuous integration&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Using &lt;code&gt;git&lt;/code&gt; to its full potential&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;old-ideas&#34;&gt;Old ideas&lt;/h4&gt;
+&lt;h4 id=&#34;old-old-ideas&#34;&gt;Old old ideas&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Using numpy&lt;/li&gt;
 &lt;li&gt;Software Design Principles&lt;/li&gt;

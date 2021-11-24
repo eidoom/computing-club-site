@@ -2,31 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</loc>
-    <lastmod>2021-11-23T21:11:12+00:00</lastmod>
-  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/c&#43;&#43;/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/debugging/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/next-gdb/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</loc>
     <lastmod>2021-11-23T21:11:12+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</loc>
     <lastmod>2021-11-23T21:11:12+00:00</lastmod>
   </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
-    <lastmod>2021-11-23T21:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
-    <lastmod>2021-11-23T21:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
-    <lastmod>2021-11-23T21:11:12+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/c&#43;&#43;/</loc>
-    <lastmod>2021-11-18T16:39:35+00:00</lastmod>
-  </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/post-cpp-intro/</loc>
-    <lastmod>2021-11-18T16:39:35+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/</loc>
     <lastmod>2021-11-18T16:39:35+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/lois/</loc>

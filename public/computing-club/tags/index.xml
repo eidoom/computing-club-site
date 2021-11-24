@@ -6,21 +6,11 @@
     <description>Recent content in Tags on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Nov 2021 21:11:12 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>challenges</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</link>
-      <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
-      
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>c&#43;&#43;</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/c&#43;&#43;/</link>
-      <pubDate>Thu, 18 Nov 2021 16:39:35 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/c&#43;&#43;/</guid>
       <description></description>
@@ -28,11 +18,31 @@
     </item>
     
     <item>
+      <title>debugging</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/debugging/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/debugging/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
       <title>gdb</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/</link>
-      <pubDate>Thu, 18 Nov 2021 16:39:35 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>challenges</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</link>
+      <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</guid>
       <description></description>
       <content></content>
     </item>

@@ -6,7 +6,21 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Nov 2021 21:11:12 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next meeting: debugging `C&#43;&#43;` with `gdb`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/next-gdb/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/next-gdb/</guid>
+      <description>A reminder that tomorrow Hitham will be introducing us to basic gdb debugging of C++, Thurs 25 Nov 1300 GMT in OC218 and via Zoom. I&amp;rsquo;ll most likely be joining virtually myself tomorrow.
+The code and slides (to follow) for the session can be found at Hitham2496/Computing-Talks.</description>
+      <content>&lt;p&gt;A reminder that tomorrow Hitham will be introducing us to basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt;, Thurs 25 Nov 1300 GMT in OC218 and via Zoom.
+I&amp;rsquo;ll most likely be joining virtually myself tomorrow.&lt;/p&gt;
+&lt;p&gt;The code and slides (to follow) for the session can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Advent of Code 2021</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</link>
@@ -582,15 +596,20 @@ The format is hybrid; the video conference link is circulated over the mailing l
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</guid>
-      <description>Topic ideas New ideas  Basic shell usage Basic git Basic C++ Python package management Advent of Code 2021  Old ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
+      <description>Topic ideas New ideas  Basic shell usage (Yannick) Basic git (Yannick) Basic C++ (Sofie) Python package management (Ryan) Advent of Code 2021 (Ryan) Quantum computing algorithms (Mia) Continuous integration (Hitham) McMule (Yannick) Advanced C++ (Ryan) Unit tests  Old ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
       <content>&lt;h1 id=&#34;topic-ideas&#34;&gt;Topic ideas&lt;/h1&gt;
 &lt;h4 id=&#34;new-ideas&#34;&gt;New ideas&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;shell&lt;/code&gt; usage&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;git&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;C++&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Python package management&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;shell&lt;/code&gt; usage (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;git&lt;/code&gt; (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Basic &lt;code&gt;C++&lt;/code&gt; (Sofie)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;code&gt;Python&lt;/code&gt; package management (Ryan)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt; (Ryan)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Quantum computing algorithms (Mia)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Continuous integration (Hitham)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; McMule (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Advanced &lt;code&gt;C++&lt;/code&gt; (Ryan)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Unit tests&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;old-ideas&#34;&gt;Old ideas&lt;/h4&gt;
 &lt;ul&gt;

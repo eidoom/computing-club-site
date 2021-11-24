@@ -6,7 +6,21 @@
     <description>Recent content in Updates on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Nov 2021 21:11:12 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next meeting: debugging `C&#43;&#43;` with `gdb`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/next-gdb/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/next-gdb/</guid>
+      <description>A reminder that tomorrow Hitham will be introducing us to basic gdb debugging of C++, Thurs 25 Nov 1300 GMT in OC218 and via Zoom. I&amp;rsquo;ll most likely be joining virtually myself tomorrow.
+The code and slides (to follow) for the session can be found at Hitham2496/Computing-Talks.</description>
+      <content>&lt;p&gt;A reminder that tomorrow Hitham will be introducing us to basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt;, Thurs 25 Nov 1300 GMT in OC218 and via Zoom.
+I&amp;rsquo;ll most likely be joining virtually myself tomorrow.&lt;/p&gt;
+&lt;p&gt;The code and slides (to follow) for the session can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Advent of Code 2021</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</link>

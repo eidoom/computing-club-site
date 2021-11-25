@@ -30,8 +30,9 @@ Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</descri
       <pubDate>Thu, 25 Nov 2021 13:35:45 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/</guid>
-      <description>The code and slides for Hitham&amp;rsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks.</description>
-      <content>&lt;p&gt;The code and slides for Hitham&amp;rsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+      <description>The code and slides for Hitham&amp;rsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
+      <content>&lt;p&gt;The code and slides for Hitham&amp;rsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.
+There&amp;rsquo;s also a recording of the meeting &lt;a href=&#34;https://durhamuniversity-my.sharepoint.com/:v:/g/personal/jndn32_durham_ac_uk/ERth0bjbwXZOmjy0caqrP-ABULr7mSGpnLZYcSvD7lmI8A?e=KkpVdK&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -66,14 +67,17 @@ I&amp;rsquo;ll most likely be joining virtually myself tomorrow.&lt;/p&gt;
       <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</guid>
-      <description>Every year, Advent of Code publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
-For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)
-Note that 9 Dec will be our last meeting before the Christmas break.</description>
-      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; publishes a coding challenge each day of the Advent calendar.
+      <description>Every year, Advent of Code (AoC) publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with. The problems start out fairly easy, with each subsequent day generally increasing in difficulty.
+For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)</description>
+      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; (AoC) publishes a coding challenge each day of the Advent calendar.
 The problems are fun and Christmassy, what&amp;rsquo;s not to love?
-It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.&lt;/p&gt;
+It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
+The problems start out fairly easy, with each subsequent day generally increasing in difficulty.&lt;/p&gt;
 &lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
-&lt;p&gt;Note that 9 Dec will be our last meeting before the Christmas break.&lt;/p&gt;
+&lt;p&gt;They get released daily from 1 Dec, so feel free to get a head start with the first puzzle on the Wednesday.
+I&amp;rsquo;ll set up a Computing Club AoC leaderboard for us for those who want a bit of competitivity.
+You can join it &lt;a href=&#34;https://adventofcode.com/2021/leaderboard/private&#34;&gt;here&lt;/a&gt; with the join code that I&amp;rsquo;ll distribute by email.&lt;/p&gt;
+&lt;p&gt;Note that 9 Dec will be our last meeting before the Winter break.&lt;/p&gt;
 </content>
     </item>
     

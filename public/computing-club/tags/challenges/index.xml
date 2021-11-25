@@ -30,14 +30,17 @@ Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</descri
       <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</guid>
-      <description>Every year, Advent of Code publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
-For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)
-Note that 9 Dec will be our last meeting before the Christmas break.</description>
-      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; publishes a coding challenge each day of the Advent calendar.
+      <description>Every year, Advent of Code (AoC) publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with. The problems start out fairly easy, with each subsequent day generally increasing in difficulty.
+For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)</description>
+      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; (AoC) publishes a coding challenge each day of the Advent calendar.
 The problems are fun and Christmassy, what&amp;rsquo;s not to love?
-It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.&lt;/p&gt;
+It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
+The problems start out fairly easy, with each subsequent day generally increasing in difficulty.&lt;/p&gt;
 &lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
-&lt;p&gt;Note that 9 Dec will be our last meeting before the Christmas break.&lt;/p&gt;
+&lt;p&gt;They get released daily from 1 Dec, so feel free to get a head start with the first puzzle on the Wednesday.
+I&amp;rsquo;ll set up a Computing Club AoC leaderboard for us for those who want a bit of competitivity.
+You can join it &lt;a href=&#34;https://adventofcode.com/2021/leaderboard/private&#34;&gt;here&lt;/a&gt; with the join code that I&amp;rsquo;ll distribute by email.&lt;/p&gt;
+&lt;p&gt;Note that 9 Dec will be our last meeting before the Winter break.&lt;/p&gt;
 </content>
     </item>
     

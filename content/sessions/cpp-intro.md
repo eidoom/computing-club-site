@@ -9,4 +9,4 @@ showFullContent = false
 type = "posts"
 +++
 
-The slides for Sofie's talk last week on introductory `C++` can be accessed [here](../../img/C_intro_slides.pdf).
+The slides for [Sofie]({{< ref "sofie-erner" >}})'s talk last week on introductory `C++` can be accessed [here](../../img/C_intro_slides.pdf).

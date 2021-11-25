@@ -11,14 +11,14 @@ type = "posts"
 
 A quick summary of our first meeting.
 
-Over the next few weeks, we'll cover the following topics:
+Over the next few weeks, we'll cover the following [topics]({{< ref "topics" >}}):
 
-* computing environment basics (Yannick - next week)
+* [computing environment basics]({{< ref "toolkit" >}}) ([Yannick]({{< ref "yannick-ulrich" >}}) - next week)
     * shell
     * git
-* Python package management (Ryan)
-* C++ introduction (Ryan)
-* Continuous integration and deployment (Hitham)
+* Python package management ([Ryan]({{< ref "ryan-moodie" >}}))
+* [C++ introduction]({{< ref "sessions/cpp-intro" >}}) (~~[Ryan]({{< ref "ryan-moodie" >}})~~ [Sofie]({{< ref "sofie-erner" >}}))
+* Continuous integration and deployment ([Hitham]({{< ref "hitham-hassan" >}}))
 
 On the format, most sessions will loosely involve someone (or a group)
 presenting some prepared (but informal) content over around half an

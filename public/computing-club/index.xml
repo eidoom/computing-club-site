@@ -15,11 +15,11 @@
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/past-gdb/</guid>
       <description>Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!
 Thanks to Hitham for today&amp;rsquo;s session on gdb.
-The slides for Sofie&amp;rsquo;s talk last week are now available.
+The slides for the talk last week by Sofie are now available.
 Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
       <content>&lt;p&gt;Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!&lt;/p&gt;
-&lt;p&gt;Thanks to Hitham for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/&#34;&gt;slides for Sofie&amp;rsquo;s talk last week&lt;/a&gt; are now available.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt; for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/&#34;&gt;slides for the talk last week&lt;/a&gt; by &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt; are now available.&lt;/p&gt;
 &lt;p&gt;Next week, we&amp;rsquo;ll be trying out &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/&#34;&gt;some festive coding challenges&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -31,7 +31,7 @@ Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</descri
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/</guid>
       <description>The code and slides for Hitham&amp;rsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
-      <content>&lt;p&gt;The code and slides for Hitham&amp;rsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.
+      <content>&lt;p&gt;The code and slides for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt;&amp;rsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.
 There&amp;rsquo;s also a recording of the meeting &lt;a href=&#34;https://durhamuniversity-my.sharepoint.com/:v:/g/personal/jndn32_durham_ac_uk/ERth0bjbwXZOmjy0caqrP-ABULr7mSGpnLZYcSvD7lmI8A?e=KkpVdK&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -43,7 +43,7 @@ There&amp;rsquo;s also a recording of the meeting &lt;a href=&#34;https://durham
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/</guid>
       <description>The slides for Sofie&amp;rsquo;s talk last week on introductory C++ can be accessed here.</description>
-      <content>&lt;p&gt;The slides for Sofie&amp;rsquo;s talk last week on introductory &lt;code&gt;C++&lt;/code&gt; can be accessed &lt;a href=&#34;../../img/C_intro_slides.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;The slides for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt;&amp;rsquo;s talk last week on introductory &lt;code&gt;C++&lt;/code&gt; can be accessed &lt;a href=&#34;../../img/C_intro_slides.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -231,19 +231,19 @@ hands-on work involving &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/c
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/reboot/</guid>
       <description>A quick summary of our first meeting.
 Over the next few weeks, we&amp;rsquo;ll cover the following topics:
- computing environment basics (Yannick - next week)  shell git   Python package management (Ryan) C++ introduction (Ryan) Continuous integration and deployment (Hitham)  On the format, most sessions will loosely involve someone (or a group) presenting some prepared (but informal) content over around half an hour, with remaining time for discussion and where possible hands-on playing with code.</description>
+ computing environment basics (Yannick - next week)  shell git   Python package management (Ryan) C++ introduction (Ryan Sofie) Continuous integration and deployment (Hitham)  On the format, most sessions will loosely involve someone (or a group) presenting some prepared (but informal) content over around half an hour, with remaining time for discussion and where possible hands-on playing with code.</description>
       <content>&lt;p&gt;A quick summary of our first meeting.&lt;/p&gt;
-&lt;p&gt;Over the next few weeks, we&amp;rsquo;ll cover the following topics:&lt;/p&gt;
+&lt;p&gt;Over the next few weeks, we&amp;rsquo;ll cover the following &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/&#34;&gt;topics&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;computing environment basics (Yannick - next week)
+&lt;li&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/&#34;&gt;computing environment basics&lt;/a&gt; (&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/&#34;&gt;Yannick&lt;/a&gt; - next week)
 &lt;ul&gt;
 &lt;li&gt;shell&lt;/li&gt;
 &lt;li&gt;git&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Python package management (Ryan)&lt;/li&gt;
-&lt;li&gt;C++ introduction (Ryan)&lt;/li&gt;
-&lt;li&gt;Continuous integration and deployment (Hitham)&lt;/li&gt;
+&lt;li&gt;Python package management (&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/&#34;&gt;C++ introduction&lt;/a&gt; (&lt;del&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&lt;/del&gt; &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Continuous integration and deployment (&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;On the format, most sessions will loosely involve someone (or a group)
 presenting some prepared (but informal) content over around half an

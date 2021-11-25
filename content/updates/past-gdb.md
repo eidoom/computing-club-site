@@ -11,8 +11,8 @@ type = "posts"
 
 Apologies for all the technical difficulties we encountered today---at least we successfully debugged them!
 
-Thanks to Hitham for [today's session on `gdb`]({{< ref "gdb-intro" >}}).
+Thanks to [Hitham]({{< ref "hitham-hassan" >}}) for [today's session on `gdb`]({{< ref "gdb-intro" >}}).
 
-The [slides for Sofie's talk last week]({{< ref "sessions/cpp-intro" >}}) are now available.
+The [slides for the talk last week]({{< ref "sessions/cpp-intro" >}}) by [Sofie]({{< ref "sofie-erner" >}}) are now available.
 
 Next week, we'll be trying out [some festive coding challenges]({{< ref "updates/aoc2021" >}}).

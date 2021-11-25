@@ -6,7 +6,24 @@
     <description>Recent content in challenges on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Nov 2021 21:11:12 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 13:40:01 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next meeting: Advent of Code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/past-gdb/</link>
+      <pubDate>Thu, 25 Nov 2021 13:40:01 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/past-gdb/</guid>
+      <description>Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!
+Thanks to Hitham for today&amp;rsquo;s session on gdb.
+The slides for Sofie&amp;rsquo;s talk last week are now available.
+Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
+      <content>&lt;p&gt;Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!&lt;/p&gt;
+&lt;p&gt;Thanks to Hitham for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/&#34;&gt;slides for Sofie&amp;rsquo;s talk last week&lt;/a&gt; are now available.&lt;/p&gt;
+&lt;p&gt;Next week, we&amp;rsquo;ll be trying out &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/&#34;&gt;some festive coding challenges&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Advent of Code 2021</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</link>

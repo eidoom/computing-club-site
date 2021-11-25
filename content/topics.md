@@ -13,6 +13,7 @@ layout = "topics"
 * [x] Basic `git` (Yannick)
 * [x] Basic `C++` (Sofie)
 * [ ] `Python` package management (Ryan)
+* [x] Basic `gdb` (Hitham)
 * [ ] [Advent of Code 2021](https://adventofcode.com/2021) (Ryan)
 * [ ] Quantum computing algorithms (Mia)
 * [ ] Continuous integration (Hitham)

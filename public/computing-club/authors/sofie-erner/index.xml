@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sofie Erner on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/</link>
+    <description>Recent content in Sofie Erner on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 25 Nov 2021 13:26:07 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to `C&#43;&#43;`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/</link>
+      <pubDate>Thu, 25 Nov 2021 13:26:07 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/</guid>
+      <description>The slides for Sofie&amp;rsquo;s talk last week on introductory C++ can be accessed here.</description>
+      <content>&lt;p&gt;The slides for Sofie&amp;rsquo;s talk last week on introductory &lt;code&gt;C++&lt;/code&gt; can be accessed &lt;a href=&#34;../../img/C_intro_slides.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

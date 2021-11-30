@@ -15,14 +15,6 @@
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/lois/</guid>
       <description>This is a test of my ability to push to the website while ill, having sadly missed Comp Club this week. This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of bias):
  Bourbons Dark chocolate digestives Jammy dodgers  </description>
-      <content>&lt;p&gt;This is a test of my ability to push to the website while ill, having sadly missed Comp Club this week.
-This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of bias):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Bourbons&lt;/li&gt;
-&lt;li&gt;Dark chocolate digestives&lt;/li&gt;
-&lt;li&gt;Jammy dodgers&lt;/li&gt;
-&lt;/ul&gt;
-</content>
     </item>
     
     <item>
@@ -32,7 +24,6 @@ This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of b
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/spookyoreos/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -42,8 +33,6 @@ This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of b
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/dmilne/</guid>
       <description>test</description>
-      <content>&lt;p&gt;test&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -55,72 +44,6 @@ This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of b
       <description>I thought I&amp;rsquo;d better record some of the stuff I did to address these issues.
 Updating Raspian from Jessie to Stretch This was simply a matter of changing the OS version in the sources files and running an update:
 sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list.d/raspi.list sudo apt update sudo apt -y dist-upgrade I also had to say yes or no to some prompts about changing configuration files to the new default or keeping the old customized one.</description>
-      <content>&lt;p&gt;I thought I&amp;rsquo;d better record some of the stuff I did to address &lt;a href=&#34;https://github.com/eidoom/GaltonBoard/issues/14&#34;&gt;these issues&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;updating-raspian-from-jessie-to-stretch&#34;&gt;Updating Raspian from Jessie to Stretch&lt;/h3&gt;
-&lt;p&gt;This was simply a matter of changing the OS version in the sources files and running an update:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo sed -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;s/jessie/stretch/g&amp;#34;&lt;/span&gt; /etc/apt/sources.list
-sudo sed -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;s/jessie/stretch/g&amp;#34;&lt;/span&gt; /etc/apt/sources.list.d/raspi.list
-sudo apt update
-sudo apt -y dist-upgrade
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I also had to say yes or no to some prompts about changing configuration files to the new default or keeping the old customized one.&lt;/p&gt;
-&lt;p&gt;One of the Pis had a smaller disk than the others.
-It was the same one that was broken (see below).
-That made updating more difficult as &lt;code&gt;sudo apt -y dist-upgrade&lt;/code&gt; did not proceed due to lack of disk space.
-My solution was to remove the biggest package, &lt;code&gt;wolfram-engine&lt;/code&gt;, then continue as above.&lt;/p&gt;
-&lt;h3 id=&#34;chromium-in-kiosk-mode&#34;&gt;Chromium in kiosk mode&lt;/h3&gt;
-&lt;p&gt;I noticed that right-click menus were appearing when people were playing NuOdyssey at Celebrate Science and that the fullscreen was somehow being exited.
-These problems can be avoided by running Chromium in kiosk mode, which forces fullscreen always and disables right-click.
-I made a desktop file to start NuOdyssey in a kiosk mode session of Chromium:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat nuodyssey.desktop
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Desktop Entry]
-Type=Application
-Terminal=false
-Exec=chromium-browser --kiosk localhost
-Name=NuOdyssey
-Comment=A game about neutrinos
-Categories=Education;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and put it on the desktop of the Neutrino Pis.&lt;/p&gt;
-&lt;h3 id=&#34;changing-the-password-----when-you-dont-know-the-password&#34;&gt;Changing the password &amp;mdash; when you don&amp;rsquo;t know the password&lt;/h3&gt;
-&lt;p&gt;This was surprisingly easy, as the Pis are set up to run sudo without a password prompt. Simply run:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo passwd pi
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;to get a prompt to set the new password for the user &lt;code&gt;pi&lt;/code&gt;.
-I have recorded the new password in the outreach document.&lt;/p&gt;
-&lt;h3 id=&#34;disabling-screen-blanking&#34;&gt;Disabling screen blanking&lt;/h3&gt;
-&lt;p&gt;Since we&amp;rsquo;re using LightDM:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat /etc/X11/default-display-manager
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;/usr/sbin/lightdm
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;edit the lightdm configuration file&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo vim /etc/lightdm/lightdm.conf
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and add&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;xserver-command=X -s 0 dpms
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;below &lt;code&gt;[Seat:*]&lt;/code&gt; to disable screen blanking.&lt;/p&gt;
-&lt;h3 id=&#34;fixing-the-dead-pi&#34;&gt;Fixing the dead Pi&lt;/h3&gt;
-&lt;p&gt;One of the Pis stopped coming on when plugged in.
-The (red) power light came on, so it had power.
-However, the (green) SD card activity light did not come on, suggesting a problem with the SD card.
-I dismantled the enclosure to get access to the SD card, which is located as shown by the red square below.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../img/raspi.jpg&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;p&gt;On reseating the card, the Pi started working again.
-Good old &amp;ldquo;turn it off and on again&amp;rdquo;.&lt;/p&gt;
-&lt;h3 id=&#34;setting-hostnames&#34;&gt;Setting hostnames&lt;/h3&gt;
-&lt;p&gt;On most Pis, I noticed sudo was complaining:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo: unable to resolve host HOSTNAME
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where I have replaced the real hostname with &lt;code&gt;HOSTNAME&lt;/code&gt;.
-I noticed that &lt;code&gt;/etc/hosts&lt;/code&gt; was not correctly configured with the right hostname, so changed it to look like:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat /etc/hosts
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;127.0.0.1       localhost
-::1             localhost ip6-localhost ip6-loopback
-ff02::1         ip6-allnodes
-ff02::2         ip6-allrouters
-
-127.0.1.1       HOSTNAME
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;That stopped the error messages.&lt;/p&gt;
-&lt;p&gt;On the other Pis, the hostname had not been changed from the default.
-This makes it difficult to distinguish them, especially when accessing them by SSH.
-To change the hostname, I made the same change as above and also changed the hostname file so that it looked like:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat /etc/hostname
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;HOSTNAME
-&lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
     <item>
@@ -132,53 +55,6 @@ To change the hostname, I made the same change as above and also changed the hos
       <description>Today was the first day of Celebrate Science 2019. Whilst taking a break from running our exhibit, I had a look at our Pis.
 Meet the Pis There are nine in total.
 Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. Apparently it was written by somebody called Sunil, anybody know that story? You just start the browser which automatically brings up the game as its starting page.</description>
-      <content>&lt;p&gt;Today was the first day of Celebrate Science 2019.
-Whilst taking a break from running our exhibit, I had a look at our Pis.&lt;/p&gt;
-&lt;h3 id=&#34;meet-the-pis&#34;&gt;Meet the Pis&lt;/h3&gt;
-&lt;p&gt;There are nine in total.&lt;/p&gt;
-&lt;p&gt;Four have stands in the horizontal/landscape configuration.
-Yesterday, &lt;a href=&#34;../../author/henry-truong/&#34;&gt;Henry&lt;/a&gt; and I found that three of these run the &lt;a href=&#34;https://ghostsintheuniverse.org/nuodyssey/&#34;&gt;NuOdyssey game&lt;/a&gt; locally.
-Apparently it was written by somebody called &lt;a href=&#34;https://xikka.com/about&#34;&gt;Sunil&lt;/a&gt;, anybody know that story?
-You just start the browser which automatically brings up the game as its starting page.&lt;/p&gt;
-&lt;p&gt;The fourth horizontal one, which is visually distinguishable from the others, runs the Galton server: you interface the Pi with the Galton board via USB and it records balls passing through the light gates.
-I found that this all worked: it recorded the physical Galton board and graphed the results in realtime.
-The Galton server Pi has also been set up to remotely control the other Pis.
-It has scripts to remotely shutdown, reboot, and start and stop simulations.
-I found that this was not working, though.&lt;/p&gt;
-&lt;p&gt;The other five are in the vertical/portrait configuration and run the Galton simulation.
-I had noticed that one of these has nothing installed on it, so I installed the Galton simulation software on it.
-I decided to record the process here since it would have been &lt;em&gt;very&lt;/em&gt; useful for such a resource to exist for me to use!
-And also because I&amp;rsquo;m waiting for a Pi to finish updating itself&amp;hellip;&lt;/p&gt;
-&lt;h3 id=&#34;getting-online&#34;&gt;Getting online&lt;/h3&gt;
-&lt;p&gt;Firstly, the Pis don&amp;rsquo;t seem to be able to connect the university wifi, probably because they don&amp;rsquo;t support the security protocol &amp;mdash; maybe something we could fix by installing a new package?
-You can, however, log into the wifi network &lt;code&gt;TheCloud@Durham&lt;/code&gt; - although you may have to manually navigate to &lt;a href=&#34;//service.thecloud.net&#34;&gt;//service.thecloud.net&lt;/a&gt; to complete login - or plug in an ethernet cable.
-Once online, I ran a &lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt -y full-upgrade&lt;/code&gt; (then &lt;code&gt;reboot&lt;/code&gt;) for good measure.
-This took a long time.
-Then I ran &lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt install emacs vim&lt;/code&gt; to keep everyone happy.&lt;/p&gt;
-&lt;h3 id=&#34;portrait-mode&#34;&gt;Portrait mode&lt;/h3&gt;
-&lt;p&gt;Next, I had to configure the Pi to operate in portrait mode.
-The screen can be rotated by&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;echo rotate_display=3 &amp;gt;&amp;gt; /boot/config.txt&amp;#34;&lt;/span&gt; | sudo sh
-sudo reboot
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;which just appends a screen rotation command to the Pi&amp;rsquo;s boot configuration file under sudo privileges and restarts the Pi.
-The touchscreen, however, remains configured for a landscape configuration.
-To fix this behaviour, I had to persistently adjust the coordinate transformation matrix for the FT5406 touch controller with&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;xinput set-prop &amp;#39;FT5406 memory based driver&amp;#39; &amp;#39;Coordinate Transformation Matrix&amp;#39; 0 -1 1 1 0 0 0 0 1&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; ~/.xsessionrc
-sudo reboot
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It took me forever to figure that one out!&lt;/p&gt;
-&lt;h3 id=&#34;getting-the-galton-code-on-the-pi&#34;&gt;Getting the Galton code on the Pi&lt;/h3&gt;
-&lt;p&gt;With all that out of the way, I could move onto installing the Galton software.
-I made a folder for git repos&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mkdir ~/git
-cd git
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then cloned the GaltonBoard repo&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone https://github.com/eidoom/GaltonBoard.git
-cd GaltonBoard
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and installed dependancies (recall that &lt;a href=&#34;../../author/james-whitehead/&#34;&gt;James&lt;/a&gt; has updated the software for Python 3)&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install python3 python3-numpy python3-matplotlib python3-scipy
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;before trying the simulation, &lt;code&gt;./galtonsim&lt;/code&gt;, and it worked!&lt;/p&gt;
-&lt;p&gt;I also automated the installation of the application shortcut to the desktop and application menu (with an icon), which can be run with &lt;code&gt;./install-sim.sh&lt;/code&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -188,8 +64,6 @@ cd GaltonBoard
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/galton/</guid>
       <description>The code for the Raspberry Pi Galton board simulation is now on github. It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just send me an email with your github username and I&amp;rsquo;ll add you as a collaborator.</description>
-      <content>&lt;p&gt;The code for the Raspberry Pi Galton board simulation is now on github.  It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just &lt;a href=&#34;mailto:james.c.whitehead@durham.ac.uk&#34;&gt;send me an email&lt;/a&gt; with your github username and I&amp;rsquo;ll add you as a collaborator.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -199,7 +73,6 @@ cd GaltonBoard
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/gdl/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -211,10 +84,6 @@ cd GaltonBoard
       <description>Oh, I do love huel,
 Oh, unsweetened, unflavoured,
 How you spoil me&amp;hellip;</description>
-      <content>&lt;p&gt;Oh, I do love huel,&lt;/p&gt;
-&lt;p&gt;Oh, unsweetened, unflavoured,&lt;/p&gt;
-&lt;p&gt;How you spoil me&amp;hellip;&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -224,7 +93,6 @@ How you spoil me&amp;hellip;</description>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/image/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -234,8 +102,6 @@ How you spoil me&amp;hellip;</description>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/lucy/</guid>
       <description>Everybody come to the outreach meeting at 3pm in the coffee area!</description>
-      <content>&lt;p&gt;Everybody come to the outreach meeting at 3pm in the coffee area!&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -246,9 +112,6 @@ How you spoil me&amp;hellip;</description>
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/apple_juice/</guid>
       <description>A message from sun magic:
 Beware aliens found in certain apple juice bottles located in the durham area</description>
-      <content>&lt;p&gt;A message from sun magic:&lt;/p&gt;
-&lt;p&gt;Beware aliens found in certain apple juice bottles located in the durham area&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -258,8 +121,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/new/</guid>
       <description>Helllo! Who saw this coming?!?!</description>
-      <content>&lt;p&gt;Helllo! Who saw this coming?!?!&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -269,8 +130,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ermagerd/</guid>
       <description>We did it ! Well done everyone - let&amp;rsquo;s go teamwork!</description>
-      <content>&lt;p&gt;We did it ! Well done everyone - let&amp;rsquo;s go teamwork!&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -280,8 +139,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/huel/</guid>
       <description>This posts aims at sending my promo code away.</description>
-      <content>&lt;p&gt;This posts aims at sending my promo code away.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -291,8 +148,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/post_two/</guid>
       <description>Content.</description>
-      <content>&lt;p&gt;Content.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -302,8 +157,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/one/</guid>
       <description>This is the content.</description>
-      <content>&lt;p&gt;This is the content.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -313,8 +166,6 @@ Beware aliens found in certain apple juice bottles located in the durham area</d
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/posts/ippp/</guid>
       <description>even people who missed computing club can do it</description>
-      <content>&lt;p&gt;even people who missed computing club can do it&lt;/p&gt;
-</content>
     </item>
     
   </channel>

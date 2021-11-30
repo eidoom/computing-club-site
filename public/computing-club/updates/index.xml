@@ -17,11 +17,6 @@
 Thanks to Hitham for today&amp;rsquo;s session on gdb.
 The slides for the talk last week by Sofie are now available.
 Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
-      <content>&lt;p&gt;Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!&lt;/p&gt;
-&lt;p&gt;Thanks to &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt; for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/&#34;&gt;slides for the talk last week&lt;/a&gt; by &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt; are now available.&lt;/p&gt;
-&lt;p&gt;Next week, we&amp;rsquo;ll be trying out &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/&#34;&gt;some festive coding challenges&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -32,10 +27,6 @@ Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</descri
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/next-gdb/</guid>
       <description>A reminder that tomorrow Hitham will be introducing us to basic gdb debugging of C++, Thurs 25 Nov 1300 GMT in OC218 and via Zoom. I&amp;rsquo;ll most likely be joining virtually myself tomorrow.
 The code and slides (to follow) for the session can be found at Hitham2496/Computing-Talks.</description>
-      <content>&lt;p&gt;A reminder that tomorrow Hitham will be introducing us to basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt;, Thurs 25 Nov 1300 GMT in OC218 and via Zoom.
-I&amp;rsquo;ll most likely be joining virtually myself tomorrow.&lt;/p&gt;
-&lt;p&gt;The code and slides (to follow) for the session can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -46,16 +37,6 @@ I&amp;rsquo;ll most likely be joining virtually myself tomorrow.&lt;/p&gt;
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</guid>
       <description>Every year, Advent of Code (AoC) publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with. The problems start out fairly easy, with each subsequent day generally increasing in difficulty.
 For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)</description>
-      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; (AoC) publishes a coding challenge each day of the Advent calendar.
-The problems are fun and Christmassy, what&amp;rsquo;s not to love?
-It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
-The problems start out fairly easy, with each subsequent day generally increasing in difficulty.&lt;/p&gt;
-&lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
-&lt;p&gt;They get released daily from 1 Dec, so feel free to get a head start with the first puzzle on the Wednesday.
-I&amp;rsquo;ll set up a Computing Club AoC leaderboard for us for those who want a bit of competitivity.
-After you &lt;a href=&#34;https://adventofcode.com/2021/auth/login&#34;&gt;log in&lt;/a&gt;, you can join it &lt;a href=&#34;https://adventofcode.com/2021/leaderboard/private&#34;&gt;here&lt;/a&gt; with the join code that I&amp;rsquo;ll distribute by email.&lt;/p&gt;
-&lt;p&gt;Note that 9 Dec will be our last meeting before the Winter break.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -66,14 +47,6 @@ After you &lt;a href=&#34;https://adventofcode.com/2021/auth/login&#34;&gt;log i
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/post-cpp-intro/</guid>
       <description>Thank you to Sofie for running the session today on a first introduction to C++. Judging by the engagement of the audience, this was a very useful meeting for everyone! The slides will appear soon on here.
 Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure. Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip; Hopefully the slides will provide a taster in substitute.</description>
-      <content>&lt;p&gt;Thank you to Sofie for running the session today on a first introduction to &lt;code&gt;C++&lt;/code&gt;.
-Judging by the engagement of the audience, this was a very useful meeting for everyone!
-The slides will appear soon on here.&lt;/p&gt;
-&lt;p&gt;Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure.
-Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip;
-Hopefully the slides will provide a taster in substitute.&lt;/p&gt;
-&lt;p&gt;Next week, Hitham will be continuing in the vein of &lt;code&gt;C++&lt;/code&gt; programming by covering the most difficult and important part of it: basic debugging in &lt;code&gt;C++&lt;/code&gt; with &lt;code&gt;gdb&lt;/code&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -85,14 +58,6 @@ Hopefully the slides will provide a taster in substitute.&lt;/p&gt;
       <description>Hi,
 Thank you again to Yannick for the two part shell and git introduction he has run the past two weeks. I hope the idea of the (Linux) shell as a development environment and the version control workflow provided by git started to make sense for everyone after a chance to put it into practice. Please feel welcome to continue to play around with this website as a sandbox.
 Next week, Sofie will very kindly be running an introduction to programming in C++.</description>
-      <content>&lt;p&gt;Hi,&lt;/p&gt;
-&lt;p&gt;Thank you again to Yannick for the two part &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/&#34;&gt;shell and git introduction&lt;/a&gt; he has run the past two weeks.
-I hope the idea of the (Linux) shell as a development environment and the version control workflow provided by &lt;code&gt;git&lt;/code&gt; started to make sense for everyone after a chance to put it into practice.
-Please feel welcome to continue to play around with this website as a sandbox.&lt;/p&gt;
-&lt;p&gt;Next week, Sofie will very kindly be running an introduction to programming in C++.&lt;/p&gt;
-&lt;p&gt;I may not be able to make the meeting myself so am relying on &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/tommy/&#34;&gt;Tommy&lt;/a&gt; to pick up the refreshments (thanks!).&lt;/p&gt;
-&lt;p&gt;Ryan&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -102,8 +67,6 @@ Please feel welcome to continue to play around with this website as a sandbox.&l
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics3/</guid>
       <description>A reminder that we&amp;rsquo;ll continue with Yannick&amp;rsquo;s exercise tomorrow in Computing Club, Thurs 11 Nov 1300 GMT in OC218 and via Zoom.</description>
-      <content>&lt;p&gt;A reminder that we&amp;rsquo;ll continue with &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/&#34;&gt;Yannick&amp;rsquo;s exercise&lt;/a&gt; tomorrow in Computing Club, Thurs 11 Nov 1300 GMT in OC218 and via Zoom.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -114,11 +77,6 @@ Please feel welcome to continue to play around with this website as a sandbox.&l
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/basics2/</guid>
       <description>I hope everyone enjoyed today&amp;rsquo;s session and learnt something new. Huge thank you to Yannick for running it! Since we ran out of time today for putting it all into practice, I propose that we continue with the &amp;ldquo;homework&amp;rdquo; in next week&amp;rsquo;s meeting.
 See you then.</description>
-      <content>&lt;p&gt;I hope everyone enjoyed today&amp;rsquo;s session and learnt something new.
-Huge thank you to Yannick for running it!
-Since we ran out of time today for putting it all into practice, I propose that we continue with the &amp;ldquo;homework&amp;rdquo; in next week&amp;rsquo;s meeting.&lt;/p&gt;
-&lt;p&gt;See you then.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -130,14 +88,6 @@ Since we ran out of time today for putting it all into practice, I propose that 
       <description>Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.
 Yannick will be giving an introduction to the efficient computing environment, briefly covering basic shell usage and then focussing on the use of Git for version control of software.
 The slides etc can be found in Yannick&amp;rsquo;s repository which will be live by tomorrow, and the session will also involve hands-on work involving the computing club website.</description>
-      <content>&lt;p&gt;Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/&#34;&gt;Yannick&lt;/a&gt; will be giving an introduction to the efficient computing
-environment, briefly covering basic shell usage and then focussing on
-the use of Git for version control of software.&lt;/p&gt;
-&lt;p&gt;The slides etc can be found in &lt;a href=&#34;https://gitlab.com/yannickulrich/computing-toolkit&#34;&gt;Yannick&amp;rsquo;s repository&lt;/a&gt;
-which will be live by tomorrow, and the session will also involve
-hands-on work involving &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/&#34;&gt;the computing club website&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -149,21 +99,6 @@ hands-on work involving &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/c
       <description>Welcome to our new members and the regulars!
 I&amp;rsquo;ve booked out OC218 (Ogden East Conference Room) for Thursdays at 1300 for the hour. We&amp;rsquo;ll have our first meeting next Thursday, 28 Oct.
 OC218 has a capacity of 44 people, so everyone will be able to attend in person if they wish to. For those wishing to join virtually, I&amp;rsquo;ll set up an Owl and you can connect through the Zoom room circulated through the mailing list.</description>
-      <content>&lt;p&gt;Welcome to our new members and the regulars!&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve booked out OC218 (Ogden East Conference Room) for Thursdays at
-1300 for the hour. We&amp;rsquo;ll have our first meeting next Thursday, 28 Oct.&lt;/p&gt;
-&lt;p&gt;OC218 has a capacity of 44 people, so everyone will be able to attend
-in person if they wish to. For those wishing to join virtually, I&amp;rsquo;ll
-set up an Owl and you can connect through the Zoom room circulated through the mailing list.&lt;/p&gt;
-&lt;p&gt;In our first meeting we can all introduce ourselves and discuss how
-we&amp;rsquo;d like to proceed with the club and the content of following
-sessions.&lt;/p&gt;
-&lt;p&gt;This is a lunchtime club, so please do take food if you want to!&lt;/p&gt;
-&lt;p&gt;Note that there&amp;rsquo;s no expectation of ability or prior knowledge, so everyone please feel very welcome to come
-along.&lt;/p&gt;
-&lt;p&gt;Not that further enticement is required, but tea and coffee will be
-provided!&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -175,32 +110,6 @@ provided!&lt;/p&gt;
       <description>Historically, the IPPP has held a weekly lunchtime Computing Club. This year we&amp;rsquo;d like to invite everyone in Physics who&amp;rsquo;s interested to join. All career levels are welcome.
 We usually run informal seminar style sessions with some open sessions for people to crowd-source solutions to their coding problems. You can see some examples of previous meeting topics at
  https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/ https://shrieking-asylum-67258.herokuapp.com/topics  We also run longer projects for fun when there&amp;rsquo;s interest.</description>
-      <content>&lt;p&gt;Historically, the IPPP has held a weekly lunchtime Computing Club. This
-year we&amp;rsquo;d like to invite everyone in Physics who&amp;rsquo;s interested to join.
-All career levels are welcome.&lt;/p&gt;
-&lt;p&gt;We usually run informal seminar style sessions with some open sessions
-for people to crowd-source solutions to their coding problems. You can
-see some examples of previous meeting topics at&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/&#34;&gt;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shrieking-asylum-67258.herokuapp.com/topics&#34;&gt;https://shrieking-asylum-67258.herokuapp.com/topics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We also run longer projects for fun when there&amp;rsquo;s interest.&lt;/p&gt;
-&lt;p&gt;To join the mailing list, please send a message to
-&lt;a href=&#34;mailto:majordomo@durham.ac.uk&#34;&gt;majordomo@durham.ac.uk&lt;/a&gt; with the following text in the message body:
-subscribe ph-complunchclub
-You then have to follow the authorisation instructions which will be
-emailed back to you. Ensure all emails you send have a plain text body;
-authorisation will not work with HTML emails.&lt;/p&gt;
-&lt;p&gt;If everyone who wants to join fills in their general availability
-(ignore the specific dates and treat as weekly availability) on this
-poll
-&lt;a href=&#34;https://doodle.com/poll/g4rnn55dgxtrt6nd?utm_source=poll&amp;amp;utm_medium=link&#34;&gt;https://doodle.com/poll/g4rnn55dgxtrt6nd?utm_source=poll&amp;amp;utm_medium=link&lt;/a&gt;
-I&amp;rsquo;ll pick the best time for everyone and book an appropriately sized
-room for us. I&amp;rsquo;ll be in touch with you all via the ph-complunchclub
-mailing list once that&amp;rsquo;s sorted.&lt;/p&gt;
-&lt;p&gt;Looking forward to our first meeting!&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -210,10 +119,6 @@ mailing list once that&amp;rsquo;s sorted.&lt;/p&gt;
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/a-new-home-for-computing-club/</guid>
       <description>Yesterday Joey showed us the new dynamic website he has built from scratch for us. Further information and posts will be found there. Here&amp;rsquo;s the link.</description>
-      <content>&lt;p&gt;Yesterday Joey showed us the new dynamic website he has built from scratch for us.
-Further information and posts will be found there.
-Here&amp;rsquo;s the &lt;a href=&#34;http://shrieking-asylum-67258.herokuapp.com/&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -226,13 +131,6 @@ Here&amp;rsquo;s the &lt;a href=&#34;http://shrieking-asylum-67258.herokuapp.com
 today&amp;rsquo;s computing club will be in OC103 at 1pm.
 Abstract by Joey:
 IPPPlog is a blog intended for use by the computing club, to update people on any fun side projects you may be doing, as well as propose topics etc. This website is dynamic, using a MEN stack (MongoDB database, ExpressJS framework, written with NodeJS). I will go through the general way it all works and some specifics if people have questions.</description>
-      <content>&lt;p&gt;Hi all!&lt;/p&gt;
-&lt;p&gt;today&amp;rsquo;s computing club will be in OC103 at 1pm.&lt;/p&gt;
-&lt;p&gt;Abstract by Joey:&lt;/p&gt;
-&lt;p&gt;IPPPlog is a blog intended for use by the computing club, to update people on any fun side projects you may be doing, as well as propose topics etc. This website is dynamic, using a MEN stack (MongoDB database, ExpressJS framework, written with NodeJS). I will go through the general way it all works and some specifics if people have questions. This should be a easier system than the Hugo one as one just creates an account like they would on Facebook rather than being a git collaborator. Hugo is fantastic for quickly making static websites but cannot really compete in the realm of dynamic content (such as blogs).&lt;/p&gt;
-&lt;p&gt;See you later,&lt;/p&gt;
-&lt;p&gt;Giuseppe&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -242,11 +140,6 @@ IPPPlog is a blog intended for use by the computing club, to update people on an
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</guid>
       <description>Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s Wireframe, a magazine about game development. You can download the issue we&amp;rsquo;ll be using for free as a pdf from their site. The Donkey Kong article is on page 40. They&amp;rsquo;ve published their code on GitHub, too.</description>
-      <content>&lt;p&gt;Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s &lt;a href=&#34;https://wireframe.raspberrypi.org/&#34;&gt;Wireframe&lt;/a&gt;, a magazine about game development.
-You can download the issue we&amp;rsquo;ll be using for free as a pdf from their &lt;a href=&#34;https://wireframe.raspberrypi.org/issues/24&#34;&gt;site&lt;/a&gt;.
-The Donkey Kong article is on page 40.
-They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wireframe-Magazine/Wireframe-24&#34;&gt;GitHub&lt;/a&gt;, too.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -256,8 +149,6 @@ They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wir
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-2/</guid>
       <description>On Thursday 31st October (room and time TBC) Andrew will show us how to make a Donkey Kong clone in under 100 lines using pygame, the most popular game library for Python.</description>
-      <content>&lt;p&gt;On Thursday 31st October (room and time TBC) &lt;a href=&#34;../../author/andrew-blance&#34;&gt;Andrew&lt;/a&gt; will show us how to make a Donkey Kong clone in under 100 lines using &lt;a href=&#34;https://www.pygame.org/wiki/about&#34;&gt;pygame&lt;/a&gt;, the most popular game library for Python.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -267,8 +158,6 @@ They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wir
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev/</guid>
       <description>In our next meeting, Andrew is going to take us through a great example of game development in Python.</description>
-      <content>&lt;p&gt;In our next meeting, &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/andrew-blance/&#34;&gt;Andrew&lt;/a&gt; is going to take us through a great example of game development in Python.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -278,8 +167,6 @@ They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wir
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/galton-board-software-2/</guid>
       <description>Find the code here.</description>
-      <content>&lt;p&gt;Find the code &lt;a href=&#34;https://github.com/eidoom/GaltonBoard&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -292,14 +179,6 @@ They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wir
 in today&amp;rsquo;s session we are going to very briefly have a look at the repo with the software used for outreach (Galton board).
 Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)
 We are meeting in OC103 at 1pm.</description>
-      <content>&lt;p&gt;Hi everyone,&lt;/p&gt;
-&lt;p&gt;in today&amp;rsquo;s session we are going to &lt;em&gt;very briefly&lt;/em&gt; have a look at the repo with the software used for outreach (Galton board).&lt;/p&gt;
-&lt;p&gt;Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along!
-We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)&lt;/p&gt;
-&lt;p&gt;We are meeting in OC103 at 1pm.&lt;/p&gt;
-&lt;p&gt;See you later,&lt;/p&gt;
-&lt;p&gt;Giuseppe&lt;/p&gt;
-</content>
     </item>
     
   </channel>

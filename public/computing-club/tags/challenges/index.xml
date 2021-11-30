@@ -17,6 +17,11 @@
 Thanks to Hitham for today&amp;rsquo;s session on gdb.
 The slides for the talk last week by Sofie are now available.
 Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
+      <content>&lt;p&gt;Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt; for &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/&#34;&gt;slides for the talk last week&lt;/a&gt; by &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt; are now available.&lt;/p&gt;
+&lt;p&gt;Next week, we&amp;rsquo;ll be trying out &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/&#34;&gt;some festive coding challenges&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -27,6 +32,16 @@ Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</descri
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/</guid>
       <description>Every year, Advent of Code (AoC) publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with. The problems start out fairly easy, with each subsequent day generally increasing in difficulty.
 For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)</description>
+      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; (AoC) publishes a coding challenge each day of the Advent calendar.
+The problems are fun and Christmassy, what&amp;rsquo;s not to love?
+It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
+The problems start out fairly easy, with each subsequent day generally increasing in difficulty.&lt;/p&gt;
+&lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
+&lt;p&gt;They get released daily from 1 Dec, so feel free to get a head start with the first puzzle on the Wednesday.
+I&amp;rsquo;ll set up a Computing Club AoC leaderboard for us for those who want a bit of competitivity.
+After you &lt;a href=&#34;https://adventofcode.com/2021/auth/login&#34;&gt;log in&lt;/a&gt;, you can join it &lt;a href=&#34;https://adventofcode.com/2021/leaderboard/private&#34;&gt;here&lt;/a&gt; with the join code that I&amp;rsquo;ll distribute by email.&lt;/p&gt;
+&lt;p&gt;Note that 9 Dec will be our last meeting before the Winter break.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

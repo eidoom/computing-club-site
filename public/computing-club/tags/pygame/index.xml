@@ -14,6 +14,11 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-3/</guid>
       <description>Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s Wireframe, a magazine about game development. You can download the issue we&amp;rsquo;ll be using for free as a pdf from their site. The Donkey Kong article is on page 40. They&amp;rsquo;ve published their code on GitHub, too.</description>
+      <content>&lt;p&gt;Next week&amp;rsquo;s game dev session is inspired by Raspberry Pi&amp;rsquo;s &lt;a href=&#34;https://wireframe.raspberrypi.org/&#34;&gt;Wireframe&lt;/a&gt;, a magazine about game development.
+You can download the issue we&amp;rsquo;ll be using for free as a pdf from their &lt;a href=&#34;https://wireframe.raspberrypi.org/issues/24&#34;&gt;site&lt;/a&gt;.
+The Donkey Kong article is on page 40.
+They&amp;rsquo;ve published their code on &lt;a href=&#34;https://github.com/Wireframe-Magazine/Wireframe-24&#34;&gt;GitHub&lt;/a&gt;, too.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -23,6 +28,8 @@
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/python-game-dev-2/</guid>
       <description>On Thursday 31st October (room and time TBC) Andrew will show us how to make a Donkey Kong clone in under 100 lines using pygame, the most popular game library for Python.</description>
+      <content>&lt;p&gt;On Thursday 31st October (room and time TBC) &lt;a href=&#34;../../author/andrew-blance&#34;&gt;Andrew&lt;/a&gt; will show us how to make a Donkey Kong clone in under 100 lines using &lt;a href=&#34;https://www.pygame.org/wiki/about&#34;&gt;pygame&lt;/a&gt;, the most popular game library for Python.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

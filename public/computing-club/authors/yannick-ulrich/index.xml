@@ -16,6 +16,16 @@
       <description>In this session I discuss the basic toolkits everyone should know
  the command line PATH git basics vim basics  For further reading, I suggest https://missing.csail.mit.edu/
 slides</description>
+      <content>&lt;p&gt;In this session I discuss the basic toolkits everyone should know&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the command line&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;PATH&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;git basics&lt;/li&gt;
+&lt;li&gt;vim basics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further reading, I suggest &lt;a href=&#34;https://missing.csail.mit.edu/&#34;&gt;https://missing.csail.mit.edu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../img/yu-toolkit.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
     
   </channel>

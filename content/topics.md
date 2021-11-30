@@ -19,7 +19,8 @@ layout = "topics"
 * [ ] Continuous integration (Hitham)
 * [ ] McMule (Yannick)
 * [ ] Advanced `C++` (Ryan)
-* [ ] Unit tests
+* [ ] Unit tests (Stephen)
+* [ ] CUDA (Stephen)
 
 #### Old ideas
 

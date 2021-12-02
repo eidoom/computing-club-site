@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
-    <lastmod>2021-11-25T13:40:01+00:00</lastmod>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/aoc21a/</loc>
+    <lastmod>2021-12-02T16:05:17+00:00</lastmod>
   </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/c&#43;&#43;/</loc>
-    <lastmod>2021-11-25T13:40:01+00:00</lastmod>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/</loc>
+    <lastmod>2021-12-02T16:05:17+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/challenges/</loc>
-    <lastmod>2021-11-25T13:40:01+00:00</lastmod>
+    <lastmod>2021-12-02T16:05:17+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/</loc>
+    <lastmod>2021-12-02T16:05:17+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/</loc>
+    <lastmod>2021-12-02T16:05:17+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
+    <lastmod>2021-12-02T16:05:17+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/c&#43;&#43;/</loc>
     <lastmod>2021-11-25T13:40:01+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/gdb/</loc>
     <lastmod>2021-11-25T13:40:01+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/past-gdb/</loc>
-    <lastmod>2021-11-25T13:40:01+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/tags/</loc>
     <lastmod>2021-11-25T13:40:01+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2021-11-25T13:35:45+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/gdb-intro/</loc>
-    <lastmod>2021-11-25T13:35:45+00:00</lastmod>
-  </url><url>
-    <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/</loc>
     <lastmod>2021-11-25T13:35:45+00:00</lastmod>
   </url><url>
     <loc>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/cpp-intro/</loc>

@@ -1,7 +1,7 @@
 +++
 title = "Advent of Code 2021"
 date = "2021-12-02T16:05:17Z"
-authors = ["Ryan Moodie"]
+authors = ["Ryan Moodie", "Yannick Ulrich"]
 cover = ""
 tags = ["challenges"]
 description = "Starting the Computing Club AoC leaderboard"
@@ -25,3 +25,4 @@ Name|Repository|Language(s)
 [Ryan]({{< ref "ryan-moodie" >}})|https://gitlab.com/eidoom/aoc21|Common Lisp
 Mia|https://github.com/miarobin/AdventOfCode21|Python
 [Lois]({{<ref "lois-flower" >}})|https://github.com/dismalphysicist/AdventOfCode2021|Python
+[Yannick]({{<ref "yannick-ulrich" >}})|https://gitlab.com/yannickulrich/aoc-2021|Python, later Haskell

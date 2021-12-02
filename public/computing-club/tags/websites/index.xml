@@ -61,40 +61,40 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 &lt;p&gt;Clone the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;repo&lt;/a&gt;:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Navigate to the root directory of the repo locally&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;cd computing-club-site
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;cd computing-club-site
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Run a local Hugo server so you can check out your changes in realtime &lt;a href=&#34;//localhost:1313/computing-club/&#34;&gt;here&lt;/a&gt; with&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo server
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo server
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Make your new session page by running&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo new sessions/NAME.md
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo new sessions/NAME.md
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Edit the metadata within the &lt;code&gt;+++&lt;/code&gt;&amp;rsquo;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim content/sessions/NAME.md
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim content/sessions/NAME.md
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The metadata field &lt;code&gt;cover&lt;/code&gt; should point at the cover image for your page. Add the image file to &lt;code&gt;static/img&lt;/code&gt; along with any other images (or other media files) you include. Note that the path should not include &lt;code&gt;static&lt;/code&gt; as the contents of static are put into the root of the compiled website. So for a cover image at &lt;code&gt;static/img/COVER.png&lt;/code&gt;, the metadata field &lt;code&gt;cover&lt;/code&gt; should be the path &lt;code&gt;&amp;quot;img/COVER.png&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Stage your changes:&lt;/li&gt;
 &lt;li&gt;If you want to push the newly compiled website, first generate the updated static website by running&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add .
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add .
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Or if you want to push your changes to the source without pushing the compiled website, just&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add content/sessions/NAME.md static/img/PHOTO.png
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add content/sessions/NAME.md static/img/PHOTO.png
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and any other media files you included&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Then finally push your changes to the remote repo&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;MESSAGE&amp;#34;&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;MESSAGE&amp;#34;&lt;/span&gt;
 git push
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and you&amp;rsquo;re done!&lt;/p&gt;
 &lt;p&gt;Have a look at the &lt;a href=&#34;//github.com/eidoom/computing-club-site/blob/master/content/sessions/static-website-generation-with-hugo.md&#34;&gt;source for this page&lt;/a&gt; if you like. The &lt;a href=&#34;//gohugo.io/categories/getting-started&#34;&gt;Hugo docs&lt;/a&gt; are also pretty good.&lt;/p&gt;

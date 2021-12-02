@@ -195,7 +195,7 @@
 		<p>I thought I&rsquo;d better record some of the stuff I did to address <a href="https://github.com/eidoom/GaltonBoard/issues/14">these issues</a>.</p>
 <h3 id="updating-raspian-from-jessie-to-stretch">Updating Raspian from Jessie to Stretch</h3>
 <p>This was simply a matter of changing the OS version in the sources files and running an update:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo sed -i <span style="color:#e6db74">&#34;s/jessie/stretch/g&#34;</span> /etc/apt/sources.list
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo sed -i <span style="color:#e6db74">&#34;s/jessie/stretch/g&#34;</span> /etc/apt/sources.list
 sudo sed -i <span style="color:#e6db74">&#34;s/jessie/stretch/g&#34;</span> /etc/apt/sources.list.d/raspi.list
 sudo apt update
 sudo apt -y dist-upgrade
@@ -208,8 +208,8 @@ My solution was to remove the biggest package, <code>wolfram-engine</code>, then
 <p>I noticed that right-click menus were appearing when people were playing NuOdyssey at Celebrate Science and that the fullscreen was somehow being exited.
 These problems can be avoided by running Chromium in kiosk mode, which forces fullscreen always and disables right-click.
 I made a desktop file to start NuOdyssey in a kiosk mode session of Chromium:</p>
-<pre tabindex="0"><code>$ cat nuodyssey.desktop
-</code></pre><pre tabindex="0"><code>[Desktop Entry]
+<pre><code>$ cat nuodyssey.desktop
+</code></pre><pre><code>[Desktop Entry]
 Type=Application
 Terminal=false
 Exec=chromium-browser --kiosk localhost
@@ -219,17 +219,17 @@ Categories=Education;
 </code></pre><p>and put it on the desktop of the Neutrino Pis.</p>
 <h3 id="changing-the-password-----when-you-dont-know-the-password">Changing the password &mdash; when you don&rsquo;t know the password</h3>
 <p>This was surprisingly easy, as the Pis are set up to run sudo without a password prompt. Simply run:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo passwd pi
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo passwd pi
 </code></pre></div><p>to get a prompt to set the new password for the user <code>pi</code>.
 I have recorded the new password in the outreach document.</p>
 <h3 id="disabling-screen-blanking">Disabling screen blanking</h3>
 <p>Since we&rsquo;re using LightDM:</p>
-<pre tabindex="0"><code>$ cat /etc/X11/default-display-manager
-</code></pre><pre tabindex="0"><code>/usr/sbin/lightdm
+<pre><code>$ cat /etc/X11/default-display-manager
+</code></pre><pre><code>/usr/sbin/lightdm
 </code></pre><p>edit the lightdm configuration file</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo vim /etc/lightdm/lightdm.conf
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo vim /etc/lightdm/lightdm.conf
 </code></pre></div><p>and add</p>
-<pre tabindex="0"><code>xserver-command=X -s 0 dpms
+<pre><code>xserver-command=X -s 0 dpms
 </code></pre><p>below <code>[Seat:*]</code> to disable screen blanking.</p>
 <h3 id="fixing-the-dead-pi">Fixing the dead Pi</h3>
 <p>One of the Pis stopped coming on when plugged in.
@@ -241,11 +241,11 @@ I dismantled the enclosure to get access to the SD card, which is located as sho
 Good old &ldquo;turn it off and on again&rdquo;.</p>
 <h3 id="setting-hostnames">Setting hostnames</h3>
 <p>On most Pis, I noticed sudo was complaining:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo: unable to resolve host HOSTNAME
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">sudo: unable to resolve host HOSTNAME
 </code></pre></div><p>where I have replaced the real hostname with <code>HOSTNAME</code>.
 I noticed that <code>/etc/hosts</code> was not correctly configured with the right hostname, so changed it to look like:</p>
-<pre tabindex="0"><code>$ cat /etc/hosts
-</code></pre><pre tabindex="0"><code>127.0.0.1       localhost
+<pre><code>$ cat /etc/hosts
+</code></pre><pre><code>127.0.0.1       localhost
 ::1             localhost ip6-localhost ip6-loopback
 ff02::1         ip6-allnodes
 ff02::2         ip6-allrouters
@@ -254,8 +254,8 @@ ff02::2         ip6-allrouters
 <p>On the other Pis, the hostname had not been changed from the default.
 This makes it difficult to distinguish them, especially when accessing them by SSH.
 To change the hostname, I made the same change as above and also changed the hostname file so that it looked like:</p>
-<pre tabindex="0"><code>$ cat /etc/hostname
-</code></pre><pre tabindex="0"><code>HOSTNAME
+<pre><code>$ cat /etc/hostname
+</code></pre><pre><code>HOSTNAME
 </code></pre>
 	</div>
 

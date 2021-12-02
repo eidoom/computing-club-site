@@ -42,6 +42,11 @@ Please feel welcome to add yours to this list.&lt;/p&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/miarobin/AdventOfCode21&#34;&gt;https://github.com/miarobin/AdventOfCode21&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Python&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/lois-flower/&#34;&gt;Lois&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/dismalphysicist/AdventOfCode2021&#34;&gt;https://github.com/dismalphysicist/AdventOfCode2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 </content>
@@ -412,7 +417,7 @@ sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list sudo sed 
       <content>&lt;p&gt;I thought I&amp;rsquo;d better record some of the stuff I did to address &lt;a href=&#34;https://github.com/eidoom/GaltonBoard/issues/14&#34;&gt;these issues&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;updating-raspian-from-jessie-to-stretch&#34;&gt;Updating Raspian from Jessie to Stretch&lt;/h3&gt;
 &lt;p&gt;This was simply a matter of changing the OS version in the sources files and running an update:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo sed -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;s/jessie/stretch/g&amp;#34;&lt;/span&gt; /etc/apt/sources.list
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo sed -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;s/jessie/stretch/g&amp;#34;&lt;/span&gt; /etc/apt/sources.list
 sudo sed -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;s/jessie/stretch/g&amp;#34;&lt;/span&gt; /etc/apt/sources.list.d/raspi.list
 sudo apt update
 sudo apt -y dist-upgrade
@@ -425,8 +430,8 @@ My solution was to remove the biggest package, &lt;code&gt;wolfram-engine&lt;/co
 &lt;p&gt;I noticed that right-click menus were appearing when people were playing NuOdyssey at Celebrate Science and that the fullscreen was somehow being exited.
 These problems can be avoided by running Chromium in kiosk mode, which forces fullscreen always and disables right-click.
 I made a desktop file to start NuOdyssey in a kiosk mode session of Chromium:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat nuodyssey.desktop
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Desktop Entry]
+&lt;pre&gt;&lt;code&gt;$ cat nuodyssey.desktop
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;[Desktop Entry]
 Type=Application
 Terminal=false
 Exec=chromium-browser --kiosk localhost
@@ -436,17 +441,17 @@ Categories=Education;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and put it on the desktop of the Neutrino Pis.&lt;/p&gt;
 &lt;h3 id=&#34;changing-the-password-----when-you-dont-know-the-password&#34;&gt;Changing the password &amp;mdash; when you don&amp;rsquo;t know the password&lt;/h3&gt;
 &lt;p&gt;This was surprisingly easy, as the Pis are set up to run sudo without a password prompt. Simply run:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo passwd pi
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo passwd pi
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;to get a prompt to set the new password for the user &lt;code&gt;pi&lt;/code&gt;.
 I have recorded the new password in the outreach document.&lt;/p&gt;
 &lt;h3 id=&#34;disabling-screen-blanking&#34;&gt;Disabling screen blanking&lt;/h3&gt;
 &lt;p&gt;Since we&amp;rsquo;re using LightDM:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat /etc/X11/default-display-manager
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;/usr/sbin/lightdm
+&lt;pre&gt;&lt;code&gt;$ cat /etc/X11/default-display-manager
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;/usr/sbin/lightdm
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;edit the lightdm configuration file&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo vim /etc/lightdm/lightdm.conf
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo vim /etc/lightdm/lightdm.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and add&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;xserver-command=X -s 0 dpms
+&lt;pre&gt;&lt;code&gt;xserver-command=X -s 0 dpms
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;below &lt;code&gt;[Seat:*]&lt;/code&gt; to disable screen blanking.&lt;/p&gt;
 &lt;h3 id=&#34;fixing-the-dead-pi&#34;&gt;Fixing the dead Pi&lt;/h3&gt;
 &lt;p&gt;One of the Pis stopped coming on when plugged in.
@@ -458,11 +463,11 @@ I dismantled the enclosure to get access to the SD card, which is located as sho
 Good old &amp;ldquo;turn it off and on again&amp;rdquo;.&lt;/p&gt;
 &lt;h3 id=&#34;setting-hostnames&#34;&gt;Setting hostnames&lt;/h3&gt;
 &lt;p&gt;On most Pis, I noticed sudo was complaining:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo: unable to resolve host HOSTNAME
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo: unable to resolve host HOSTNAME
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where I have replaced the real hostname with &lt;code&gt;HOSTNAME&lt;/code&gt;.
 I noticed that &lt;code&gt;/etc/hosts&lt;/code&gt; was not correctly configured with the right hostname, so changed it to look like:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat /etc/hosts
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;127.0.0.1       localhost
+&lt;pre&gt;&lt;code&gt;$ cat /etc/hosts
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;127.0.0.1       localhost
 ::1             localhost ip6-localhost ip6-loopback
 ff02::1         ip6-allnodes
 ff02::2         ip6-allrouters
@@ -472,8 +477,8 @@ ff02::2         ip6-allrouters
 &lt;p&gt;On the other Pis, the hostname had not been changed from the default.
 This makes it difficult to distinguish them, especially when accessing them by SSH.
 To change the hostname, I made the same change as above and also changed the hostname file so that it looked like:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ cat /etc/hostname
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;HOSTNAME
+&lt;pre&gt;&lt;code&gt;$ cat /etc/hostname
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;HOSTNAME
 &lt;/code&gt;&lt;/pre&gt;</content>
     </item>
     
@@ -512,24 +517,24 @@ Then I ran &lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt install emacs
 &lt;h3 id=&#34;portrait-mode&#34;&gt;Portrait mode&lt;/h3&gt;
 &lt;p&gt;Next, I had to configure the Pi to operate in portrait mode.
 The screen can be rotated by&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;echo rotate_display=3 &amp;gt;&amp;gt; /boot/config.txt&amp;#34;&lt;/span&gt; | sudo sh
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;echo rotate_display=3 &amp;gt;&amp;gt; /boot/config.txt&amp;#34;&lt;/span&gt; | sudo sh
 sudo reboot
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;which just appends a screen rotation command to the Pi&amp;rsquo;s boot configuration file under sudo privileges and restarts the Pi.
 The touchscreen, however, remains configured for a landscape configuration.
 To fix this behaviour, I had to persistently adjust the coordinate transformation matrix for the FT5406 touch controller with&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;xinput set-prop &amp;#39;FT5406 memory based driver&amp;#39; &amp;#39;Coordinate Transformation Matrix&amp;#39; 0 -1 1 1 0 0 0 0 1&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; ~/.xsessionrc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;xinput set-prop &amp;#39;FT5406 memory based driver&amp;#39; &amp;#39;Coordinate Transformation Matrix&amp;#39; 0 -1 1 1 0 0 0 0 1&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; ~/.xsessionrc
 sudo reboot
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It took me forever to figure that one out!&lt;/p&gt;
 &lt;h3 id=&#34;getting-the-galton-code-on-the-pi&#34;&gt;Getting the Galton code on the Pi&lt;/h3&gt;
 &lt;p&gt;With all that out of the way, I could move onto installing the Galton software.
 I made a folder for git repos&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mkdir ~/git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mkdir ~/git
 cd git
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then cloned the GaltonBoard repo&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone https://github.com/eidoom/GaltonBoard.git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone https://github.com/eidoom/GaltonBoard.git
 cd GaltonBoard
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and installed dependancies (recall that &lt;a href=&#34;../../author/james-whitehead/&#34;&gt;James&lt;/a&gt; has updated the software for Python 3)&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install python3 python3-numpy python3-matplotlib python3-scipy
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install python3 python3-numpy python3-matplotlib python3-scipy
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;before trying the simulation, &lt;code&gt;./galtonsim&lt;/code&gt;, and it worked!&lt;/p&gt;
 &lt;p&gt;I also automated the installation of the application shortcut to the desktop and application menu (with an icon), which can be run with &lt;code&gt;./install-sim.sh&lt;/code&gt;.&lt;/p&gt;
 </content>
@@ -646,7 +651,7 @@ We might help solving it and it&amp;rsquo;s probably useful for everyone to lear
     <item>
       <title>About</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/about/</guid>
       <description>Welcome to the online manifestation of the IPPP Computing Club! Here you&amp;rsquo;ll find information about upcoming sessions and write-ups of previous sessions.
@@ -676,7 +681,7 @@ The format is hybrid; the video conference link is circulated over the mailing l
     <item>
       <title>Topics</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/</guid>
       <description>Topic ideas New ideas  Basic shell usage (Yannick) Basic git (Yannick) Basic C++ (Sofie) Python package management (Ryan) Basic gdb (Hitham) Advent of Code 2021 (Ryan) Quantum computing algorithms (Mia) Continuous integration (Hitham) McMule (Yannick) Advanced C++ (Ryan) Unit tests (Stephen) CUDA (Stephen)  Old ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
@@ -964,40 +969,40 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 &lt;p&gt;Clone the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;repo&lt;/a&gt;:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone --recurse-submodules git@github.com:eidoom/computing-club-site.git
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Navigate to the root directory of the repo locally&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;cd computing-club-site
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;cd computing-club-site
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Run a local Hugo server so you can check out your changes in realtime &lt;a href=&#34;//localhost:1313/computing-club/&#34;&gt;here&lt;/a&gt; with&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo server
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo server
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Make your new session page by running&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo new sessions/NAME.md
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo new sessions/NAME.md
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Edit the metadata within the &lt;code&gt;+++&lt;/code&gt;&amp;rsquo;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim content/sessions/NAME.md
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim content/sessions/NAME.md
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The metadata field &lt;code&gt;cover&lt;/code&gt; should point at the cover image for your page. Add the image file to &lt;code&gt;static/img&lt;/code&gt; along with any other images (or other media files) you include. Note that the path should not include &lt;code&gt;static&lt;/code&gt; as the contents of static are put into the root of the compiled website. So for a cover image at &lt;code&gt;static/img/COVER.png&lt;/code&gt;, the metadata field &lt;code&gt;cover&lt;/code&gt; should be the path &lt;code&gt;&amp;quot;img/COVER.png&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Stage your changes:&lt;/li&gt;
 &lt;li&gt;If you want to push the newly compiled website, first generate the updated static website by running&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add .
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add .
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Or if you want to push your changes to the source without pushing the compiled website, just&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add content/sessions/NAME.md static/img/PHOTO.png
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git add content/sessions/NAME.md static/img/PHOTO.png
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and any other media files you included&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Then finally push your changes to the remote repo&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;MESSAGE&amp;#34;&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;MESSAGE&amp;#34;&lt;/span&gt;
 git push
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and you&amp;rsquo;re done!&lt;/p&gt;
 &lt;p&gt;Have a look at the &lt;a href=&#34;//github.com/eidoom/computing-club-site/blob/master/content/sessions/static-website-generation-with-hugo.md&#34;&gt;source for this page&lt;/a&gt; if you like. The &lt;a href=&#34;//gohugo.io/categories/getting-started&#34;&gt;Hugo docs&lt;/a&gt; are also pretty good.&lt;/p&gt;

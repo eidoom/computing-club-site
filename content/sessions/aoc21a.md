@@ -24,3 +24,4 @@ Name|Repository|Language(s)
 ---|---|---
 [Ryan]({{< ref "ryan-moodie" >}})|https://gitlab.com/eidoom/aoc21|Common Lisp
 Mia|https://github.com/miarobin/AdventOfCode21|Python
+[Lois]({{<ref "lois-flower" >}})|https://github.com/dismalphysicist/AdventOfCode2021|Python

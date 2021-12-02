@@ -6,7 +6,57 @@
     <description>Recent content in Yannick Ulrich on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 04 Nov 2021 08:54:00 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 16:05:17 +0000</lastBuildDate><atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/aoc21a/</link>
+      <pubDate>Thu, 02 Dec 2021 16:05:17 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/aoc21a/</guid>
+      <description>I hope everyone enjoyed having a go with the first couple of challenges of Advent of Code 2021 today. It&amp;rsquo;s good to see almost everyone having two gold stars on the leaderboard already! By the end of Advent, the leaderboard winner will, of course, be awarded with ultimate prestige.
+We&amp;rsquo;ll continue with these next week, by which time seven more puzzles will be unlocked.
+See the previous update for a reminder of login instructions.</description>
+      <content>&lt;p&gt;I hope everyone enjoyed having a go with the first couple of challenges of &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt; today.
+It&amp;rsquo;s good to see almost everyone having two gold stars on the leaderboard already!
+By the end of Advent, the leaderboard winner will, of course, be awarded with ultimate prestige.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll continue with these next week, by which time seven more puzzles will be unlocked.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/updates/aoc2021/&#34;&gt;the previous update&lt;/a&gt; for a reminder of login instructions.&lt;/p&gt;
+&lt;p&gt;It will be fun to compare solutions, so we can record links to the solution repositories of everyone who wants to share here.
+Please feel welcome to add yours to this list.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Repository&lt;/th&gt;
+&lt;th&gt;Language(s)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://gitlab.com/eidoom/aoc21&#34;&gt;https://gitlab.com/eidoom/aoc21&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Common Lisp&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mia&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/miarobin/AdventOfCode21&#34;&gt;https://github.com/miarobin/AdventOfCode21&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/lois-flower/&#34;&gt;Lois&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/dismalphysicist/AdventOfCode2021&#34;&gt;https://github.com/dismalphysicist/AdventOfCode2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/authors/yannick-ulrich/&#34;&gt;Yannick&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://gitlab.com/yannickulrich/aoc-2021&#34;&gt;https://gitlab.com/yannickulrich/aoc-2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python, later Haskell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
     <item>
       <title>Toolkit I</title>
       <link>https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/sessions/toolkit/</link>

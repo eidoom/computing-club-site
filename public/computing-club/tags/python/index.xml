@@ -42,24 +42,24 @@ Then I ran &lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt install emacs
 &lt;h3 id=&#34;portrait-mode&#34;&gt;Portrait mode&lt;/h3&gt;
 &lt;p&gt;Next, I had to configure the Pi to operate in portrait mode.
 The screen can be rotated by&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;echo rotate_display=3 &amp;gt;&amp;gt; /boot/config.txt&amp;#34;&lt;/span&gt; | sudo sh
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;echo rotate_display=3 &amp;gt;&amp;gt; /boot/config.txt&amp;#34;&lt;/span&gt; | sudo sh
 sudo reboot
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;which just appends a screen rotation command to the Pi&amp;rsquo;s boot configuration file under sudo privileges and restarts the Pi.
 The touchscreen, however, remains configured for a landscape configuration.
 To fix this behaviour, I had to persistently adjust the coordinate transformation matrix for the FT5406 touch controller with&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;xinput set-prop &amp;#39;FT5406 memory based driver&amp;#39; &amp;#39;Coordinate Transformation Matrix&amp;#39; 0 -1 1 1 0 0 0 0 1&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; ~/.xsessionrc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;xinput set-prop &amp;#39;FT5406 memory based driver&amp;#39; &amp;#39;Coordinate Transformation Matrix&amp;#39; 0 -1 1 1 0 0 0 0 1&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; ~/.xsessionrc
 sudo reboot
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It took me forever to figure that one out!&lt;/p&gt;
 &lt;h3 id=&#34;getting-the-galton-code-on-the-pi&#34;&gt;Getting the Galton code on the Pi&lt;/h3&gt;
 &lt;p&gt;With all that out of the way, I could move onto installing the Galton software.
 I made a folder for git repos&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mkdir ~/git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mkdir ~/git
 cd git
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;then cloned the GaltonBoard repo&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone https://github.com/eidoom/GaltonBoard.git
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;git clone https://github.com/eidoom/GaltonBoard.git
 cd GaltonBoard
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and installed dependancies (recall that &lt;a href=&#34;../../author/james-whitehead/&#34;&gt;James&lt;/a&gt; has updated the software for Python 3)&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install python3 python3-numpy python3-matplotlib python3-scipy
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install python3 python3-numpy python3-matplotlib python3-scipy
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;before trying the simulation, &lt;code&gt;./galtonsim&lt;/code&gt;, and it worked!&lt;/p&gt;
 &lt;p&gt;I also automated the installation of the application shortcut to the desktop and application menu (with an icon), which can be run with &lt;code&gt;./install-sim.sh&lt;/code&gt;.&lt;/p&gt;
 </content>

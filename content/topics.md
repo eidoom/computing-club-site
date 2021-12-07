@@ -21,6 +21,7 @@ layout = "topics"
 * [ ] Advanced `C++` (Ryan)
 * [ ] Unit tests (Stephen)
 * [ ] CUDA (Stephen)
+* [ ] Cybersecurity: recent university randomware attacks
 
 #### Old ideas
 

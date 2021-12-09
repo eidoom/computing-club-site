@@ -22,6 +22,8 @@ layout = "topics"
 * [ ] Unit tests (Stephen)
 * [ ] CUDA (Stephen)
 * [ ] Cybersecurity: recent university randomware attacks
+* [ ] Public-key encryption
+* [ ] Set up continuous deployment for this website
 
 #### Old ideas
 

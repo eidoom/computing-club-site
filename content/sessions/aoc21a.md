@@ -25,6 +25,6 @@ Name|Repository|Language(s)
 [Ryan]({{< ref "ryan-moodie" >}})|https://gitlab.com/eidoom/aoc21|Common Lisp
 Mia|https://github.com/miarobin/AdventOfCode21|Python
 [Lois]({{<ref "lois-flower" >}})|https://github.com/dismalphysicist/AdventOfCode2021|Python
-[Yannick]({{<ref "yannick-ulrich" >}})|https://gitlab.com/yannickulrich/aoc-2021|Python, later Haskell
+[Yannick]({{<ref "yannick-ulrich" >}})|https://gitlab.com/yannickulrich/aoc-2021|~~Python, later~~ Haskell
 Graeme|https://github.com/GraemeWatt/AdventOfCode2021|Python
 Guillaume|https://github.com/g-rostagni/advent-of-code|Python

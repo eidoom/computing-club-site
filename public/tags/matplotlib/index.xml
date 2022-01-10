@@ -2,22 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>matplotlib on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/matplotlib/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/matplotlib/</link>
     <description>Recent content in matplotlib on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Oct 2019 13:25:33 +0100</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Galton board code</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</link>
       <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</guid>
       <description>Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?   Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate   Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?</description>
+      <content>&lt;h5 id=&#34;ideas-for-improving-the-galton-board-software&#34;&gt;Ideas for improving the Galton board software&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Mass of balls&lt;/li&gt;
+&lt;li&gt;Size of balls&lt;/li&gt;
+&lt;li&gt;Size of pins&lt;/li&gt;
+&lt;li&gt;Width of barriers&lt;/li&gt;
+&lt;li&gt;Fix lag
+&lt;ul&gt;
+&lt;li&gt;Due to N=300?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Deploy on Pis from GitHub repo, automate updates&lt;/li&gt;
+&lt;li&gt;Get light gates working&lt;/li&gt;
+&lt;li&gt;Somehow show effect of large N
+&lt;ul&gt;
+&lt;li&gt;If performance is an issue, pre-calculate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add option to drip feed balls into simulation&lt;/li&gt;
+&lt;li&gt;Check dependencies&lt;/li&gt;
+&lt;li&gt;Add sliders to change physical parameters&lt;/li&gt;
+&lt;li&gt;Change gravity on the fly? As a vector? Accelerometers in Pis?&lt;/li&gt;
+&lt;li&gt;Maybe: allow barriers to be drawn in by hand&lt;/li&gt;
+&lt;li&gt;Consider using some more up-to-date libraries? Touch screen interactivity, GUI, physics?&lt;/li&gt;
+&lt;li&gt;Make it into a webapp? (not to replace Pi software, to provide in addition)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;plan-of-action&#34;&gt;Plan of action&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve added the more pedestrian suggestions as &lt;a href=&#34;https://github.com/eidoom/GaltonBoard/issues&#34;&gt;issues on the repo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We can assign people interested in working on these there.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
   </channel>

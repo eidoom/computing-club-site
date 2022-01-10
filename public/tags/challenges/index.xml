@@ -2,56 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>challenges on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/challenges/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/challenges/</link>
     <description>Recent content in challenges on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 09 Dec 2021 14:21:07 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 09 Dec 2021 14:21:07 +0000</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Winter break</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</link>
       <pubDate>Thu, 09 Dec 2021 14:21:07 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</guid>
       <description>Today was our last meeting of 2021. I hope the computing club sessions have been useful and enjoyable for everyone this term, and that you now have a healthy addiction to Advent of Code.
 We&amp;rsquo;ll be resuming in January with the new term (week starting 10 Jan), exact time and location to be determined. Hopefully those who want to can still meet in person with the hybrid format, depending on university restrictions by then.</description>
+      <content>&lt;p&gt;Today was our last meeting of 2021.
+I hope the computing club sessions have been useful and enjoyable for everyone this term, and that you now have a healthy addiction to &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/&#34;&gt;Advent of Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll be resuming in January with the new term (week starting 10 Jan), exact time and location to be determined.
+Hopefully those who want to can still meet in person with the hybrid format, depending on university restrictions by then.
+In our first returning session, we&amp;rsquo;ll have one last look at Advent of Code 2021 and find out who won the leaderboard!&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>Advent of Code 2021</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</link>
       <pubDate>Thu, 02 Dec 2021 16:05:17 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</guid>
       <description>I hope everyone enjoyed having a go with the first couple of challenges of Advent of Code 2021 today. It&amp;rsquo;s good to see almost everyone having two gold stars on the leaderboard already! By the end of Advent, the leaderboard winner will, of course, be awarded with ultimate prestige.
 We&amp;rsquo;ll continue with these next week, by which time seven more puzzles will be unlocked.
 See the previous update for a reminder of login instructions.</description>
+      <content>&lt;p&gt;I hope everyone enjoyed having a go with the first couple of challenges of &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt; today.
+It&amp;rsquo;s good to see almost everyone having two gold stars on the leaderboard already!
+By the end of Advent, the leaderboard winner will, of course, be awarded with ultimate prestige.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll continue with these next week, by which time seven more puzzles will be unlocked.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/&#34;&gt;the previous update&lt;/a&gt; for a reminder of login instructions.&lt;/p&gt;
+&lt;p&gt;It will be fun to compare solutions, so we can record links to the solution repositories of everyone who wants to share here.
+Please feel welcome to add yours to this list.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Repository&lt;/th&gt;
+&lt;th&gt;Language(s)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://gitlab.com/eidoom/aoc21&#34;&gt;https://gitlab.com/eidoom/aoc21&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Common Lisp&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mia&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/miarobin/AdventOfCode21&#34;&gt;https://github.com/miarobin/AdventOfCode21&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/lois-flower/&#34;&gt;Lois&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/dismalphysicist/AdventOfCode2021&#34;&gt;https://github.com/dismalphysicist/AdventOfCode2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/yannick-ulrich/&#34;&gt;Yannick&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://gitlab.com/yannickulrich/aoc-2021&#34;&gt;https://gitlab.com/yannickulrich/aoc-2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Python, later&lt;/del&gt; Haskell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Graeme&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/GraemeWatt/AdventOfCode2021&#34;&gt;https://github.com/GraemeWatt/AdventOfCode2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Guillaume&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/g-rostagni/advent-of-code&#34;&gt;https://github.com/g-rostagni/advent-of-code&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
     </item>
     
     <item>
       <title>Next meeting: Advent of Code</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</link>
       <pubDate>Thu, 25 Nov 2021 13:40:01 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</guid>
       <description>Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!
 Thanks to Hitham for today&amp;rsquo;s session on gdb.
 The slides for the talk last week by Sofie are now available.
 Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
+      <content>&lt;p&gt;Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt; for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/&#34;&gt;slides for the talk last week&lt;/a&gt; by &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt; are now available.&lt;/p&gt;
+&lt;p&gt;Next week, we&amp;rsquo;ll be trying out &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/&#34;&gt;some festive coding challenges&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>December: Advent of Code 2021</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/</link>
       <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/</guid>
       <description>Every year, Advent of Code (AoC) publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with. The problems start out fairly easy, with each subsequent day generally increasing in difficulty.
 For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)</description>
+      <content>&lt;p&gt;Every year, &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; (AoC) publishes a coding challenge each day of the Advent calendar.
+The problems are fun and Christmassy, what&amp;rsquo;s not to love?
+It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with.
+The problems start out fairly easy, with each subsequent day generally increasing in difficulty.&lt;/p&gt;
+&lt;p&gt;For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)&lt;/p&gt;
+&lt;p&gt;They get released daily from 1 Dec, so feel free to get a head start with the first puzzle on the Wednesday.
+I&amp;rsquo;ll set up a Computing Club AoC leaderboard for us for those who want a bit of competitivity.
+After you &lt;a href=&#34;https://adventofcode.com/2021/auth/login&#34;&gt;log in&lt;/a&gt;, you can join it &lt;a href=&#34;https://adventofcode.com/2021/leaderboard/private&#34;&gt;here&lt;/a&gt; with the join code that I&amp;rsquo;ll distribute by email.&lt;/p&gt;
+&lt;p&gt;Note that 9 Dec will be our last meeting before the Winter break.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

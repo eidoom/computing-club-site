@@ -2,37 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giuseppe De Laurentis on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/authors/giuseppe-de-laurentis/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/giuseppe-de-laurentis/</link>
     <description>Recent content in Giuseppe De Laurentis on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 04 Nov 2019 11:56:02 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/authors/giuseppe-de-laurentis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 04 Nov 2019 11:56:02 +0000</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/giuseppe-de-laurentis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic websites with the MEN stack</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/dynamic-websites-with-the-men-stack/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/dynamic-websites-with-the-men-stack/</link>
       <pubDate>Mon, 04 Nov 2019 11:56:02 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/dynamic-websites-with-the-men-stack/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/dynamic-websites-with-the-men-stack/</guid>
       <description>Hi all!
 today&amp;rsquo;s computing club will be in OC103 at 1pm.
 Abstract by Joey:
 IPPPlog is a blog intended for use by the computing club, to update people on any fun side projects you may be doing, as well as propose topics etc. This website is dynamic, using a MEN stack (MongoDB database, ExpressJS framework, written with NodeJS). I will go through the general way it all works and some specifics if people have questions.</description>
+      <content>&lt;p&gt;Hi all!&lt;/p&gt;
+&lt;p&gt;today&amp;rsquo;s computing club will be in OC103 at 1pm.&lt;/p&gt;
+&lt;p&gt;Abstract by Joey:&lt;/p&gt;
+&lt;p&gt;IPPPlog is a blog intended for use by the computing club, to update people on any fun side projects you may be doing, as well as propose topics etc. This website is dynamic, using a MEN stack (MongoDB database, ExpressJS framework, written with NodeJS). I will go through the general way it all works and some specifics if people have questions. This should be a easier system than the Hugo one as one just creates an account like they would on Facebook rather than being a git collaborator. Hugo is fantastic for quickly making static websites but cannot really compete in the realm of dynamic content (such as blogs).&lt;/p&gt;
+&lt;p&gt;See you later,&lt;/p&gt;
+&lt;p&gt;Giuseppe&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>Galton board software</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software/</link>
       <pubDate>Mon, 21 Oct 2019 12:36:08 +0100</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software/</guid>
       <description>Hi everyone,
 in today&amp;rsquo;s session we are going to very briefly have a look at the repo with the software used for outreach (Galton board).
 Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)
 We are meeting in OC103 at 1pm.</description>
+      <content>&lt;p&gt;Hi everyone,&lt;/p&gt;
+&lt;p&gt;in today&amp;rsquo;s session we are going to &lt;em&gt;very briefly&lt;/em&gt; have a look at the repo with the software used for outreach (Galton board).&lt;/p&gt;
+&lt;p&gt;Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along!
+We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)&lt;/p&gt;
+&lt;p&gt;We are meeting in OC103 at 1pm.&lt;/p&gt;
+&lt;p&gt;See you later,&lt;/p&gt;
+&lt;p&gt;Giuseppe&lt;/p&gt;
+</content>
     </item>
     
   </channel>

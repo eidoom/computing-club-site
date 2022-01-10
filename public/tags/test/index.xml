@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/test/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/test/</link>
     <description>Recent content in test on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 12 Nov 2021 11:04:55 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/test/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 12 Nov 2021 11:04:55 +0000</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/one/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/one/</link>
       <pubDate>Thu, 10 Oct 2019 15:57:45 +0100</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/one/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/one/</guid>
       <description>This is the content.</description>
+      <content>&lt;p&gt;This is the content.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

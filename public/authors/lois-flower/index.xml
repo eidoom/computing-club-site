@@ -2,23 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lois Flower on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/authors/lois-flower/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/lois-flower/</link>
     <description>Recent content in Lois Flower on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 12 Nov 2021 10:53:06 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/authors/lois-flower/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 12 Nov 2021 10:53:06 +0000</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/lois-flower/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A test post</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lois/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/lois/</link>
       <pubDate>Fri, 12 Nov 2021 11:04:55 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lois/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/lois/</guid>
       <description>This is a test of my ability to push to the website while ill, having sadly missed Comp Club this week. This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of bias):
  Bourbons Dark chocolate digestives Jammy dodgers  </description>
+      <content>&lt;p&gt;This is a test of my ability to push to the website while ill, having sadly missed Comp Club this week.
+This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of bias):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bourbons&lt;/li&gt;
+&lt;li&gt;Dark chocolate digestives&lt;/li&gt;
+&lt;li&gt;Jammy dodgers&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
   </channel>

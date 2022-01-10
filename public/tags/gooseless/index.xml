@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gooseless on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/gooseless/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/gooseless/</link>
     <description>Recent content in gooseless on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/gooseless/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/gooseless/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>i(pw)^3</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</guid>
       <description>even people who missed computing club can do it</description>
+      <content>&lt;p&gt;even people who missed computing club can do it&lt;/p&gt;
+</content>
     </item>
     
   </channel>

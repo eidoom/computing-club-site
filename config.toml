@@ -1,4 +1,4 @@
-baseURL = "https://notes.dmaitre.phyip3.dur.ac.uk/"
+baseURL = "https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/"
 publishDir = "public/"
 languageCode = "en-gb"
 theme = "terminal"

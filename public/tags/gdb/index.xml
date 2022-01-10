@@ -2,54 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gdb on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/gdb/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/gdb/</link>
     <description>Recent content in gdb on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 25 Nov 2021 13:40:01 +0000</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/gdb/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 25 Nov 2021 13:40:01 +0000</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/gdb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Next meeting: Advent of Code</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</link>
       <pubDate>Thu, 25 Nov 2021 13:40:01 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</guid>
       <description>Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!
 Thanks to Hitham for today&amp;rsquo;s session on gdb.
 The slides for the talk last week by Sofie are now available.
 Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
+      <content>&lt;p&gt;Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt; for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/&#34;&gt;today&amp;rsquo;s session on &lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/&#34;&gt;slides for the talk last week&lt;/a&gt; by &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt; are now available.&lt;/p&gt;
+&lt;p&gt;Next week, we&amp;rsquo;ll be trying out &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/&#34;&gt;some festive coding challenges&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>Introduction to debugging `C&#43;&#43;` with `gdb`</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</link>
       <pubDate>Thu, 25 Nov 2021 13:35:45 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</guid>
       <description>The code and slides for Hitham&amp;lsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
+      <content>&lt;p&gt;The code and slides for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt;&amp;lsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.
+There&amp;rsquo;s also a recording of the meeting &lt;a href=&#34;https://durhamuniversity-my.sharepoint.com/:v:/g/personal/jndn32_durham_ac_uk/ERth0bjbwXZOmjy0caqrP-ABULr7mSGpnLZYcSvD7lmI8A?e=KkpVdK&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>Next meeting: debugging `C&#43;&#43;` with `gdb`</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/next-gdb/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/next-gdb/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/next-gdb/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/next-gdb/</guid>
       <description>A reminder that tomorrow Hitham will be introducing us to basic gdb debugging of C++, Thurs 25 Nov 1300 GMT in OC218 and via Zoom. I&amp;rsquo;ll most likely be joining virtually myself tomorrow.
 The code and slides (to follow) for the session can be found at Hitham2496/Computing-Talks.</description>
+      <content>&lt;p&gt;A reminder that tomorrow Hitham will be introducing us to basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt;, Thurs 25 Nov 1300 GMT in OC218 and via Zoom.
+I&amp;rsquo;ll most likely be joining virtually myself tomorrow.&lt;/p&gt;
+&lt;p&gt;The code and slides (to follow) for the session can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>C&#43;&#43; introduction and debugging</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/post-cpp-intro/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/post-cpp-intro/</link>
       <pubDate>Thu, 18 Nov 2021 16:39:35 +0000</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/post-cpp-intro/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/post-cpp-intro/</guid>
       <description>Thank you to Sofie for running the session today on a first introduction to C++. Judging by the engagement of the audience, this was a very useful meeting for everyone! The slides will appear soon on here.
 Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure. Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip; Hopefully the slides will provide a taster in substitute.</description>
+      <content>&lt;p&gt;Thank you to Sofie for running the session today on a first introduction to &lt;code&gt;C++&lt;/code&gt;.
+Judging by the engagement of the audience, this was a very useful meeting for everyone!
+The slides will appear soon on here.&lt;/p&gt;
+&lt;p&gt;Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure.
+Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip;
+Hopefully the slides will provide a taster in substitute.&lt;/p&gt;
+&lt;p&gt;Next week, Hitham will be continuing in the vein of &lt;code&gt;C++&lt;/code&gt; programming by covering the most difficult and important part of it: basic debugging in &lt;code&gt;C++&lt;/code&gt; with &lt;code&gt;gdb&lt;/code&gt;.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

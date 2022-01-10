@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deliciouslynutrisciouslycomplete on Computing Club</title>
-    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/deliciouslynutrisciouslycomplete/</link>
+    <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/deliciouslynutrisciouslycomplete/</link>
     <description>Recent content in deliciouslynutrisciouslycomplete on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Oct 2019 13:53:12 +0200</lastBuildDate>
-    
-	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/deliciouslynutrisciouslycomplete/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 14 Oct 2019 13:53:12 +0200</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/tags/deliciouslynutrisciouslycomplete/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Huel</title>
-      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/huel/</link>
+      <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/huel/</link>
       <pubDate>Mon, 14 Oct 2019 13:53:12 +0200</pubDate>
       
-      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/huel/</guid>
+      <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/posts/huel/</guid>
       <description>This posts aims at sending my promo code away.</description>
+      <content>&lt;p&gt;This posts aims at sending my promo code away.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

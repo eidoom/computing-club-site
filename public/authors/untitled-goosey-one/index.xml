@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untitled Goosey One on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/authors/untitled-goosey-one/</link>
+    <description>Recent content in Untitled Goosey One on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 14 Oct 2019 13:38:34 +0100</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/authors/untitled-goosey-one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hear Me Honk</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/image/</link>
+      <pubDate>Mon, 14 Oct 2019 13:38:34 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/image/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

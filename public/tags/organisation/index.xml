@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organisation on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/organisation/</link>
+    <description>Recent content in organisation on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rebooting for 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/reboot/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/reboot/</guid>
+      <description>Welcome to our new members and the regulars!
+I&amp;rsquo;ve booked out OC218 (Ogden East Conference Room) for Thursdays at 1300 for the hour. We&amp;rsquo;ll have our first meeting next Thursday, 28 Oct.
+OC218 has a capacity of 44 people, so everyone will be able to attend in person if they wish to. For those wishing to join virtually, I&amp;rsquo;ll set up an Owl and you can connect through the Zoom room circulated through the mailing list.</description>
+    </item>
+    
+    <item>
+      <title>Inviting all of Physics to Computing Club</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/invite/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/invite/</guid>
+      <description>Historically, the IPPP has held a weekly lunchtime Computing Club. This year we&amp;rsquo;d like to invite everyone in Physics who&amp;rsquo;s interested to join. All career levels are welcome.
+We usually run informal seminar style sessions with some open sessions for people to crowd-source solutions to their coding problems. You can see some examples of previous meeting topics at
+ https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/topics/ https://shrieking-asylum-67258.herokuapp.com/topics  We also run longer projects for fun when there&amp;rsquo;s interest.</description>
+    </item>
+    
+  </channel>
+</rss>

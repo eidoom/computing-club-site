@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>huelless on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/huelless/</link>
+    <description>Recent content in huelless on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/huelless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>i(pw)^3</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</guid>
+      <description>even people who missed computing club can do it</description>
+    </item>
+    
+  </channel>
+</rss>

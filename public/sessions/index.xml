@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/</link>
+    <description>Recent content in Sessions on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 02 Dec 2021 16:05:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advent of Code 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</link>
+      <pubDate>Thu, 02 Dec 2021 16:05:17 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</guid>
+      <description>I hope everyone enjoyed having a go with the first couple of challenges of Advent of Code 2021 today. It&amp;rsquo;s good to see almost everyone having two gold stars on the leaderboard already! By the end of Advent, the leaderboard winner will, of course, be awarded with ultimate prestige.
+We&amp;rsquo;ll continue with these next week, by which time seven more puzzles will be unlocked.
+See the previous update for a reminder of login instructions.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to debugging `C&#43;&#43;` with `gdb`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</link>
+      <pubDate>Thu, 25 Nov 2021 13:35:45 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</guid>
+      <description>The code and slides for Hitham&amp;lsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to `C&#43;&#43;`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/</link>
+      <pubDate>Thu, 25 Nov 2021 13:26:07 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/</guid>
+      <description>The slides for Sofie&amp;lsquo;s talk last week on introductory C++ can be accessed here.</description>
+    </item>
+    
+    <item>
+      <title>Toolkit I</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/toolkit/</link>
+      <pubDate>Thu, 04 Nov 2021 08:54:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/toolkit/</guid>
+      <description>In this session I discuss the basic toolkits everyone should know
+ the command line PATH git basics vim basics  For further reading, I suggest https://missing.csail.mit.edu/
+slides</description>
+    </item>
+    
+    <item>
+      <title>Inaugural Computing Club 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/reboot/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/reboot/</guid>
+      <description>A quick summary of our first meeting.
+Over the next few weeks, we&amp;rsquo;ll cover the following topics:
+ computing environment basics (Yannick - next week)  shell git   Python package management (Ryan) C++ introduction (Ryan Sofie) Continuous integration and deployment (Hitham)  On the format, most sessions will loosely involve someone (or a group) presenting some prepared (but informal) content over around half an hour, with remaining time for discussion and where possible hands-on playing with code.</description>
+    </item>
+    
+    <item>
+      <title>Galton board code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</link>
+      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</guid>
+      <description>Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?   Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate   Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?</description>
+    </item>
+    
+    <item>
+      <title>Static website generation with Hugo</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/static-website-generation-with-hugo/</link>
+      <pubDate>Mon, 14 Oct 2019 16:55:21 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/static-website-generation-with-hugo/</guid>
+      <description>Today I unveiled our new website! Thanks to Daniel for hosting. It&amp;rsquo;s powered by Hugo, a static website generator.
+The best way to install (the latest version of) Hugo can be found here. In short, download the latest release and add the binary to your path.
+Here&amp;rsquo;s how you can add your sessions to the site:
+  Speak to me if you don&amp;rsquo;t already have write permissions
+  Clone the repo:</description>
+    </item>
+    
+  </channel>
+</rss>

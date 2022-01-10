@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>challenges on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/challenges/</link>
+    <description>Recent content in challenges on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 09 Dec 2021 14:21:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/challenges/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Winter break</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</link>
+      <pubDate>Thu, 09 Dec 2021 14:21:07 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</guid>
+      <description>Today was our last meeting of 2021. I hope the computing club sessions have been useful and enjoyable for everyone this term, and that you now have a healthy addiction to Advent of Code.
+We&amp;rsquo;ll be resuming in January with the new term (week starting 10 Jan), exact time and location to be determined. Hopefully those who want to can still meet in person with the hybrid format, depending on university restrictions by then.</description>
+    </item>
+    
+    <item>
+      <title>Advent of Code 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</link>
+      <pubDate>Thu, 02 Dec 2021 16:05:17 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/aoc21a/</guid>
+      <description>I hope everyone enjoyed having a go with the first couple of challenges of Advent of Code 2021 today. It&amp;rsquo;s good to see almost everyone having two gold stars on the leaderboard already! By the end of Advent, the leaderboard winner will, of course, be awarded with ultimate prestige.
+We&amp;rsquo;ll continue with these next week, by which time seven more puzzles will be unlocked.
+See the previous update for a reminder of login instructions.</description>
+    </item>
+    
+    <item>
+      <title>Next meeting: Advent of Code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</link>
+      <pubDate>Thu, 25 Nov 2021 13:40:01 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</guid>
+      <description>Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!
+Thanks to Hitham for today&amp;rsquo;s session on gdb.
+The slides for the talk last week by Sofie are now available.
+Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
+    </item>
+    
+    <item>
+      <title>December: Advent of Code 2021</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/</link>
+      <pubDate>Tue, 23 Nov 2021 21:11:12 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/aoc2021/</guid>
+      <description>Every year, Advent of Code (AoC) publishes a coding challenge each day of the Advent calendar. The problems are fun and Christmassy, what&amp;rsquo;s not to love? It&amp;rsquo;s also a great way to practice coding in a language you want to become more familiar with. The problems start out fairly easy, with each subsequent day generally increasing in difficulty.
+For the two December meetings, 2 Dec and 9 Dec, I propose we spend the hour trying out the puzzles together and comparing our solutions :)</description>
+    </item>
+    
+  </channel>
+</rss>

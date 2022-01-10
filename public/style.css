@@ -1,0 +1,11 @@
+.icon-row {
+  text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3em;
+}
+
+.icon {
+	width: 100px;
+}

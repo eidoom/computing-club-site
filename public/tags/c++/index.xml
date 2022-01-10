@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c&#43;&#43; on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/c&#43;&#43;/</link>
+    <description>Recent content in c&#43;&#43; on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 25 Nov 2021 13:40:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next meeting: Advent of Code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</link>
+      <pubDate>Thu, 25 Nov 2021 13:40:01 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/past-gdb/</guid>
+      <description>Apologies for all the technical difficulties we encountered today&amp;mdash;at least we successfully debugged them!
+Thanks to Hitham for today&amp;rsquo;s session on gdb.
+The slides for the talk last week by Sofie are now available.
+Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to debugging `C&#43;&#43;` with `gdb`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</link>
+      <pubDate>Thu, 25 Nov 2021 13:35:45 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</guid>
+      <description>The code and slides for Hitham&amp;lsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to `C&#43;&#43;`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/</link>
+      <pubDate>Thu, 25 Nov 2021 13:26:07 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/</guid>
+      <description>The slides for Sofie&amp;lsquo;s talk last week on introductory C++ can be accessed here.</description>
+    </item>
+    
+    <item>
+      <title>Next meeting: debugging `C&#43;&#43;` with `gdb`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/next-gdb/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/next-gdb/</guid>
+      <description>A reminder that tomorrow Hitham will be introducing us to basic gdb debugging of C++, Thurs 25 Nov 1300 GMT in OC218 and via Zoom. I&amp;rsquo;ll most likely be joining virtually myself tomorrow.
+The code and slides (to follow) for the session can be found at Hitham2496/Computing-Talks.</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; introduction and debugging</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/post-cpp-intro/</link>
+      <pubDate>Thu, 18 Nov 2021 16:39:35 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/post-cpp-intro/</guid>
+      <description>Thank you to Sofie for running the session today on a first introduction to C++. Judging by the engagement of the audience, this was a very useful meeting for everyone! The slides will appear soon on here.
+Apologies to those who couldn&amp;rsquo;t make the meeting today; we tried to record it, but had to give up after ten minutes of failure. Ironic, I know, that we were unsuccessful in using a computing technology here&amp;hellip; Hopefully the slides will provide a taster in substitute.</description>
+    </item>
+    
+    <item>
+      <title>Next meeting: introduction to C&#43;&#43;</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/cpp-intro/</link>
+      <pubDate>Thu, 11 Nov 2021 15:51:58 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/cpp-intro/</guid>
+      <description>Hi,
+Thank you again to Yannick for the two part shell and git introduction he has run the past two weeks. I hope the idea of the (Linux) shell as a development environment and the version control workflow provided by git started to make sense for everyone after a chance to put it into practice. Please feel welcome to continue to play around with this website as a sandbox.
+Next week, Sofie will very kindly be running an introduction to programming in C++.</description>
+    </item>
+    
+  </channel>
+</rss>

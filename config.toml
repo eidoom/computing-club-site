@@ -1,5 +1,5 @@
-baseURL = "https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/"
-publishDir = "public/computing-club"
+baseURL = "https://notes.dmaitre.phyip3.dur.ac.uk/"
+publishDir = "public/"
 languageCode = "en-gb"
 theme = "terminal"
 paginate = 5

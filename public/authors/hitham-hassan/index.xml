@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hitham Hassan on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/</link>
+    <description>Recent content in Hitham Hassan on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 25 Nov 2021 13:35:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to debugging `C&#43;&#43;` with `gdb`</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</link>
+      <pubDate>Thu, 25 Nov 2021 13:35:45 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</guid>
+      <description>The code and slides for Hitham&amp;lsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
+    </item>
+    
+  </channel>
+</rss>

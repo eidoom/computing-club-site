@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toolkits on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/toolkits/</link>
+    <description>Recent content in toolkits on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 04 Nov 2021 08:54:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/toolkits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toolkit I</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/toolkit/</link>
+      <pubDate>Thu, 04 Nov 2021 08:54:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/toolkit/</guid>
+      <description>In this session I discuss the basic toolkits everyone should know
+ the command line PATH git basics vim basics  For further reading, I suggest https://missing.csail.mit.edu/
+slides</description>
+    </item>
+    
+  </channel>
+</rss>

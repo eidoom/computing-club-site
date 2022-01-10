@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/</link>
+    <description>Recent content in Posts on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 12 Nov 2021 11:04:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A test post</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lois/</link>
+      <pubDate>Fri, 12 Nov 2021 11:04:55 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lois/</guid>
+      <description>This is a test of my ability to push to the website while ill, having sadly missed Comp Club this week. This is an unordered list of biscuits (I don&amp;rsquo;t want to be accused of bias):
+ Bourbons Dark chocolate digestives Jammy dodgers  </description>
+    </item>
+    
+    <item>
+      <title>Spookyoreos</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/spookyoreos/</link>
+      <pubDate>Thu, 11 Nov 2021 13:40:33 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/spookyoreos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dmilne</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/dmilne/</link>
+      <pubDate>Thu, 11 Nov 2021 13:30:52 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/dmilne/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Outreach Raspberry Pis 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis-2/</link>
+      <pubDate>Mon, 04 Nov 2019 11:06:02 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis-2/</guid>
+      <description>I thought I&amp;rsquo;d better record some of the stuff I did to address these issues.
+Updating Raspian from Jessie to Stretch This was simply a matter of changing the OS version in the sources files and running an update:
+sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list.d/raspi.list sudo apt update sudo apt -y dist-upgrade I also had to say yes or no to some prompts about changing configuration files to the new default or keeping the old customized one.</description>
+    </item>
+    
+    <item>
+      <title>Outreach Raspberry Pis</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis/</guid>
+      <description>Today was the first day of Celebrate Science 2019. Whilst taking a break from running our exhibit, I had a look at our Pis.
+Meet the Pis There are nine in total.
+Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. Apparently it was written by somebody called Sunil, anybody know that story? You just start the browser which automatically brings up the game as its starting page.</description>
+    </item>
+    
+    <item>
+      <title>Galton board code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/galton/</link>
+      <pubDate>Mon, 14 Oct 2019 16:41:02 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/galton/</guid>
+      <description>The code for the Raspberry Pi Galton board simulation is now on github. It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just send me an email with your github username and I&amp;rsquo;ll add you as a collaborator.</description>
+    </item>
+    
+    <item>
+      <title>Giuseppe vs HUGO</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/gdl/</link>
+      <pubDate>Mon, 14 Oct 2019 14:02:43 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/gdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ode to huel</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ode2huel/</link>
+      <pubDate>Mon, 14 Oct 2019 13:54:21 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ode2huel/</guid>
+      <description>Oh, I do love huel,
+Oh, unsweetened, unflavoured,
+How you spoil me&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hear Me Honk</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/image/</link>
+      <pubDate>Mon, 14 Oct 2019 13:38:34 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outreach is fun!</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lucy/</link>
+      <pubDate>Mon, 14 Oct 2019 13:35:18 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lucy/</guid>
+      <description>Everybody come to the outreach meeting at 3pm in the coffee area!</description>
+    </item>
+    
+    <item>
+      <title>Apple juice</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/apple_juice/</link>
+      <pubDate>Mon, 14 Oct 2019 13:35:12 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/apple_juice/</guid>
+      <description>A message from sun magic:
+Beware aliens found in certain apple juice bottles located in the durham area</description>
+    </item>
+    
+    <item>
+      <title>SURPRISE - another post!</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/new/</link>
+      <pubDate>Mon, 14 Oct 2019 13:34:38 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/new/</guid>
+      <description>Helllo! Who saw this coming?!?!</description>
+    </item>
+    
+    <item>
+      <title>Er ma gerd it works!!!</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ermagerd/</link>
+      <pubDate>Mon, 14 Oct 2019 13:28:03 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ermagerd/</guid>
+      <description>We did it ! Well done everyone - let&amp;rsquo;s go teamwork!</description>
+    </item>
+    
+    <item>
+      <title>Huel</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/huel/</link>
+      <pubDate>Mon, 14 Oct 2019 13:53:12 +0200</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/huel/</guid>
+      <description>This posts aims at sending my promo code away.</description>
+    </item>
+    
+    <item>
+      <title>Post two</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/post_two/</link>
+      <pubDate>Thu, 10 Oct 2019 16:08:56 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/post_two/</guid>
+      <description>Content.</description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/one/</link>
+      <pubDate>Thu, 10 Oct 2019 15:57:45 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/one/</guid>
+      <description>This is the content.</description>
+    </item>
+    
+    <item>
+      <title>i(pw)^3</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ippp/</guid>
+      <description>even people who missed computing club can do it</description>
+    </item>
+    
+  </channel>
+</rss>

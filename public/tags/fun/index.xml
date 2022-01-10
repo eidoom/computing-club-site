@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fun on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/fun/</link>
+    <description>Recent content in fun on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 14 Oct 2019 13:35:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outreach is fun!</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lucy/</link>
+      <pubDate>Mon, 14 Oct 2019 13:35:18 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/lucy/</guid>
+      <description>Everybody come to the outreach meeting at 3pm in the coffee area!</description>
+    </item>
+    
+    <item>
+      <title>Er ma gerd it works!!!</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ermagerd/</link>
+      <pubDate>Mon, 14 Oct 2019 13:28:03 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/ermagerd/</guid>
+      <description>We did it ! Well done everyone - let&amp;rsquo;s go teamwork!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>galton-board on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/galton-board/</link>
+    <description>Recent content in galton-board on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 04 Nov 2019 11:06:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/galton-board/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outreach Raspberry Pis 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis-2/</link>
+      <pubDate>Mon, 04 Nov 2019 11:06:02 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis-2/</guid>
+      <description>I thought I&amp;rsquo;d better record some of the stuff I did to address these issues.
+Updating Raspian from Jessie to Stretch This was simply a matter of changing the OS version in the sources files and running an update:
+sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list sudo sed -i &amp;#34;s/jessie/stretch/g&amp;#34; /etc/apt/sources.list.d/raspi.list sudo apt update sudo apt -y dist-upgrade I also had to say yes or no to some prompts about changing configuration files to the new default or keeping the old customized one.</description>
+    </item>
+    
+    <item>
+      <title>Outreach Raspberry Pis</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis/</link>
+      <pubDate>Tue, 29 Oct 2019 19:26:34 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/outreach-raspberry-pis/</guid>
+      <description>Today was the first day of Celebrate Science 2019. Whilst taking a break from running our exhibit, I had a look at our Pis.
+Meet the Pis There are nine in total.
+Four have stands in the horizontal/landscape configuration. Yesterday, Henry and I found that three of these run the NuOdyssey game locally. Apparently it was written by somebody called Sunil, anybody know that story? You just start the browser which automatically brings up the game as its starting page.</description>
+    </item>
+    
+    <item>
+      <title>Galton board code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</link>
+      <pubDate>Mon, 21 Oct 2019 13:25:33 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/sessions/galton-board-code/</guid>
+      <description>Ideas for improving the Galton board software  Mass of balls Size of balls Size of pins Width of barriers Fix lag  Due to N=300?   Deploy on Pis from GitHub repo, automate updates Get light gates working Somehow show effect of large N  If performance is an issue, pre-calculate   Add option to drip feed balls into simulation Check dependencies Add sliders to change physical parameters Change gravity on the fly?</description>
+    </item>
+    
+    <item>
+      <title>Galton board software 2</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software-2/</link>
+      <pubDate>Mon, 21 Oct 2019 12:39:42 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software-2/</guid>
+      <description>Find the code here.</description>
+    </item>
+    
+    <item>
+      <title>Galton board software</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software/</link>
+      <pubDate>Mon, 21 Oct 2019 12:36:08 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/galton-board-software/</guid>
+      <description>Hi everyone,
+in today&amp;rsquo;s session we are going to very briefly have a look at the repo with the software used for outreach (Galton board).
+Afterwards there will be plenty of time to discuss other things, so if you have any computing problem please bring it along! We might help solving it and it&amp;rsquo;s probably useful for everyone to learn something new :)
+We are meeting in OC103 at 1pm.</description>
+    </item>
+    
+    <item>
+      <title>Galton board code</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/posts/galton/</link>
+      <pubDate>Mon, 14 Oct 2019 16:41:02 +0100</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/posts/galton/</guid>
+      <description>The code for the Raspberry Pi Galton board simulation is now on github. It&amp;rsquo;s currently entirely David Grellscheid&amp;rsquo;s work so I don&amp;rsquo;t intend to make the repository public, but anyone who&amp;rsquo;d like to work on improving the code is welcome to do so &amp;ndash; just send me an email with your github username and I&amp;rsquo;ll add you as a collaborator.</description>
+    </item>
+    
+  </channel>
+</rss>

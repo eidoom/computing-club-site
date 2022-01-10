@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/shell/</link>
+    <description>Recent content in shell on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Nov 2021 15:51:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next meeting: introduction to C&#43;&#43;</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/cpp-intro/</link>
+      <pubDate>Thu, 11 Nov 2021 15:51:58 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/cpp-intro/</guid>
+      <description>Hi,
+Thank you again to Yannick for the two part shell and git introduction he has run the past two weeks. I hope the idea of the (Linux) shell as a development environment and the version control workflow provided by git started to make sense for everyone after a chance to put it into practice. Please feel welcome to continue to play around with this website as a sandbox.
+Next week, Sofie will very kindly be running an introduction to programming in C++.</description>
+    </item>
+    
+  </channel>
+</rss>

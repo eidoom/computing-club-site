@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>environment on Computing Club</title>
+    <link>https://notes.dmaitre.phyip3.dur.ac.uk/tags/environment/</link>
+    <description>Recent content in environment on Computing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://notes.dmaitre.phyip3.dur.ac.uk/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covering the basics</title>
+      <link>https://notes.dmaitre.phyip3.dur.ac.uk/updates/basics/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.dmaitre.phyip3.dur.ac.uk/updates/basics/</guid>
+      <description>Computing club&amp;rsquo;s on tomorrow Thurs 4 Nov 1300 GMT in OC218 and via Zoom.
+Yannick will be giving an introduction to the efficient computing environment, briefly covering basic shell usage and then focussing on the use of Git for version control of software.
+The slides etc can be found in Yannick&amp;rsquo;s repository which will be live by tomorrow, and the session will also involve hands-on work involving the computing club website.</description>
+    </item>
+    
+  </channel>
+</rss>

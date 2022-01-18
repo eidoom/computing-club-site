@@ -221,7 +221,7 @@
 </ul>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo new sessions/NAME.md
 </code></pre></div><ul>
-<li>Edit the metadata within the <code>+++</code>'s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file</li>
+<li>Edit the metadata within the <code>+++</code>&rsquo;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file</li>
 </ul>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">vim content/sessions/NAME.md
 </code></pre></div><p>The metadata field <code>cover</code> should point at the cover image for your page. Add the image file to <code>static/img</code> along with any other images (or other media files) you include. Note that the path should not include <code>static</code> as the contents of static are put into the root of the compiled website. So for a cover image at <code>static/img/COVER.png</code>, the metadata field <code>cover</code> should be the path <code>&quot;img/COVER.png&quot;</code>.</p>

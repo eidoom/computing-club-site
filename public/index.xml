@@ -6,7 +6,7 @@
     <description>Recent content on Computing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0100</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 14:21:07 +0000</lastBuildDate><atom:link href="https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Winter break</title>
       <link>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/xmas/</link>
@@ -106,8 +106,8 @@ Next week, we&amp;rsquo;ll be trying out some festive coding challenges.</descri
       <pubDate>Thu, 25 Nov 2021 13:35:45 +0000</pubDate>
       
       <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/gdb-intro/</guid>
-      <description>The code and slides for Hitham&amp;lsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
-      <content>&lt;p&gt;The code and slides for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt;&amp;lsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.
+      <description>The code and slides for Hitham&amp;rsquo;s session today on basic gdb debugging of C++ can be found at Hitham2496/Computing-Talks. There&amp;rsquo;s also a recording of the meeting here.</description>
+      <content>&lt;p&gt;The code and slides for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/hitham-hassan/&#34;&gt;Hitham&lt;/a&gt;&amp;rsquo;s session today on basic &lt;code&gt;gdb&lt;/code&gt; debugging of &lt;code&gt;C++&lt;/code&gt; can be found at &lt;a href=&#34;https://github.com/Hitham2496/Computing-Talks&#34;&gt;&lt;code&gt;Hitham2496/Computing-Talks&lt;/code&gt;&lt;/a&gt;.
 There&amp;rsquo;s also a recording of the meeting &lt;a href=&#34;https://durhamuniversity-my.sharepoint.com/:v:/g/personal/jndn32_durham_ac_uk/ERth0bjbwXZOmjy0caqrP-ABULr7mSGpnLZYcSvD7lmI8A?e=KkpVdK&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
@@ -118,8 +118,8 @@ There&amp;rsquo;s also a recording of the meeting &lt;a href=&#34;https://durham
       <pubDate>Thu, 25 Nov 2021 13:26:07 +0000</pubDate>
       
       <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/cpp-intro/</guid>
-      <description>The slides for Sofie&amp;lsquo;s talk last week on introductory C++ can be accessed here.</description>
-      <content>&lt;p&gt;The slides for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt;&amp;lsquo;s talk last week on introductory &lt;code&gt;C++&lt;/code&gt; can be accessed &lt;a href=&#34;../../img/C_intro_slides.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>The slides for Sofie&amp;rsquo;s talk last week on introductory C++ can be accessed here.</description>
+      <content>&lt;p&gt;The slides for &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/sofie-erner/&#34;&gt;Sofie&lt;/a&gt;&amp;rsquo;s talk last week on introductory &lt;code&gt;C++&lt;/code&gt; can be accessed &lt;a href=&#34;../../img/C_intro_slides.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -694,9 +694,9 @@ You might then have to follow authorisation instructions which may be emailed ba
 &lt;p&gt;You might then have to follow authorisation instructions which may be emailed back to you.
 Ensure all emails you send have a plain text body; authorisation will not work with HTML emails.
 After authorisation or otherwise, you will receive a confirmation email.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;lsquo;s in charge of the mailing list; speak to him if there are any problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the mailing list; speak to him if there are any problems.&lt;/p&gt;
 &lt;h4 id=&#34;website&#34;&gt;Website&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;lsquo;s in charge of the website, the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;source of which can be found on GitHub&lt;/a&gt;; speak to him if you would like write permission. Alternatively, fork and submit a pull request.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/authors/ryan-moodie/&#34;&gt;Ryan&lt;/a&gt;&amp;rsquo;s in charge of the website, the &lt;a href=&#34;https://github.com/eidoom/computing-club-site&#34;&gt;source of which can be found on GitHub&lt;/a&gt;; speak to him if you would like write permission. Alternatively, fork and submit a pull request.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/sessions/static-website-generation-with-hugo/&#34;&gt;guide&lt;/a&gt; for adding posts.&lt;/p&gt;
 &lt;p&gt;We also have &lt;a href=&#34;http://shrieking-asylum-67258.herokuapp.com/&#34;&gt;a dynamic website&lt;/a&gt; from &lt;a href=&#34;https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/updates/dynamic-websites-with-the-men-stack/&#34;&gt;a previous project&lt;/a&gt; that you&amp;rsquo;re welcome to use too.
 However, the website you&amp;rsquo;re on now is currently our primary resource.&lt;/p&gt;
@@ -715,7 +715,7 @@ The format is hybrid; the video conference link is circulated over the mailing l
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>https://computing-club.notes.dmaitre.phyip3.dur.ac.uk/topics/</guid>
-      <description>Topic ideas New ideas  Basic shell usage (Yannick) Basic git (Yannick) Basic C++ (Sofie) Python package management (Ryan) Basic gdb (Hitham) Advent of Code 2021 (Ryan) Quantum computing algorithms (Mia) Continuous integration (Hitham) McMule (Yannick) Advanced C++ (Ryan) Unit tests (Stephen) CUDA (Stephen) Cybersecurity: recent university randomware attacks Public-key encryption Set up continuous deployment for this website  Old ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
+      <description>Topic ideas New ideas  Basic shell usage (Yannick) Basic git (Yannick) Basic C++ (Sofie) Python package management (Ryan) Basic gdb (Hitham) Advent of Code 2021 (Ryan) Quantum computing algorithms (Mia) Continuous integration (Hitham) McMule (Yannick) Advanced shell usage (Yannick) Mathematica (basic and/or advanced) (Yannick (et al.)) Advanced C++ (Ryan) Unit tests (Stephen) CUDA (Stephen) Exit from C++ (Stephen) Cybersecurity: recent university randomware attacks Public-key encryption Set up continuous deployment for this website  Old ideas  Cython Flask Github submodules R Pytest Continuous integration Using git to its full potential  Old old ideas  Using numpy Software Design Principles Frameworks for interactive websites Continuous integration (Jenkins, &amp;hellip;) Vectorization Trelloh Languages (go, lisp, &amp;hellip;) Hepforge LDAP Databases (lmdb, redis, noSQL, interfaces to programming languages) GPGPU (cuda) C++ XY Compilers, compiler options Version control Debugging, profiling Documentation tools Editors, IDEs (jupyter) Random number generators (Mersenne twister, RanLux, MIXMAX, &amp;hellip;) Machine learning (regularisation,&amp;hellip;) Virtualization, docker, ansible, puppet, kubernetes ROOT Testing frameworks (pytest, unittest, google test?</description>
       <content>&lt;h1 id=&#34;topic-ideas&#34;&gt;Topic ideas&lt;/h1&gt;
 &lt;h4 id=&#34;new-ideas&#34;&gt;New ideas&lt;/h4&gt;
 &lt;ul&gt;
@@ -727,10 +727,13 @@ The format is hybrid; the video conference link is circulated over the mailing l
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt; (Ryan)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Quantum computing algorithms (Mia)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Continuous integration (Hitham)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; McMule (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://mule-tools.gitlab.io/&#34;&gt;McMule&lt;/a&gt; (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Advanced &lt;code&gt;shell&lt;/code&gt; usage (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Mathematica (basic and/or advanced) (Yannick (et al.))&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Advanced &lt;code&gt;C++&lt;/code&gt; (Ryan)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Unit tests (Stephen)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CUDA (Stephen)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Exit from &lt;code&gt;C++&lt;/code&gt; (Stephen)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Cybersecurity: recent university randomware attacks&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Public-key encryption&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set up continuous deployment for this website&lt;/li&gt;
@@ -1017,7 +1020,7 @@ Here&amp;rsquo;s how you can add your sessions to the site:
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;hugo new sessions/NAME.md
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Edit the metadata within the &lt;code&gt;+++&lt;/code&gt;&#39;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file&lt;/li&gt;
+&lt;li&gt;Edit the metadata within the &lt;code&gt;+++&lt;/code&gt;&amp;rsquo;s at the top using TOML notation and write the body of your page in Markdown at the bottom of the file&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim content/sessions/NAME.md
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The metadata field &lt;code&gt;cover&lt;/code&gt; should point at the cover image for your page. Add the image file to &lt;code&gt;static/img&lt;/code&gt; along with any other images (or other media files) you include. Note that the path should not include &lt;code&gt;static&lt;/code&gt; as the contents of static are put into the root of the compiled website. So for a cover image at &lt;code&gt;static/img/COVER.png&lt;/code&gt;, the metadata field &lt;code&gt;cover&lt;/code&gt; should be the path &lt;code&gt;&amp;quot;img/COVER.png&amp;quot;&lt;/code&gt;.&lt;/p&gt;

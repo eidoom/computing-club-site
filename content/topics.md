@@ -17,10 +17,13 @@ layout = "topics"
 * [x] [Advent of Code 2021](https://adventofcode.com/2021) (Ryan)
 * [ ] Quantum computing algorithms (Mia)
 * [ ] Continuous integration (Hitham)
-* [ ] McMule (Yannick)
+* [ ] [McMule](https://mule-tools.gitlab.io/) (Yannick)
+* [ ] Advanced `shell` usage (Yannick)
+* [ ] Mathematica (basic and/or advanced) (Yannick (et al.))
 * [ ] Advanced `C++` (Ryan)
 * [ ] Unit tests (Stephen)
 * [ ] CUDA (Stephen)
+* [ ] Exit from `C++` (Stephen)
 * [ ] Cybersecurity: recent university randomware attacks
 * [ ] Public-key encryption
 * [ ] Set up continuous deployment for this website

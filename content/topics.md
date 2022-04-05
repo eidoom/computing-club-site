@@ -17,7 +17,7 @@ layout = "topics"
 * [x] [Advent of Code 2021](https://adventofcode.com/2021) (Ryan)
 * [ ] Quantum computing algorithms (Mia)
 * [ ] Continuous integration (Hitham)
-* [ ] [McMule](https://mule-tools.gitlab.io/) (Yannick)
+* [x] [McMule](https://mule-tools.gitlab.io/) (Yannick)
 * [ ] Advanced `shell` usage (Yannick)
 * [ ] Mathematica (basic and/or advanced) (Yannick (et al.))
 * [ ] Advanced `C++` (Ryan)

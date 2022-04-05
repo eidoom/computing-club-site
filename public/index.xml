@@ -727,7 +727,7 @@ The format is hybrid; the video conference link is circulated over the mailing l
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://adventofcode.com/2021&#34;&gt;Advent of Code 2021&lt;/a&gt; (Ryan)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Quantum computing algorithms (Mia)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Continuous integration (Hitham)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://mule-tools.gitlab.io/&#34;&gt;McMule&lt;/a&gt; (Yannick)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://mule-tools.gitlab.io/&#34;&gt;McMule&lt;/a&gt; (Yannick)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Advanced &lt;code&gt;shell&lt;/code&gt; usage (Yannick)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Mathematica (basic and/or advanced) (Yannick (et al.))&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Advanced &lt;code&gt;C++&lt;/code&gt; (Ryan)&lt;/li&gt;
